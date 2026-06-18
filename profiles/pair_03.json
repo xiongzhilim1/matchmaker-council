@@ -1,0 +1,24 @@
+{
+  "pair_id": "pair_03",
+  "design_note": "Clean NO anchor — but the no-ness comes from a STATED, explicit non-negotiable (Tom: no kids ever). Tests whether the system grounds the dealbreaker in what the person actually declared, rather than inventing one. Per the human label: children only binds because Tom explicitly frames it as non-negotiable.",
+  "person_a": {
+    "name": "Tom",
+    "age": 38,
+    "summary": "Documentary filmmaker, kind and engaged; explicitly and firmly does not want children, ever.",
+    "values": {"faith": "Agnostic; flexible.", "family": "EXPLICIT, NON-NEGOTIABLE: does not want children under any circumstances; states this is a firm dealbreaker, not a maybe.", "career": "Mobile, project-based life he loves."},
+    "attraction": {"stated_type": "Drawn to creative, warm women.", "self_described_spark_with_b": "Strong — genuine warmth and chemistry; they adore each other."},
+    "emotional_profile": {"maturity": "High — direct, honest, repairs well.", "attachment_style": "Secure.", "growth_orientation": "High — reflective and open."},
+    "life_stage": "Settled in a child-free life by firm choice.",
+    "dealbreakers": ["Any expectation that he will have children — stated as absolute and non-negotiable"]
+  },
+  "person_b": {
+    "name": "Lena",
+    "age": 34,
+    "summary": "Pediatric speech therapist, warm and nurturing; deeply wants to be a mother (3 kids).",
+    "values": {"faith": "Spiritual; flexible.", "family": "Deeply wants children — envisions 3; motherhood is central to her life vision.", "career": "Loves her work; wants to balance it with raising a family."},
+    "attraction": {"stated_type": "Drawn to creative, grounded men.", "self_described_spark_with_a": "Strong — they delight in each other."},
+    "emotional_profile": {"maturity": "High — communicates and repairs well.", "attachment_style": "Secure.", "growth_orientation": "High."},
+    "life_stage": "Ready for family; motherhood is a core, stated life goal.",
+    "dealbreakers": ["A partner who does not want children"]
+  }
+}

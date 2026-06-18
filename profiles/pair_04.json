@@ -1,0 +1,24 @@
+{
+  "pair_id": "pair_04",
+  "design_note": "Ambiguous middle. Aligned on values/timeline, BOTH high maturity & growth, but attraction is currently mild/'not yet'. Per human label: conditional leaning YES, because spark can be cultivated as depth, values, and character are seen over time. Tests whether the system treats attraction as cultivable (not a fixed input) when character is strong.",
+  "person_a": {
+    "name": "Ade",
+    "age": 33,
+    "summary": "Civil engineer, thoughtful and steady, faith-flexible, wants family in a few years.",
+    "values": {"faith": "Open, lightly spiritual; respects partner's path.", "family": "Wants kids in a few years; family-oriented.", "career": "Stable, balanced."},
+    "attraction": {"stated_type": "Drawn to kind, substantive people; slow burn.", "self_described_spark_with_b": "Mild so far — comfortable and warm, but no fireworks yet; says 'it could grow'."},
+    "emotional_profile": {"maturity": "High — self-aware, repairs, low ego.", "attachment_style": "Secure.", "growth_orientation": "High — actively works on himself; open to feedback."},
+    "life_stage": "Ready to build a life; patient.",
+    "dealbreakers": ["Cruelty", "Closed-heartedness"]
+  },
+  "person_b": {
+    "name": "Joy",
+    "age": 31,
+    "summary": "Nonprofit program lead, gentle and wise, faith-flexible, aligned life vision.",
+    "values": {"faith": "Lightly spiritual; aligned with Ade.", "family": "Wants kids in a few years.", "career": "Mission-driven; balanced."},
+    "attraction": {"stated_type": "Drawn to depth and character over instant chemistry.", "self_described_spark_with_a": "Mild but warming — finds him more attractive as she sees his character; believes attraction can deepen."},
+    "emotional_profile": {"maturity": "High — emotionally fluent, repairs gracefully.", "attachment_style": "Secure.", "growth_orientation": "High — reflective, growth-committed."},
+    "life_stage": "Ready; values slow, deep building.",
+    "dealbreakers": ["Dishonesty", "Stagnation"]
+  }
+}

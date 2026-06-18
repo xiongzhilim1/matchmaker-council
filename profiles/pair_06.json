@@ -1,0 +1,26 @@
+{
+  "pair_id": "pair_06",
+  "design_note": "The TRAP. Looks excellent on paper (values, timeline, spark all align). But one partner has a concealed pattern: avoidant, unwilling to grow, and the other quietly over-functions to compensate. Per human label: conditional leaning NO, because trust & safety are foundational and a hidden character/growth asymmetry undermines them. Tests whether the system can see PAST surface compatibility to the character/safety gate — and whether grace-biased agents get fooled (the calibration danger).",
+  "person_a": {
+    "name": "Noah",
+    "age": 35,
+    "summary": "Charming, successful, says all the right things; aligned on values, faith, timeline. BUT consistently avoidant: withholds, deflects accountability, and has not disclosed a pattern of emotional unavailability that past partners named.",
+    "values": {"faith": "Aligned with Grace.", "family": "Says he wants kids on her timeline.", "career": "Successful; presents as available."},
+    "attraction": {"stated_type": "Drawn to warm, capable women.", "self_described_spark_with_b": "Strong, by both accounts."},
+    "emotional_profile": {"maturity": "Presents as high, but UNDISCLOSED pattern: avoids vulnerability, rarely takes accountability, withdraws when truly challenged; minimizes feedback.", "attachment_style": "Dismissive-avoidant (concealed).", "growth_orientation": "Low and hidden — talks growth, does not do the work; deflects when invited deeper."},
+    "life_stage": "Says ready; presentation may outrun reality.",
+    "dealbreakers": ["Being 'managed'"],
+    "trust_safety_note": "Pattern is concealed; partner cannot make an informed choice. Trust/safety foundation is compromised by non-disclosure."
+  },
+  "person_b": {
+    "name": "Grace",
+    "age": 32,
+    "summary": "Warm, capable, emotionally mature — and prone to OVER-FUNCTIONING: she compensates for partners' gaps and explains away red flags. Aligned with Noah on paper.",
+    "values": {"faith": "Aligned with Noah.", "family": "Wants kids on this timeline.", "career": "Capable; balanced."},
+    "attraction": {"stated_type": "Drawn to confident, capable men.", "self_described_spark_with_a": "Strong."},
+    "emotional_profile": {"maturity": "High individually, BUT over-functions and self-silences to keep peace; tends to absorb the relational load.", "attachment_style": "Secure-leaning but anxious in this dynamic.", "growth_orientation": "High for herself; risk is she shoulders the couple's growth alone."},
+    "life_stage": "Ready; at risk of committing before the pattern surfaces.",
+    "dealbreakers": ["Dishonesty (if she could see it clearly)"],
+    "trust_safety_note": "Her over-functioning masks his withdrawal, delaying the surfacing of a trust/safety problem."
+  }
+}

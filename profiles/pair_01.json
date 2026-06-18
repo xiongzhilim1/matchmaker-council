@@ -1,0 +1,46 @@
+{
+  "pair_id": "pair_01",
+  "design_note": "Engineered for REAL tension: strong spark + aligned life-stage, but a faith mismatch and a meaningful gap in emotional maturity/repair capacity. There is no clean yes/no — exactly the case where a weighted sum would lie and a council must deliberate.",
+  "person_a": {
+    "name": "Maya",
+    "age": 31,
+    "summary": "Pediatric nurse, warm and high-energy, deeply practicing Catholic, wants children within a few years.",
+    "values": {
+      "faith": "Devout Catholic; faith is central; wants to raise children in the church.",
+      "family": "Very family-oriented; wants 2-3 kids; close to extended family.",
+      "career": "Loves her work but sees family as the priority over career advancement."
+    },
+    "attraction": {
+      "stated_type": "Drawn to witty, grounded, physically active men.",
+      "self_described_spark_with_b": "Strong — they make each other laugh, intense physical chemistry on first meetings."
+    },
+    "emotional_profile": {
+      "maturity": "High — names her feelings, apologizes quickly, seeks repair after conflict.",
+      "attachment_style": "Secure with mild anxious tendencies under stress.",
+      "growth_orientation": "High — reads, journals, has done therapy, welcomes feedback."
+    },
+    "life_stage": "Ready to settle down within 1-2 years; financially stable.",
+    "dealbreakers": ["Someone unwilling to raise kids with faith", "Emotional unavailability"]
+  },
+  "person_b": {
+    "name": "Daniel",
+    "age": 33,
+    "summary": "Startup product lead, sharp and funny, agnostic/secular humanist, ambivalent about kids and timeline.",
+    "values": {
+      "faith": "Agnostic; respects religion but does not practice; uneasy about raising kids religiously.",
+      "family": "Open to kids 'someday' but not urgent; somewhat distant from his own family.",
+      "career": "Career is currently the center of gravity; in an intense startup phase."
+    },
+    "attraction": {
+      "stated_type": "Drawn to warm, expressive, optimistic women.",
+      "self_described_spark_with_a": "Strong — finds her warmth magnetic, very physically attracted."
+    },
+    "emotional_profile": {
+      "maturity": "Moderate-low — tends to withdraw/stonewall under conflict, slow to apologize.",
+      "attachment_style": "Avoidant-leaning; intellectualizes feelings.",
+      "growth_orientation": "Mixed — curious and self-aware in theory, but rarely acts on feedback; 'too busy right now'."
+    },
+    "life_stage": "Says he wants a relationship but timeline is fuzzy; consumed by work for the next 2-3 years.",
+    "dealbreakers": ["Pressure to commit on a fixed timeline", "Feeling judged for not being religious"]
+  }
+}

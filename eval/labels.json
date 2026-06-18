@@ -1,0 +1,55 @@
+{
+  "_note": "Ground truth signed off by the human. The hill is measured against THESE labels, not any model's opinion. Verdict bands and confidence bands reflect a 'growth & grace' worldview, balanced at runtime by an adversarial RealityCheck agent.",
+  "verdict_bands": {
+    "match": {"ok_decisions": ["match"]},
+    "conditional_yes": {"ok_decisions": ["match", "conditional"], "lean": "yes"},
+    "conditional": {"ok_decisions": ["conditional"]},
+    "conditional_no": {"ok_decisions": ["conditional", "not_a_match"], "lean": "no"},
+    "not_a_match": {"ok_decisions": ["not_a_match"]}
+  },
+  "pairs": {
+    "pair_01": {
+      "names": "Maya & Daniel",
+      "binding_constraint": "faith_and_childrearing_dealbreaker_amplified_by_low_repair",
+      "binding_constraint_keywords": ["faith", "catholic", "children", "kids", "raise", "timeline", "repair", "withdraw"],
+      "verdict_band": "not_a_match",
+      "confidence_band": [0.75, 0.9]
+    },
+    "pair_02": {
+      "names": "Sam & Priya",
+      "binding_constraint": "none_binding_broad_alignment_high_growth",
+      "binding_constraint_keywords": ["aligned", "growth", "mature", "repair", "timeline", "values"],
+      "verdict_band": "match",
+      "confidence_band": [0.8, 0.95]
+    },
+    "pair_03": {
+      "names": "Tom & Lena",
+      "binding_constraint": "children_dealbreaker_ONLY_IF_explicitly_stated_as_nonnegotiable_else_conditional",
+      "binding_constraint_keywords": ["children", "kids", "dealbreaker", "non-negotiable", "stated", "explicit"],
+      "verdict_band": "not_a_match",
+      "confidence_band": [0.85, 0.95],
+      "label_logic": "Tom DOES state no-kids as a hard, non-negotiable dealbreaker in this profile, so it binds -> not_a_match. If neither had stated it as non-negotiable, correct answer would be conditional. A great judgment must cite the STATED dealbreaker, not assume one."
+    },
+    "pair_04": {
+      "names": "Ade & Joy",
+      "binding_constraint": "low_spark_offset_by_strong_character_growth_spark_is_cultivable",
+      "binding_constraint_keywords": ["spark", "attraction", "cultivate", "grow", "character", "maturity", "depth", "values"],
+      "verdict_band": "conditional_yes",
+      "confidence_band": [0.4, 0.6]
+    },
+    "pair_05": {
+      "names": "Ravi & Mei",
+      "binding_constraint": "low_maturity_redeemable_through_faith_and_external_counsel_community",
+      "binding_constraint_keywords": ["maturity", "repair", "faith", "god", "counsel", "community", "support", "over time"],
+      "verdict_band": "conditional_yes",
+      "confidence_band": [0.5, 0.7]
+    },
+    "pair_06": {
+      "names": "Noah & Grace",
+      "binding_constraint": "undisclosed_avoidant_nongrowth_pattern_undermines_trust_and_safety",
+      "binding_constraint_keywords": ["trust", "safety", "undisclosed", "hidden", "avoidant", "over-function", "growth", "concealed"],
+      "verdict_band": "conditional_no",
+      "confidence_band": [0.55, 0.7]
+    }
+  }
+}

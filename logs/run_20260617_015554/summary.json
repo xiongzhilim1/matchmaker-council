@@ -1,0 +1,22 @@
+{
+  "run_id": "run_20260617_015554",
+  "model": "gpt-5-mini",
+  "rounds_run": 2,
+  "hill_history": [
+    0.7880703132039049,
+    0.8007404392870934
+  ],
+  "verdict": {
+    "decision": "not_a_match",
+    "confidence": 0.86,
+    "headline": "Powerful chemistry and mutual warmth cannot overcome a core, long-term clash about faith, childrearing timeline, and a sustained gap in repair capacity.",
+    "rationale": "Strengths: the pair has clear, mutual physical and emotional spark—warmth, laughter, and immediate attraction that can create a joyful, energizing relationship early on. Maya is emotionally mature, repair-oriented, and clear about her timeline and parenting values. Live tensions: Maya’s devout Catholic identity and explicit dealbreaker (raising children in the Church soon) directly conflicts with Daniel’s agnosticism and stated unease about religious parenting. He also has a fuzzy timeline and a career phase that keeps him unavailable for the 1–2 year family horizon Maya needs. Character as a multiplier: Maya’s high growth orientation can buffer problems, but Daniel’s avoidant conflict habits, slow apologies, and ‘too busy’ stance significantly reduce the couple’s durable repair capacity. What would have to change: Daniel would need to make a genuine, sustained shift—either embracing committed Catholic childrearing and an accelerated family timeline or clearly stepping out of a partnered parenting path—and engage in consistent therapeutic work to stop withdrawing. Those are deep identity and behavioral shifts; without them, the faith + timeline gap is a realistic, chronic dealbreaker. Given that, counseling or continuing to date casually is unlikely to deliver a long-term fit.",
+    "open_tensions": [
+      "Faith and how to raise children (central identity vs. unease)",
+      "Mismatched timelines for kids (1–2 years vs. 2–3+ years and career focus)",
+      "Daniel’s avoidant withdrawal vs. Maya’s high-repair expectations",
+      "Daniel’s resistance to feeling judged for religion",
+      "Strong mutual attraction that could prolong ambiguity"
+    ]
+  }
+}

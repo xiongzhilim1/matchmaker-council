@@ -1,0 +1,22 @@
+{
+  "run_id": "run_20260617_015936",
+  "model": "gpt-5-mini",
+  "rounds_run": 2,
+  "hill_history": [
+    0.5988546695462095,
+    0.9136611263763357
+  ],
+  "verdict": {
+    "decision": "conditional",
+    "confidence": 0.87,
+    "headline": "There is electric chemistry, but this is a conditional pairing: only if Daniel makes concrete, sustained commitments around faith, timeline for children, and emotional repair could this become a real match.",
+    "rationale": "Strengths: Maya and Daniel have palpable mutual attraction, warm rapport, and similar age/stage energies — Maya’s readiness to settle and clear parenting goals creates a strong, coherent life-plan on her side. Maya also brings high emotional maturity and a growth orientation that supports healthy relationship work. Live tensions: faith and childrearing are explicit, core differences (Maya’s stated dealbreaker), compounded by conflicting timelines (Maya wants kids in 1–2 years; Daniel is ambivalent and career-occupied). Emotionally, Maya seeks timely repair; Daniel tends to withdraw, stonewall, and defer growth. Character multiplier: Maya’s maturity and repair habits are a stabilizer, but long-term viability rests on Daniel’s willingness to change. Right now he is theoretically curious but behaviorally disengaged. What would have to change: Daniel must explicitly accept a parenting plan that honors Maya’s wish to raise children Catholic (or both must negotiate an acceptable compromise), clarify and commit to an aligned timeline, and engage in consistent emotional work (therapy/coaching + concrete repair routines) to resolve withdrawal patterns. Without those concrete, sustained shifts, the faith/timeline gap is a dealbreaker and the relationship will repeatedly trigger unmet needs.",
+    "open_tensions": [
+      "Maya’s requirement to raise children Catholic vs Daniel’s agnosticism/unease",
+      "Mismatched timelines for having kids (1–2 years vs indeterminate/2–3 years of work focus)",
+      "Daniel’s avoidant conflict style vs Maya’s need for prompt repair and emotional connection",
+      "Unequal growth orientations: Maya actively works on herself; Daniel defers due to workload/ambivalence",
+      "Day‑to‑day parenting and family-involvement expectations (grandparents, church life) vs Daniel’s distance from family"
+    ]
+  }
+}

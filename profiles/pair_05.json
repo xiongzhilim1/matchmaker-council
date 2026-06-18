@@ -1,0 +1,26 @@
+{
+  "pair_id": "pair_05",
+  "design_note": "Ambiguous middle. Strong spark + aligned (shared) faith, but BOTH currently low in maturity / poor repair and somewhat rigid. Per human label: conditional leaning YES, because shared faith and God can help them grow past low maturity OVER TIME, and CONDITIONAL on having counsel/community around them. Tests whether the system credits external support (faith, counsel, community) as a real lever on growth, rather than assuming people change alone.",
+  "person_a": {
+    "name": "Ravi",
+    "age": 28,
+    "summary": "Engineer, passionate and devout, shared faith with Mei, but conflict-avoidant and proud.",
+    "values": {"faith": "Devout; faith is central; shares Mei's tradition and community.", "family": "Wants kids; family-centric.", "career": "Ambitious but faith comes first."},
+    "attraction": {"stated_type": "Drawn to expressive, faithful women.", "self_described_spark_with_b": "Strong mutual spark."},
+    "emotional_profile": {"maturity": "Low-moderate — slow to apologize, gets defensive, avoids hard talks.", "attachment_style": "Anxious-avoidant mix.", "growth_orientation": "Low-moderate now, BUT open to growing through faith and mentorship; has a pastor/mentor and small group."},
+    "life_stage": "Ready to commit; embedded in a faith community.",
+    "dealbreakers": ["Contempt", "Abandoning faith"],
+    "support_context": "Both are embedded in an active faith community with a mentor couple and regular counsel available."
+  },
+  "person_b": {
+    "name": "Mei",
+    "age": 27,
+    "summary": "Teacher, warm and devout, shares Ravi's faith, but reactive and quick-tempered under stress.",
+    "values": {"faith": "Devout; same tradition and community as Ravi; central to life.", "family": "Wants kids; family-oriented.", "career": "Loves teaching; family-first."},
+    "attraction": {"stated_type": "Drawn to grounded, faithful men.", "self_described_spark_with_a": "Strong."},
+    "emotional_profile": {"maturity": "Low-moderate — reactive, struggles to self-soothe, but remorseful after.", "attachment_style": "Anxious.", "growth_orientation": "Low-moderate now, but earnestly wants to grow; leans on faith and the mentor couple."},
+    "life_stage": "Ready to commit; same community.",
+    "dealbreakers": ["Cruelty", "Leaving the faith"],
+    "support_context": "Shared faith community, mentor couple, and access to pastoral counseling."
+  }
+}

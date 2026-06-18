@@ -1,0 +1,24 @@
+{
+  "pair_id": "pair_02",
+  "design_note": "Clean YES anchor. Broad alignment + both high in maturity and growth. Tests that the system can confidently endorse a strong match without manufacturing problems.",
+  "person_a": {
+    "name": "Sam",
+    "age": 30,
+    "summary": "Secular high-school teacher, calm and warm, wants kids in ~2 years.",
+    "values": {"faith": "Secular humanist; not religious; open and respectful.", "family": "Wants 2 kids within a couple of years; close to family.", "career": "Values work-life balance; family is a clear priority."},
+    "attraction": {"stated_type": "Drawn to kind, witty, steady partners.", "self_described_spark_with_b": "Strong and steady — easy laughter, consistent attraction that's grown over months."},
+    "emotional_profile": {"maturity": "High — communicates needs clearly, repairs quickly, low defensiveness.", "attachment_style": "Secure.", "growth_orientation": "High — in regular therapy, reads, acts on feedback."},
+    "life_stage": "Ready to commit and start a family within ~2 years; stable.",
+    "dealbreakers": ["Dishonesty", "Unwillingness to communicate"]
+  },
+  "person_b": {
+    "name": "Priya",
+    "age": 29,
+    "summary": "Secular UX designer, warm and direct, also wants kids in ~2 years.",
+    "values": {"faith": "Secular; spiritual-but-not-religious; aligned with Sam.", "family": "Wants 2 kids soon; warm family ties.", "career": "Loves her work but prioritizes relationship and family."},
+    "attraction": {"stated_type": "Drawn to steady, funny, emotionally present partners.", "self_described_spark_with_a": "Strong — describes feeling deeply attracted and safe at once."},
+    "emotional_profile": {"maturity": "High — names feelings, apologizes, seeks repair.", "attachment_style": "Secure.", "growth_orientation": "High — does couples-skills workshops, welcomes feedback."},
+    "life_stage": "Ready to commit; financially stable; aligned timeline.",
+    "dealbreakers": ["Emotional unavailability", "Dishonesty"]
+  }
+}
