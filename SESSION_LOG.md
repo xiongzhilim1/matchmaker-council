@@ -30,3 +30,8 @@ Format:
   (B) Learning: start with loop engineering using core/council.py;
   (C) Research: execute docs/research/RESEARCH_BRIEF.md.
   Also: user will edit before pushing an article + hackathon submission.
+
+## 2026-06-19 — Track C — Deep Research on Dating & Compatibility
+- What changed: Executed the deep research brief. Gathered peer-reviewed literature on relationship predictors (Joel et al. 2020), attraction (Eastwick/Finkel), predictive humility (Heyman 2001, Joel 2017), attachment (TARA model), and safety/concealment. Synthesized findings into a structured report mapping research to the council's existing agents and ROADMAP priorities. Validated the `ValuesFaith`, `AttractionSpark`, and `RealityCheck` charters, while providing empirical backing to the ROADMAP priority of scoping the skeptic to safety/trust gates rather than ambiguity vetoes, and addressing calibration via predictive humility.
+- Where it lives: `docs/research/REPORT.md`, `docs/research/notes.md` (scratchpad).
+- NEXT: Track A (Product) to implement the ROADMAP priorities (scoping the skeptic, fixing calibration) or Track B (Learning) to start loop engineering.
