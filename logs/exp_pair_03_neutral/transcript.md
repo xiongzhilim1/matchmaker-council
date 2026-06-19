@@ -3,86 +3,84 @@
 
 ## Round 1
 
-**ValuesFaith** — score `0.05`  _(latency 6.94s)_
+**ValuesFaith** — score `0.00`  _(latency 8.73s)_
 
-> Faith and broader life philosophy align: both flexible spiritually, creative, growth-oriented, and emotionally mature. But childbearing is a core, explicitly non-negotiable value for both—Tom: no kids ever; Lena: motherhood of three central. That single, foundational mismatch predicts unavoidable long-term conflict or breakup, outweighing other shared values.
+> Faith/spirituality aligns (Tom agnostic; Lena spiritual; both flexible) and many personal values match (warmth, creativity, high maturity). But childbearing is an explicit, absolute dealbreaker on both sides: Tom 'does not want children under any circumstances' while Lena 'deeply wants children—envisions 3' and cites a partner who doesn't want children as a dealbreaker. This is an irreconcilable, long-term clash of core life plans.
 
-**AttractionSpark** — score `0.95`  _(latency 8.01s)_
+**AttractionSpark** — score `0.92`  _(latency 6.26s)_
 
-> Both explicitly report strong mutual warmth and chemistry — they "adore" each other — and both are secure, mature, and drawn to the other's type (creative/warm vs. creative/grounded). That indicates powerful, embodied attraction now. The absolute child/no-children standoff threatens long-term romantic viability, but it doesn't negate the clear present spark and desire.
+> Both report a clear, reciprocal romantic/physical spark: Tom and Lena each describe strong warmth, delight, and mutual adoration, and their attraction is reinforced by complementary draws (creative + grounded) and secure attachment. That embodied pull is evidently high. However, Tom’s absolute ‘no kids’ and Lena’s core desire for motherhood create a pressing practical tension that could quickly dampen erotic momentum despite strong attraction.
 
-**LifeStagePractical** — score `0.00`  _(latency 8.17s)_
+**LifeStagePractical** — score `0.00`  _(latency 10.49s)_
 
-> Tom explicitly and absolutely does not want children; Lena explicitly and centrally wants three and lists a partner who doesn’t want kids as a dealbreaker. With Lena at 34 and Tom 38, there’s timeline urgency for her family plan. Mutual warmth and maturity won’t resolve this direct, non-negotiable conflict about parenthood.
+> Irreconcilable timelines. Tom explicitly and non‑negotiably does not want children; Lena explicitly and centrally wants three children and a partner who wants kids. Both list this as a dealbreaker. Their ages imply active timing for parenthood; Tom’s settled child-free, mobile life clashes with Lena’s family plans.
 
-**EmotionalPatternFit** — score `0.15`  _(latency 8.67s)_
+**EmotionalPatternFit** — score `0.05`  _(latency 6.48s)_
 
-> Both are secure, mature, and repair well — which soothes conflict and prevents escalation. However Tom's absolute no-children stance directly opposes Lena's central, non-negotiable desire for motherhood. That specific, repeated activation (loss vs pressure) will reliably trigger deep, unresolvable emotional pain even when they communicate kindly. Secure styles reduce volatility but do not erase this core incompatibility.
+> Both are secure, mature, and repair-oriented — they’ll communicate kindly. But Tom explicitly and non-negotiably refuses children and Lena explicitly wants three and lists a child‑refusing partner as a dealbreaker. That direct, absolute clash of core life goals will repeatedly trigger deep, non-negotiable loss and cannot be soothed by attachment security alone.
 
-**EmotionalMaturity** — score `0.10`  _(latency 7.62s)_
+**EmotionalMaturity** — score `0.90`  _(latency 10.95s)_
 
-> Both are self-aware, secure, and good at repairing. However Tom explicitly refuses children and Lena explicitly wants three and names a childless partner as a dealbreaker. That is a direct, non-negotiable values conflict emotional maturity cannot bridge—unlikely to be resolved sustainably.
+> Both show high self-awareness, secure attachment, and stated ability to communicate and repair. Tom is direct and honest about a firm no-kids stance; Lena equally centers motherhood and lists a partner who won’t want children as a dealbreaker. Their emotional skills make conflict handling and respectful separation likely, but two opposing, absolute life goals leave little room for mutual growth toward the same outcome — so maturity is strong, but the match has a terminal practical barrier.
 
-**WillingnessToGrow** — score `0.15`  _(latency 8.58s)_
+**WillingnessToGrow** — score `0.20`  _(latency 7.43s)_
 
-> Both show high maturity and a growth orientation generally, but on the central question of children each stakes an explicit, absolute position: Tom 'does not want children under any circumstances' and Lena lists 'a partner who does not want children' as a dealbreaker. That indicates very low openness to being refined on this core value. I credit their general humility elsewhere, but not on this non-negotiable.
+> Both individuals show high maturity and growth-orientation, but each holds an explicit, central non‑negotiable about children: Tom “does not want children ever,” Lena envisions three and lists a partner who won’t have children as a dealbreaker. That makes them unlikely to be refined on this core value; they may be open to growth in other areas or to outside counsel, but on this pivotal issue their openness is low.
 
-_Hill-score after round 1: **0.797** (quality of the judgment) | score spread among agents: 0.325_
+_Hill-score after round 1: **0.750** (quality of the judgment) | score spread among agents: 0.405_
 
 
 ## Round 2
 
-**ValuesFaith** — score `0.05`  _(latency 13.83s)_
+**ValuesFaith** — score `0.00`  _(latency 5.48s)_
 
-> They share flexible spirituality, creative values, and high emotional maturity, but parenthood is a foundational life value here. Tom 'does not want children under any circumstances' and Lena centrally wants three and names a childless partner a dealbreaker. That explicit, non‑negotiable clash makes long‑term alignment on core life purpose, timelines, and daily priorities highly unlikely.
+> Faith and broad personal values align (Tom agnostic, Lena spiritual; both flexible). But family is core: Tom explicitly and absolutely ‘does not want children ever’; Lena deeply wants three children and names a partner who won’t want kids as a dealbreaker. Those are directly contradictory, long‑horizon, non‑negotiable life plans — irreconcilable.
 
-_Reacting to others:_ I acknowledge the strong mutual chemistry (AttractionSpark). Still, LifeStagePractical and others correctly flag the explicit, opposite non‑negotiables; secure attachment helps conflict style but won’t resolve this existential mismatch.
+_Reacting to others:_ I agree with AttractionSpark about strong chemistry, and with LifeStagePractical/EmotionalPatternFit that timelines and explicit dealbreakers make this a terminal mismatch despite high maturity and good communication.
 
-**AttractionSpark** — score `0.90`  _(latency 12.72s)_
+**AttractionSpark** — score `0.92`  _(latency 6.84s)_
 
-> High present attraction: both explicitly report a 'strong' mutual warmth, say they 'adore' each other, and are drawn to each other's described types (creative, warm/grounded). Secure attachment, maturity, and delight in one another are textbook signals of embodied chemistry now. The absolute children/no-children dealbreakers threaten future viability but do not erase the clear, immediate spark.
+> Profiles explicitly report strong, mutual physical/romantic spark: both describe ‘strong’ delight and adoration, each drawn to the other’s creative/warm or grounded/creative qualities. Secure attachment and high maturity support embodied chemistry. That said, Tom’s absolute “no children ever” vs Lena’s stated desire for three is a looming, existential dealbreaker likely to blunt or end erotic momentum over time.
 
-_Reacting to others:_ I accept others' point that the child/no-children standoff makes long-term pairing unlikely and urgent for Lena, so I slightly moderated my prior read. That reality affects longevity, not the current mutual attraction.
+_Reacting to others:_ I agree other agents rightly flag the child/parenthood clash: it’s a practical, non-negotiable threat that can extinguish even intense mutual attraction; their maturity may make separation kinder, not make the mismatch disappear.
 
-**LifeStagePractical** — score `0.00`  _(latency 9.2s)_
+**LifeStagePractical** — score `0.00`  _(latency 12.15s)_
 
-> Tom explicitly and absolutely refuses children; Lena explicitly wants three and lists a childless partner as a dealbreaker. Ages (38 and 34) create real timeline pressure for Lena. Tom’s mobile, project-based career and her plan to balance work+kids create concrete logistical friction. These are direct, non-negotiable life-stage contradictions—practically unreconcilable.
+> Tom (38) explicitly and absolutely refuses children; Lena (34) centrally wants three and lists a partner who won’t want kids as a dealbreaker. Their ages make parenting timing active. Tom’s settled, child-free, mobile, project-based life conflicts with Lena’s concrete family plans — an irreconcilable, practical mismatch in timelines, logistics, housing and long-term planning.
 
-_Reacting to others:_ I agree with ValuesFaith and others: strong mutual attraction and emotional maturity won’t overcome an explicit, opposite, foundational life-goal. Practical timelines and everyday logistics (filmmaking mobility vs. immediate childbearing plans) make this a definitive mismatch.
+_Reacting to others:_ I agree with AttractionSpark and EmotionalMaturity about strong chemistry and communication. Those strengths don’t bridge the explicit, opposite non-negotiables on children — a terminal practical clash.
 
-**EmotionalPatternFit** — score `0.15`  _(latency 13.35s)_
+**EmotionalPatternFit** — score `0.05`  _(latency 6.17s)_
 
-> Both are securely attached, emotionally mature, and repair well — qualities that usually soothe stress. But Tom’s explicit “no children ever” directly opposes Lena’s vision of three children and her stated dealbreaker. That creates recurring, existential activation (loss vs pressure). Secure patterns reduce volatility but won’t sustainably resolve a symmetric, non-negotiable clash.
+> Both are secure, mature communicators so conflicts would be handled kindly. But Tom’s explicit, non‑negotiable “no children ever” and Lena’s central desire for three children (each naming the other stance a dealbreaker) create a chronic, core-value mismatch. Lena is likely to feel repeated existential loss and Tom likely to feel pressured/resentful; attachment security helps process but won’t resolve this fundamental trigger.
 
-_Reacting to others:_ I agree there’s strong chemistry (AttractionSpark). Still, like LifeStagePractical and ValuesFaith, the child/no-child impasse is a foundational mismatch that emotional maturity can manage but not erase.
+**EmotionalMaturity** — score `0.90`  _(latency 10.95s)_
 
-**EmotionalMaturity** — score `0.10`  _(latency 12.88s)_
+> Both profiles explicitly list high self-awareness, secure attachment, and strong repair skills. Tom is direct about a firm ‘no kids ever’; Lena equally centers motherhood and names a child‑refusing partner as a dealbreaker. Their emotional maturity supports honest, accountable communication and humane separation, but won’t realistically reconcile this core, non‑negotiable life aim.
 
-> Both Tom and Lena are described as high in self-awareness, secure attachment, and repair capacity. Yet Tom's absolute 'no children ever' and Lena's central plan for three children (plus naming a childless partner as a dealbreaker) are explicit, non-negotiable life goals. Emotional maturity will smooth communication and respectful exits, but it cannot bridge this fundamental, mutually exclusive value conflict.
+_Reacting to others:_ I agree the child goal is irreconcilable (ValuesFaith, LifeStagePractical). Attraction is strong (AttractionSpark), but their maturity mostly ensures respectful navigation or separation, not convergence on children.
 
-_Reacting to others:_ I agree with LifeStagePractical and ValuesFaith: strong mutual warmth and maturity exist, but the explicit child/no-child deadlock is decisive. Maturity helps resolve conflict kindly, not rewrite core life goals.
+**WillingnessToGrow** — score `0.15`  _(latency 6.56s)_
 
-**WillingnessToGrow** — score `0.15`  _(latency 14.71s)_
+> Both are emotionally mature and growth-oriented, showing humility in general. Yet each names an explicit, absolute non-negotiable about children (Tom: never; Lena: wants three and rejects a partner who won't). That strongly limits openness to being refined on this central life goal. They may accept counsel on other issues, but willingness to change around parenthood appears very low.
 
-> Both show high maturity and stated growth-orientation, but each explicitly anchors parenthood as a non-negotiable: Tom “does not want children under any circumstances,” Lena envisions three and lists childless partners as a dealbreaker. That pattern signals general humility but almost no openness to revise this core value—low willingness to be refined on the decisive issue.
-
-_Reacting to others:_ I agree with AttractionSpark on real chemistry and with LifeStagePractical on urgency. Emotional maturity helps, but entrenched, explicit non-negotiables (both sides) make meaningful change on this point unlikely despite flexible faith or supportive community.
-
-_Hill-score after round 2: **0.791** (quality of the judgment) | score spread among agents: 0.307_
+_Hill-score after round 2: **0.698** (quality of the judgment) | score spread among agents: 0.409_
 
 
-> _Note: Stopping after round 2: hill plateaued (gain -0.006 < 0.05); more rounds won't improve judgment quality_
+> _Note: Stopping after round 2: hill plateaued (gain -0.052 < 0.05); more rounds won't improve judgment quality_
 
 
 ## Final verdict (Judge)
 
-**Decision:** not_a_match  |  **Confidence:** 0.95
+**Decision:** not_a_match  |  **Confidence:** 0.9
 
 
-Strengths: Tom and Lena report strong mutual attraction, secure attachment, high emotional maturity, and clear communication skills — a textbook contemporary spark and the character tools for honest, kind navigation. Live tensions: the relationship collides on the single foundational life question of parenthood. Tom has declared “no children ever” as an absolute, non‑negotiable; Lena has declared motherhood (three children) as central and names a childless partner a dealbreaker. Those are mutually exclusive, existential life goals, compounded by timeline pressure (ages 38 and 34) and practical career/lifestyle differences. Character modulation: their maturity and growth orientation are important — they greatly reduce the risk of coercion, concealment, or messy drift — and make an amicable, honest closure far more likely. But emotional intelligence does not erase a symmetric, explicit dealbreaker. Grace vs skeptic: with hope I note attraction could be cultivated; with skeptical reality-check I respect that neither has signaled willingness to revise this core value. What would have to change: one partner would need to reframe parenthood as negotiable — a substantive, declared shift — before this becomes viable. Without that, the match is not sustainable.
+Strengths: Tom and Lena report strong mutual attraction, secure attachment, and high emotional maturity; they communicate and repair well, which should keep interactions honest and kind. Live tension: they hold a direct, explicit, irreconcilable contradiction about parenthood—Tom’s stated, absolute “no children ever” and Lena’s equally firm desire for three children (she lists a partner who won’t want kids as a dealbreaker). Reality check: there is no safety or disclosure hazard; this is a values/long‑horizon life‑plan conflict, not an abuse risk. Character modulation: their maturity is a multiplier for humane handling — they can be candid, avoid coercion, and separate respectfully — but it does not erase the substantive incompatibility. What must change for a different verdict: one partner would need to reverse an explicit, central non‑negotiable about children (Tom becoming open to parenting, or Lena relinquishing her parenting plan), which their profiles mark as unlikely. Given the core, non‑negotiable mismatch, respectful parting preserves integrity for both their long‑term goals.
 
 **Open tensions for the human matchmaker to weigh (practice option C):**
 
-- Very strong mutual attraction vs irreconcilable child/no-child stances
-- Timeline pressure for Lena (age 34) vs Tom’s settled child-free plan
-- High emotional maturity eases separation but cannot bridge core life purpose conflict
+- Strong mutual attraction and secure attachment vs. irreconcilable childbearing plans
+- Both are emotionally mature yet inflexible on this central life goal
+- Ages/timing make childbearing a live practical consideration
+- No safety concerns—conflict is values-based, not trust/abuse related
+- Could become a close friendship, but not a sustainable romantic partnership without one changing core stance

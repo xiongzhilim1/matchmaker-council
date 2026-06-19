@@ -1,0 +1,4 @@
+stance,mean_hill,mean_calibration,mean_binding_hit,mean_verdict_match
+neutral,0.829,0.7458,1.0,1.0
+grace,0.8395,0.8167,1.0,1.0
+grace_skeptic,0.8361,0.8375,1.0,1.0

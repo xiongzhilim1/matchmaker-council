@@ -1,0 +1,22 @@
+{
+  "run_id": "run_20260619_002746",
+  "model": "gpt-5-mini",
+  "rounds_run": 2,
+  "hill_history": [
+    0.8165944149960599,
+    0.8453244173336304
+  ],
+  "verdict": {
+    "decision": "not_a_match",
+    "confidence": 0.89,
+    "headline": "Powerful chemistry but a concrete, declared faith-and-children dealbreaker plus avoidant repair patterns make this pairing unsafe to recommend now.",
+    "rationale": "On paper they have clear strengths: warm, playful attraction and aligned ages/life-energy create real spark. Maya brings high emotional maturity, quick repair habits, and a concrete timeline to start a family within 1–2 years; her Catholic faith is central and explicitly non‑negotiable. Daniel is funny, attracted to Maya, and intellectually curious, but he is agnostic, uneasy about religious childrearing, ambivalent about kids, and currently consumed by a startup. Crucially Maya explicitly listed “someone unwilling to raise kids with faith” as a dealbreaker — a core value that collides with Daniel’s stance. Layered on that is Daniel’s avoidant conflict style, slow-to-apologize habits, and a “too busy” posture: a pattern that risks chronic deferral, resentment, and Maya over‑functioning. I weigh grace (Maya’s community, growth orientation, and attraction) against the skeptic (the reality that her primary non‑negotiable is unmet and his behavioral patterns hide a trust risk). For them to be viable, Daniel would need a concrete, sustained shift on faith and parenting timeline plus demonstrable repair work; absent that, this is not a safe match.",
+    "open_tensions": [
+      "Maya’s declared non‑negotiable desire to raise children Catholic vs Daniel’s agnostic unease",
+      "Strong sexual and social chemistry vs likely long-term erosion if core values and timelines misalign",
+      "Maya’s secure, repair-oriented style vs Daniel’s avoidant/stonewalling pattern",
+      "Mismatched timelines: Maya wants kids in 1–2 years; Daniel is career-bound/ambivalent for 2–3 years",
+      "Hope exists only if Daniel makes observable, sustained changes (faith stance, parenting commitment, conflict repair)"
+    ]
+  }
+}

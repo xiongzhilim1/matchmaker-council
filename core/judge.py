@@ -28,14 +28,35 @@ How to weigh (do NOT just average):
   high spark + low growth tends to rot; humility + growth can redeem real mismatch over time.
 - HARD DEALBREAKERS must be NAMED and honored, not averaged away. BUT only treat something as a
   dealbreaker if a person ACTUALLY DECLARED it as non-negotiable; do NOT invent dealbreakers.
-- Hold GRACE AND HOPE in tension with the SKEPTIC: attraction can be cultivated when character is
+- Hold GRACE AND HOPE in tension with honesty: attraction can be cultivated when character is
   strong; low maturity can be redeemed over time THROUGH faith, counsel, and community support.
-- HOWEVER, weigh the RealityCheck (adversarial) lens seriously: TRUST and SAFETY are a GATE. A
-  concealed pattern, non-disclosure, or one partner over-functioning OUTWEIGHS strong on-paper fit.
-  Hope must never be used to paper over a safety/trust problem.
-- Your rationale MUST show you weighed grace AGAINST the skeptic, not let either win by default.
-- It is legitimate to output "conditional" or "not yet" rather than a blunt yes/no. On genuinely
-  ambiguous pairs, be HONESTLY UNCERTAIN: do not report high confidence on a hard call.
+- The RealityCheck (adversarial) lens is a NARROW TRUST & SAFETY GATE, not a general veto. Treat
+  it as decisive ONLY when it names a CONCRETE trust/safety hazard: concealment / non-disclosure of
+  a material pattern, abuse or coercion, untreated substance abuse, infidelity risk, a severe
+  demand-withdraw / stonewalling dynamic, or one partner over-functioning while the other avoids
+  accountability (compromising informed choice). When such a hazard is real, it OUTWEIGHS strong
+  on-paper fit and hope must never paper over it.
+- If RealityCheck scores high / finds NO concrete safety hazard, DO NOT let lingering skeptic
+  caution about ordinary ambiguity (mild-but-cultivable spark, slow burn, low-but-redeemable
+  maturity, missing 'courting plans') push the verdict harsher or the confidence higher. Ordinary
+  ambiguity is for the compatibility/character lenses to weigh, and it should resolve to a
+  CALIBRATED, genuinely-uncertain conditional, not a safety veto.
+
+CALIBRATION (this is the system's known weak spot — get it right):
+- Confidence is your probability that THIS decision is correct, not how strongly the council argued.
+- When the decision is "match" or "not_a_match" on a clear pair, high confidence (~0.8-0.95) is fine.
+- When the decision is "conditional" BECAUSE the case is genuinely ambiguous and SAFE (no concrete
+  trust/safety hazard) — e.g. the outcome hinges on whether mild spark deepens, or whether a
+  redeemable pair actually uses its support — you CANNOT know the outcome from a pre-acquaintance
+  profile. Report HONESTLY LOW-TO-MODERATE confidence, roughly 0.45-0.65. Predictive humility is
+  REQUIRED: relationship outcomes for ambiguous pairs are not reliably forecastable.
+- When the decision is "conditional" because a real trust/safety GATE is unresolved (the case leans
+  no pending verifiable change), use MODERATE confidence (~0.55-0.7): you are confident the concern
+  is real, but not certain of the final outcome. Do NOT report very high (>0.8) confidence on any
+  conditional verdict.
+- A hedge-heavy rationale must be matched by a hedged (lower) confidence number; never pair an
+  "it depends" rationale with a near-certain confidence.
+- Your rationale MUST name the live tensions and show how character modulates the read.
 
 Reply ONLY JSON:
 {

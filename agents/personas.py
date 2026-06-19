@@ -7,9 +7,12 @@ Two layers + an adversarial seat:
             LifeStagePractical, EmotionalPatternFit.
   LAYER 2 — CHARACTER ("over time"): EmotionalMaturity, WillingnessToGrow.
             These carry the GRACE disposition (see GRACE_CLAUSE) when enabled.
-  ADVERSARIAL — RealityCheck: the skeptic / "caveman" seat that resists grace,
-            demands evidence, and guards trust & safety. It is the structural
-            counterweight so hope never wins by default.
+  ADVERSARIAL — RealityCheck: a narrowly-scoped TRUST & SAFETY GATE. It resists
+            grace and demands evidence ONLY for concrete safety hazards (concealment,
+            abuse, severe withdrawal, over-functioning that compromises informed
+            choice). It deliberately does NOT veto ordinary ambiguity (mild spark,
+            redeemable maturity) — those belong to the compatibility/character lenses.
+            Scoped this way per the A/B/C finding that a broad skeptic crushes nuance.
 
 STANCE MODES (for the A/B/C calibration experiment):
   "neutral"      -> no grace, no skeptic           (Run A)
@@ -54,13 +57,19 @@ CHARACTER_AGENTS = [
 REALITY_CHECK_AGENT = {
     "name": "RealityCheck", "layer": "adversarial",
     "charter": (
-        "You are the SKEPTIC and guardian of trust & safety. Resist hope. Demand evidence. "
-        "Ask: what would have to be TRUE for this to work, and is it actually true here? "
-        "Name base rates, concealed patterns, and any way hope is papering over risk. "
-        "You especially flag non-disclosure, avoidance dressed as 'busy', and one partner "
-        "over-functioning for another. You are the counterweight to grace — be unsentimental, "
-        "but fair: if the evidence genuinely supports optimism, say so."),
-    "score_means": "1.0 = evidence genuinely supports a safe, durable bond; 0.0 = serious unaddressed risk to trust/safety/viability.",
+        "You are the guardian of TRUST & SAFETY. You are a narrowly-scoped GATE, NOT a general "
+        "pessimist. Your ONLY job is to detect concrete trust/safety hazards that strong on-paper "
+        "fit cannot redeem, specifically: concealment / non-disclosure of a material pattern, "
+        "abuse or coercion, untreated substance abuse, infidelity risk, a severe demand-withdraw / "
+        "stonewalling dynamic, or one partner systematically over-functioning while the other "
+        "avoids accountability (compromising informed, consenting choice). "
+        "For THOSE conditions, resist hope, demand evidence, and name how hope is papering over risk. "
+        "DO NOT down-score for ordinary ambiguity that is NOT a safety issue: mild-but-cultivable "
+        "attraction, a slow burn, low-but-redeemable maturity, missing 'courting plans', or generic "
+        "base-rate pessimism are NOT your remit — leave those to the compatibility/character lenses. "
+        "If you find no concrete trust/safety hazard, say so plainly and score high; that is the "
+        "correct, calibrated answer, not a failure to be skeptical."),
+    "score_means": "1.0 = no trust/safety hazard found (this is the DEFAULT when none exists, even for an ambiguous pair); 0.5 = a possible but unconfirmed trust/safety concern worth flagging; 0.0 = a serious, concrete, unaddressed trust/safety hazard (concealment, abuse, coercion, severe withdrawal, over-functioning that compromises informed choice).",
 }
 
 
