@@ -1,0 +1,15 @@
+flowchart TD
+    START([End of round r:<br/>spread + hill computed]) --> MIN{r < MIN_ROUNDS?<br/>settings.py:41 = 2}
+    MIN -- yes --> CONT[CONTINUE<br/>floor: force a real debate first]
+    MIN -- no --> CONV{spread &lt; SCORE_SPREAD_STOP?<br/>settings.py:43 = 0.12<br/>council.py:118}
+    CONV -- yes --> STOP1([STOP: agents converged<br/>they agree → more rounds add nothing])
+    CONV -- no --> PLAT{hill gain &lt; CONVERGENCE_DELTA?<br/>settings.py:42 = 0.05<br/>council.py:120-124}
+    PLAT -- yes --> STOP2([STOP: hill plateaued<br/>quality stopped improving])
+    PLAT -- no --> CEIL{r &gt;= MAX_ROUNDS?<br/>settings.py:40 = 4<br/>council.py:125}
+    CEIL -- yes --> STOP3([STOP: hit ceiling<br/>cost guard, prevents runaway])
+    CEIL -- no --> CONT2[CONTINUE<br/>feed prev_summary into round r+1]
+
+    classDef stop fill:#fde,stroke:#c39;
+    classDef go fill:#dfe,stroke:#3a6;
+    class STOP1,STOP2,STOP3 stop;
+    class CONT,CONT2 go;

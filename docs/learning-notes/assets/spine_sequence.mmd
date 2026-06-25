@@ -1,0 +1,62 @@
+sequenceDiagram
+    autonumber
+    participant R as run.py
+    participant C as Council.deliberate council.py57
+    participant A as Agents xN agent.py61
+    participant K as Critic critic.py37
+    participant H as Hill referee hill.py42
+    participant L as LLMClient llm.py55
+    participant J as Judge judge.py50
+
+    R->>C: deliberate(profiles_json)
+    Note over C: prev_summary empty at start council.py58
+
+    loop for r in 1..MAX_ROUNDS council.py59
+        Note over C,A: ROUND r begins
+        loop each agent SEQUENTIAL council.py64
+            C->>A: assess(profiles, prev_summary, r)
+            A->>L: complete(system, user)
+            L-->>A: text with retries inside
+            alt LLM down llm.py79
+                A-->>C: Turn down equals True self-healing
+                Note over C: drop agent council continues council.py67
+            else ok
+                A-->>C: Turn score position reaction
+            end
+        end
+        Note over C: if ALL down abort round council.py75
+
+        opt critic present council.py85
+            C->>K: critic(profiles, turns, r)
+            loop each live turn critic.py39
+                K->>L: is claim supported vs profile
+                L-->>K: supported or contradicted
+                alt contradicted critic.py54
+                    K->>A: revise once with critique
+                    A->>L: re-assess
+                    L-->>K: revised Turn self-correction
+                end
+            end
+            K-->>C: corrected turns
+        end
+
+        C->>H: score_spread scores hill.py27
+        C->>H: referee_quality round_text hill.py42
+        H->>L: rate grounded and engaged
+        L-->>H: grounded engaged
+        H-->>C: hill 0.45g plus 0.30e plus 0.25 res-e hill.py66
+        Note over C: append hill_history spread_history council.py104
+
+        C->>C: stop why equals _should_stop council.py115
+        alt stop is True
+            Note over C: log reason then break
+        else continue
+            Note over C: prev_summary equals debate_summary council.py111
+        end
+    end
+
+    C-->>R: final_state final_turns plus hill_history council.py129
+    R->>J: judge final_turns hill_history ONCE after loop run.py41
+    J->>L: weigh final positions not average
+    L-->>J: decision confidence rationale tensions
+    J-->>R: verdict
