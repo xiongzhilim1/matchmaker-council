@@ -6,15 +6,16 @@ running example so the learning stays concrete.
 
 ## Concepts to cover (from the original goal)
 - [x] Loop engineering — the stopping rule (see `core/council.py`) → [01-loop-engineering.md](01-loop-engineering.md)
-- [ ] Hill-climbing — defining "higher" objectively (see `eval/scorer.py`, `core/hill.py`)
+- [x] Hill-climbing — defining "higher" objectively (see `eval/scorer.py`, `core/hill.py`) → [02-llm-as-judge-evals.md](02-llm-as-judge-evals.md)
 - [ ] Self-correcting — critic catches & forces revision (see `core/critic.py`)
 - [ ] Self-healing — routing around dead components (see `core/llm.py`, `core/council.py`)
 - [ ] Self-learning — memory/priors across runs (deferred; v2)
-- [ ] LLM-as-judge evals & why they saturate (see `docs/post_final.md` §3)
+- [x] LLM-as-judge evals & why they saturate (see `docs/post_final.md` §3) → [02-llm-as-judge-evals.md](02-llm-as-judge-evals.md)
 - [ ] Multi-agent negotiation vs single-prompt — when many agents are worth the cost
 
 ## Notes
-- [01 — Loop Engineering & the Spine](01-loop-engineering.md) — the deliberation spine, lag-1 cross-round debate, the hill formula, the four-gate stopping rule, and why a stopping rule is only as good as the (saturating) metric it watches. Includes `assets/spine_sequence.png` and `assets/stopping_rule.png`. *(Self-healing, self-correction, and the objective scorer threads are queued at the end of the note.)*
+- [01 — Loop Engineering & the Spine](01-loop-engineering.md) — the deliberation spine, lag-1 cross-round debate, the hill formula, the four-gate stopping rule, and why a stopping rule is only as good as the (saturating) metric it watches. Includes `assets/spine_sequence.png` and `assets/stopping_rule.png`.
+- [02 — LLM-as-Judge Evals](02-llm-as-judge-evals.md) — why the holistic "vibe" referee saturates, how to diagnose it (variance across labeled pairs + tracing + cross-check vs ground truth), and the objective five-component `eval/scorer.py` that replaced it, with a full worked example on pair_01. *(Self-healing and self-correction are queued for note 03.)*
 
 ## How to add a note
 Create `docs/learning-notes/NN-topic.md`, write what you learned in your own
