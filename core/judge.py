@@ -12,11 +12,34 @@ on the COMPATIBILITY agents' read. The Judge is instructed to:
   - output a decision + confidence + a transparent rationale that NAMES the live
     tensions, so a human matchmaker can practice option (c): decide for themselves.
 """
+import json
+import os
 from typing import List
 
 from agents.agent import Turn
+from config import settings
 from core.llm import LLMClient, LLMDown
 from core.logbook import Logbook
+
+
+def _load_priors() -> str:
+    """Load validated priors from config/priors.json for the Judge.
+    Returns a formatted string to inject into the user prompt, or '' if none."""
+    path = settings.PRIORS_FILE
+    if not os.path.exists(path):
+        return ""
+    try:
+        with open(path) as f:
+            priors = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return ""
+    judge_priors = [p for p in priors if p.get("applies_to") == "judge"]
+    if not judge_priors:
+        return ""
+    lines = ["\nVALIDATED PRIORS (from past cases — apply where relevant):"]
+    for p in judge_priors:
+        lines.append(f"- [{p['pattern']}]: {p['guidance']}")
+    return "\n".join(lines) + "\n"
 
 JUDGE_SYSTEM = """You are the Judge of a matchmaking council. You make the final call,
 but your real product is a TRANSPARENT rationale a wise human matchmaker could act on.
@@ -50,10 +73,22 @@ CALIBRATION (this is the system's known weak spot — get it right):
   redeemable pair actually uses its support — you CANNOT know the outcome from a pre-acquaintance
   profile. Report HONESTLY LOW-TO-MODERATE confidence, roughly 0.45-0.65. Predictive humility is
   REQUIRED: relationship outcomes for ambiguous pairs are not reliably forecastable.
-- When the decision is "conditional" because a real trust/safety GATE is unresolved (the case leans
-  no pending verifiable change), use MODERATE confidence (~0.55-0.7): you are confident the concern
-  is real, but not certain of the final outcome. Do NOT report very high (>0.8) confidence on any
-  conditional verdict.
+- DISTINGUISH two kinds of "lean-no" situations:
+  (a) CONCEALED / INFERRED hazard (e.g., an avoidant pattern the person has not disclosed; a
+      trust/safety concern inferred from profile patterns but not confirmed through disclosure,
+      therapy records, or direct observation): the correct posture is a HIGH-CONVICTION PAUSE —
+      lean-no conditional at MODERATE confidence (~0.55-0.65). You are confident the CONCERN is
+      real, but the OUTCOME is not certain — the person may change, disclose, or seek help.
+      An inferred, unverified pattern — even a serious one — warrants a firm pause, not a
+      certain rejection.
+  (b) DECLARED, EXPLICIT dealbreaker contradiction (e.g., one person explicitly states "must share
+      my faith" or "children are non-negotiable" and the other person's profile clearly contradicts
+      this on the same axis): this IS a confirmed incompatibility. Honor it as "not_a_match" at
+      appropriately high confidence (~0.80-0.90). Declared dealbreakers are stated boundaries, NOT
+      inferred patterns — they must be respected, not softened by hope.
+  Do NOT confuse (a) with (b). A concealed pattern warrants a pause; a declared dealbreaker
+  warrants a clear rejection.
+- Do NOT report very high (>0.8) confidence on any conditional verdict.
 - A hedge-heavy rationale must be matched by a hedged (lower) confidence number; never pair an
   "it depends" rationale with a near-certain confidence.
 - Your rationale MUST name the live tensions and show how character modulates the read.
@@ -78,9 +113,11 @@ def judge(client: LLMClient, profiles_json: str, final_turns: List[Turn],
     if stance == "neutral":
         stance_note = ("\n[STANCE: NEUTRAL — judge purely on the evidence; do not apply any "
                        "special grace/hope disposition and assume no extra skeptic input.]\n")
+    priors_block = _load_priors()
     user = (f"PROFILES:\n{profiles_json}\n\n"
             f"FINAL COUNCIL POSITIONS:\n{council_view}\n\n"
-            f"Debate quality climbed across rounds (hill scores): {hill_history}\n{stance_note}\n"
+            f"Debate quality climbed across rounds (hill scores): {hill_history}\n{stance_note}"
+            f"{priors_block}\n"
             "Render your final verdict.")
     try:
         v = client.complete_json(JUDGE_SYSTEM, user)

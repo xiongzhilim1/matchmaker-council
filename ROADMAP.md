@@ -30,16 +30,18 @@ focus. Update it before ending any product session.
       trap pair (Noah & Grace). (2026-06-19, Track A)
 
 ## Next up (ordered; top = current focus)
-- [ ] **Calibrate the Judge's confidence on the trust/safety GATE itself.** After
-      scoping the skeptic, the trap pair (Noah & Grace) now correctly triggers the
-      gate, but the Judge over-hardens to `not_a_match` at 0.90 confidence. The
-      verdict stays inside the `conditional_no` band (verdict-match 1.00) but the
-      label wants ~0.55-0.7 confidence, so that single pair scores calibration 0.50
-      and is the only thing keeping grace_skeptic below 1.00 (0.917). Fix: teach the
-      Judge that a REAL but not-yet-verified safety gate is a high-conviction PAUSE
-      (lean-no `conditional` at moderate confidence) rather than a certain rejection,
-      unless the hazard is confirmed/irreversible. Re-run A/B/C to confirm
-      grace_skeptic calibration reaches ~1.00 without weakening the gate.
+- [x] **Calibrate the Judge's confidence on the trust/safety GATE itself.**
+      Distinguished CONCEALED/INFERRED hazards (→ pause at ~0.60 confidence) from
+      DECLARED dealbreaker contradictions (→ honor as not_a_match at ~0.85). Added
+      the distinction to Judge prompt + first validated prior in config/priors.json.
+      Result: grace_skeptic calibration 0.917→1.000; all stances binding/verdict
+      remain 1.000; no regressions (neutral +0.0003, grace +0.0058, grace_skeptic
+      +0.0076 hill). Success Gate passed. (2026-07-24, Track A)
+- [x] **v2 automation: Diagnose + Optimize + Self-Learning infrastructure.**
+      Built eval/diagnose.py (automated failure clustering), eval/optimize.py
+      (fix proposal + Success Gate verification), config/priors.json (validated
+      cross-run learnings read by Judge). Full loop ran end-to-end: diagnose →
+      fix → re-eval → gate passed → prior confirmed. (2026-07-24, Track A)
 - [ ] **v1: onboarding interviewer agent** — turn a person into a profile via a
       structured interview (deferred from v0).
 - [ ] Expand the labeled set beyond 6 pairs (more traps, more ambiguity) for a

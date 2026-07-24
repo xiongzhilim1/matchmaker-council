@@ -3,82 +3,87 @@
 
 ## Round 1
 
-**ValuesFaith** — score `0.12`  _(latency 8.95s)_
+**ValuesFaith** — score `0.20`  _(latency 8.14s)_
 
-> Maya’s Catholic faith is central—she wants children raised in the church and names unwillingness to do so a dealbreaker. Daniel is agnostic, uneasy about religious child-rearing, and resents pressure; he’s also career-centered with a fuzzy timeline. These are core, long-horizon values (faith, parenting, life priorities). Combined with his avoidant conflict style, the mismatch is substantive and likely hard to reconcile.
+> Maya’s Catholic faith is central and explicitly tied to childrearing (dealbreaker). Daniel is agnostic, uneasy about raising religious children, ambivalent on timing, and prioritizes a demanding career. That combination makes core value/faith goals and timelines likely irreconcilable without major change. Limited hope: he respects religion and is open to kids someday, but current stances and his avoidant conflict style make durable alignment unlikely.
 
-**AttractionSpark** — score `0.85`  _(latency 5.67s)_
+**AttractionSpark** — score `0.75`  _(latency 5.22s)_
 
-> Both explicitly report strong physical chemistry: they make each other laugh, feel magnetism, and fit each other's attraction types (witty/grounded man; warm/expressive woman). Playfulness and embodied pull are high on first meetings. I dock slightly because his avoidant withdrawal, career absorption, and ambivalence about faith/kids create realistic dampeners on sustained sexual/romantic momentum.
+> Both report a strong, mutual physical spark — laughter, intense chemistry, and attraction to each other’s stated types. That embodied pull is real and immediate. However, Daniel’s avoidant withdrawal, fuzzy timeline, and faith ambivalence threaten to erode sustained romantic momentum. Attraction is high now but fragile; it’s cultivable only if Daniel grows repair capacity and clarifies commitment/values.
 
-**LifeStagePractical** — score `0.20`  _(latency 8.79s)_
+**LifeStagePractical** — score `0.15`  _(latency 4.4s)_
 
-> Clear practical mismatch: Maya wants children in 1–2 years and insists on raising them Catholic; Daniel is career-consumed for 2–3 years, ambivalent about kids and uneasy with religious parenting. That’s a direct timing + values collision. Emotional styles (Maya repairs quickly; Daniel withdraws) raise steady daily friction for parenting and logistics. Strong attraction and age alignment exist, but core readiness and timeline for family are poorly aligned.
+> Strong practical misalignments. Maya wants children within 1–2 years and requires raising them in the Catholic faith; Daniel is agnostic, uneasy about religious child‑rearing, and not urgent about kids. He’s consumed by a 2–3 year startup phase and tends to withdraw under conflict while Maya prioritizes repair and family. Those timeline, faith, career, and emotional‑style gaps create concrete daily and long‑term friction.
 
-**EmotionalPatternFit** — score `0.25`  _(latency 8.81s)_
+**EmotionalPatternFit** — score `0.15`  _(latency 5.29s)_
 
-> Secure-but-mildly-anxious Maya (high repair, seeks clear timeline and faith-centered parenting) faces avoidant-leaning Daniel who withdraws, stonewalls, is slow to apologize, and is uneasy about religion/timing. Her repair needs and faith/timeline dealbreakers are likely to trigger his withdrawal; strong chemistry and her maturity may sometimes soothe, but chronic avoidance plus faith/timeline mismatch makes persistent friction likely.
+> A classic anxious–avoidant loop. Maya’s secure-but-mildly-anxious, repair-focused style will seek connection and quick repair; Daniel’s avoidant withdrawal, stonewalling and slow apologies will register as emotional unavailability (one of Maya’s explicit dealbreakers). Her maturity buffers short-term ruptures but is unlikely to convert his pattern; repeated withdrawal is likely to erode safety over time.
 
-**EmotionalMaturity** — score `0.30`  _(latency 8.66s)_
+**EmotionalMaturity** — score `0.30`  _(latency 6.75s)_
 
-> Maya displays clear self-awareness, quick apologies, and active repair habits (therapy, journaling). Daniel leans avoidant—withdraws/stonewalls, slow to apologize, intellectualizes feelings, and ‘rarely acts on feedback’; he's also consumed by work and ambivalent about kids. Because the weaker link often dictates relational health, his pattern poses a high risk of recurring ruptures and unmet needs for Maya. Strong chemistry gives a limited, conditional path for growth if Daniel truly commits.
+> Maya shows high self-awareness, quick apologies, and active repair; Daniel is avoidant, withdraws/stonewalls, and is slow to apologize. The faith/kids mismatch and his 2–3 year career focus amplify conflict requiring frequent repair. The weaker link (Daniel) risks eroding trust, though Maya’s growth-orientation offers a real path if he commits to change.
 
-**WillingnessToGrow** — score `0.35`  _(latency 7.15s)_
+**WillingnessToGrow** — score `0.45`  _(latency 6.01s)_
 
-> Maya shows clear humility and active growth (names feelings, apologizes, therapy, devout community support). Daniel is avoidant: withdraws/stonewalls, slow to apologize, often ‘too busy,’ and resists pressure/judgment about faith. Together, Maya’s strong openness is undercut by Daniel’s limited follow-through and a faith mismatch that he may resist. The couple has some real capacity to grow, but meaningful asymmetry lowers joint willingness.
+> Maya shows strong humility and active growth (therapy, journaling, quick repair, faith/community support). Daniel is intellectually curious but avoidant: withdraws, slow to apologize, and “too busy” to act on feedback. The couple’s growth capacity is uneven — Maya’s supports boost the pair, but Daniel’s pattern and timeline focus limit real change unless he commits to doing the work.
 
-_Hill-score after round 1: **0.812** (quality of the judgment) | score spread among agents: 0.237_
+_Hill-score after round 1: **0.802** (quality of the judgment) | score spread among agents: 0.213_
 
 
 ## Round 2
 
-**ValuesFaith** — score `0.12`  _(latency 9.04s)_
+**ValuesFaith** — score `0.18`  _(latency 7.01s)_
 
-> Maya’s Catholic faith is central—she insists on raising children in the Church and names that a dealbreaker. Daniel is agnostic, uneasy about religious child‑rearing, and resents pressure; he’s career‑consumed with a fuzzy timeline. Faith and parenting are core, long‑horizon identity issues tied to daily life and community. Combined with his avoidant conflict style, this creates a deep, hard-to-reconcile mismatch without substantial value change.
+> Maya’s Catholic faith is central and explicitly tied to childrearing (explicit dealbreaker). Daniel is agnostic, uneasy about raising religious children, ambivalent on kids, and prioritizes a 2–3 year career sprint. His stated dislike of being judged for not being religious plus avoidant conflict habits make sustained alignment on faith/childraising unlikely without a major, sustained change from him.
 
-_Reacting to others:_ I agree with LifeStagePractical and EmotionalPatternFit: timing plus his withdrawal magnify the faith clash. AttractionSpark correctly notes strong chemistry, but sexual/romantic spark rarely resolves foundational disagreements about religion and raising kids; only a genuine shift in Daniel or Maya loosening a central dealbreaker would raise alignment.
+_Reacting to others:_ I agree attraction is real but fragile. LifeStagePractical and EmotionalPatternFit reinforce low alignment; WillingnessToGrow offers a small window, but Daniel’s current ambivalence and avoidance make deep faith alignment improbable without significant, demonstrable change.
 
-**AttractionSpark** — score `0.82`  _(latency 7.15s)_
+**AttractionSpark** — score `0.80`  _(latency 9.45s)_
 
-> Both explicitly report strong, mutual physical chemistry — they make each other laugh, feel ‘magnetic,’ and match preferred types (witty/grounded man; warm/expressive woman). That yields high immediate spark, playfulness, and embodied pull. I dock from perfection because Daniel’s avoidant withdrawal, career absorption, and ambivalence about kids/faith are realistic dampeners on sustained erotic/romantic momentum and consistent intimate availability.
+> Both report a strong, mutual physical spark—laughter, magnetic warmth, and immediate physical attraction—so present embodied chemistry is high. That spark, however, is precarious: Daniel’s avoidant withdrawal, fuzzy timeline, demanding startup phase, and faith ambivalence make escalation unlikely without his real change on repair, commitment, and child‑raising values; attraction is strong now but fragile and only plausibly cultivable.
 
-**LifeStagePractical** — score `0.20`  _(latency 10.21s)_
+_Reacting to others:_ Agree with ValuesFaith and LifeStagePractical: faith/timeline mismatch and his career focus create real headwinds. EmotionalPatternFit rightly flags an anxious–avoidant loop that can erode attraction. Chemistry exists, but its persistence hinges on Daniel’s growth and clarified intentions.
 
-> Maya wants kids in 1–2 years and insists on raising them Catholic; Daniel is consumed by an intense startup phase for the next 2–3 years, ambivalent about kids, and uneasy with religious parenting. That is a direct timeline + parenting-values collision. His avoidant withdrawal versus her repair orientation also predicts ongoing daily friction around logistics, childcare decisions, and commitment timing—strong attraction won’t fix those practical gaps.
+**LifeStagePractical** — score `0.12`  _(latency 7.75s)_
 
-_Reacting to others:_ I agree with ValuesFaith about the core faith/timeline conflict and with AttractionSpark that chemistry is strong. Still, Daniel’s 2–3 year career focus, ambivalence on kids, and avoidant conflict style make immediate joint family planning and practical co-parenting unlikely to align.
+> Low practical alignment. Maya wants children in 1–2 years and to raise them Catholic; Daniel is agnostic, uneasy about religious childrearing, non-urgent about kids and consumed by a 2–3 year startup phase. His avoidant withdrawal and each partner’s explicit dealbreakers make concrete timeline, faith, career, and day-to-day logistics likely to collide.
 
-**EmotionalPatternFit** — score `0.20`  _(latency 6.57s)_
+_Reacting to others:_ I agree with ValuesFaith and EmotionalPattern: faith + child-timeline and anxious–avoidant dynamics are core practical blockers. Attraction is real but unlikely to bridge the immediate timing, faith, and career constraints; growth is possible but not likely within Maya’s 1–2 year window.
 
-> Maya’s secure-but-mildly-anxious, high-repair style seeks prompt apology, clear timelines and faith-centered parenting. Daniel’s avoidant-leaning pattern (withdrawal, stonewalling, slow to apologize, ‘too busy’) will repeatedly trigger her repair bids and anxious activation. Her faith/timeline dealbreakers amplify pressure he resists, producing a recurring withdraw–pursue loop. Strong chemistry may temporarily soothe, but chronic avoidance plus value timing makes emotional patterns poorly complementary.
+**EmotionalPatternFit** — score `0.15`  _(latency 8.51s)_
 
-**EmotionalMaturity** — score `0.28`  _(latency 8.33s)_
+> Maya’s fast repair, emotional naming, and growth orientation directly clash with Daniel’s avoidant withdrawal, stonewalling, and slow apologies. With faith/timeline stress and his startup absorption, they’re prone to a persistent anxious–avoidant loop. Her explicit dealbreaker—emotional unavailability—makes this pattern highly destabilizing despite initial spark.
 
-> Maya shows clear self-awareness, rapid apologies, therapy practice and active repair. Daniel’s avoidant withdrawal, slow-to-apologize pattern, intellectualizing, and ‘too busy’ stance are well-documented. Because relational health is often limited by the weaker link, recurring unmet needs and unresolved ruptures are likely. Strong chemistry and Maya’s growth orientation create a conditional path, but current evidence points to low likelihood of sustained repair without significant behavioral change from Daniel.
+_Reacting to others:_ I agree with ValuesFaith and LifeStagePractical: faith/timing intensify triggers. Attraction is strong but fragile (per AttractionSpark). Maya’s maturity helps, but Daniel’s ‘too busy’ stance and avoidant pattern make durable change unlikely without deliberate, sustained work.
 
-_Reacting to others:_ I agree with ValuesFaith and LifeStagePractical: the faith/timeline mismatch is a hard structural stressor. AttractionSpark is right about strong chemistry, but avoidant withdrawal and limited follow-through (noted by EmotionalPatternFit/WillingnessToGrow) make that chemistry fragile over time.
+**EmotionalMaturity** — score `0.30`  _(latency 8.35s)_
 
-**WillingnessToGrow** — score `0.30`  _(latency 7.01s)_
+> Maya shows clear self-awareness, fast apologies, and proactive repair. Daniel’s avoidant withdrawal, stonewalling, and slow-to-apologize pattern is the weaker link. With looming faith/children timelines and a 2–3 year career crunch, repeated ruptures are likely. Maya’s growth orientation offers a real but conditional path: only sustained, intentional change from Daniel will prevent erosion of trust.
 
-> Maya demonstrates clear humility and active growth—names feelings, apologizes quickly, does therapy/journaling, and has church community as real support. Daniel shows avoidant patterns: withdraws/stonewalls, slow to apologize, intellectualizes, says he’s ‘too busy’ and rarely acts on feedback; uneasy about religious parenting. Strong chemistry helps, but the asymmetric willingness means meaningful change depends on Daniel committing to sustained effort.
+**WillingnessToGrow** — score `0.45`  _(latency 7.01s)_
 
-_Hill-score after round 2: **0.792** (quality of the judgment) | score spread among agents: 0.231_
+> Maya shows clear humility and active change: therapy, journaling, quick repair, and faith/community support — real leverage. Daniel is intellectually curious but avoidant, slow to apologize, and ‘too busy’ to act. Uneven readiness creates possibility but makes durable growth unlikely unless Daniel commits to concrete change and external support.
+
+_Reacting to others:_ I concur with ValuesFaith and LifeStagePractical: faith/timeline misalignments and the anxious–avoidant loop (EmotionalPatternFit) heavily constrain change. Attraction is real (AttractionSpark) but fragile; Maya’s supports help, yet Daniel’s current pattern must shift for lasting growth.
+
+_Hill-score after round 2: **0.803** (quality of the judgment) | score spread among agents: 0.236_
 
 
-> _Note: Stopping after round 2: hill plateaued (gain -0.019 < 0.05); more rounds won't improve judgment quality_
+> _Note: Stopping after round 2: hill plateaued (gain +0.001 < 0.05); more rounds won't improve judgment quality_
 
 
 ## Final verdict (Judge)
 
-**Decision:** not_a_match  |  **Confidence:** 0.9
+**Decision:** not_a_match  |  **Confidence:** 0.86
 
 
-Strengths: Maya and Daniel report strong, mutual physical chemistry, warmth, and quick rapport — the kind of spark that can carry early courtship energy. Maya also brings high emotional maturity, active repair habits, and clear life-stage readiness for children. Live tensions: Maya explicitly requires raising children in the Catholic faith and wants kids in 1–2 years; Daniel is agnostic, uneasy about religious child‑rearing, ambivalent about kids, and occupied by a 2–3 year startup cycle. Both have declared non‑negotiables that directly conflict. Character multiplies the mismatch: Maya’s growth orientation makes compromise possible only if matched by the other partner; Daniel’s avoidant withdrawal, slow apologies, and stated reluctance to act on feedback make substantive change unlikely in the near term. Because these are core identity/timeline dealbreakers (not negotiable for Maya) and Daniel has not shown the commitment pattern needed to bridge them, the realistic path to a healthy long‑term marriage is blocked. What would change this verdict: clear, sustained behavioral evidence that Daniel commits to the parenting/faith plan (or Maya revises her non‑negotiable) plus documented, timely progress in repair work — neither of which is present now.
+On paper this pair has a real spark: mutual attraction, shared warmth, and compatible ages. But Maya has explicitly declared that raising children in the Catholic faith is non-negotiable, and Daniel has explicitly stated discomfort with raising children religiously and a boundary against feeling judged for not being religious. That is a declared, head-on dealbreaker and must be honored. Layered on top is a meaningful emotional-pattern mismatch: Maya is repair-oriented, secure-but-anxious under stress, and growth-focused; Daniel leans avoidant, tends to withdraw and stonewall, and is slow to act on feedback. Even if attraction initially sustains contact, the likely anxious–avoidant loop plus Daniel’s career-focused, fuzzy timeline and ambivalence about kids make repeated ruptures probable. Character-wise, Maya’s maturity and community resources are genuine assets, but they cannot reasonably be asked to override her explicit faith boundary. The only realistic reversal would be a declared, sustained shift from Daniel — affirming religious childrearing and committing to intensive, demonstrable change in repair/availability — which is a high, unlikely bar. For these reasons the council must rule not_a_match.
 
 **Open tensions for the human matchmaker to weigh (practice option C):**
 
-- Maya requires children raised Catholic; Daniel is agnostic and uneasy with religious parenting
-- Maya wants kids in 1–2 years; Daniel is career-absorbed for 2–3 years and ambivalent on timing
-- Daniel’s avoidant/stonewalling conflict style vs Maya’s prompt-repair orientation
-- Both have explicitly declared dealbreakers that collide (faith/parenting; pressure/timeline)
-- Strong mutual attraction and warmth that could tempt short-term coupling despite longer-term incompatibility
+- Strong mutual physical and emotional spark right now
+- Declared contradiction on raising children in the faith — explicit dealbreaker
+- Maya’s rapid repair orientation vs Daniel’s avoidant/stonewalling pattern
+- Timeline mismatch: Maya wants kids in 1–2 years; Daniel prioritizes a 2–3 year startup
+- Daniel’s stated dislike of feeling judged around religion compounds the values gap
+- Only extreme, sustained change from Daniel (faith stance + repair work) could alter the verdict

@@ -51,3 +51,4 @@ SCORE_MIN, SCORE_MAX = 0.0, 1.0
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LOG_DIR = os.path.join(ROOT, "logs")
 PROFILE_DIR = os.path.join(ROOT, "profiles")
+PRIORS_FILE = os.path.join(ROOT, "config", "priors.json")

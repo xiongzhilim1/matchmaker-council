@@ -3,127 +3,91 @@
 
 ## Round 1
 
-**ValuesFaith** — score `0.75`  _(latency 6.59s)_
+**ValuesFaith** — score `0.80`  _(latency 8.55s)_
 
-> Strong alignment on core VALUES and FAITH: both are devout in the same tradition, embedded in the same community, want children, and prioritize family and faith. Those shared anchors plus a mentor couple and pastoral counseling create real leverage for growth. Risk: both show low-moderate maturity (defensiveness, reactivity, slow repair) that can erode trust if they forego counsel. Success is conditional on active community/mentorship use.
+> Strong alignment on core faith and family goals: both are devout in the same tradition, embedded in the same community, want children, and have the same mentor couple/pastoral support. Those shared beliefs and supports are real levers for long-term concord. Risk: both show low-moderate maturity (defensiveness, avoidance, reactivity, slow apologies) which threatens repair. Conditional compatibility — likely to align over time if they reliably use community counsel; otherwise drift is probable.
 
-**AttractionSpark** — score `0.85`  _(latency 5.35s)_
+**AttractionSpark** — score `0.80`  _(latency 12.95s)_
 
-> Both report a strong mutual spark and are drawn to each other’s faithful, expressive/grounded types. Shared devout faith, same community, and aligned life-stage amplify embodied pull and clear desire. Emotional immaturity (Ravi’s defensiveness, Mei’s reactivity) threatens escalation and sustained erotic/romantic safety, but does not erase a clear, strong attraction—cultivable into durable chemistry with community/counsel support.
+> Strong mutual attraction is evident: both explicitly report a 'strong' spark and are drawn to each other's faithful, expressive/grounded traits. Shared embodied contexts (same faith community, mentor couple) reinforce ongoing chemistry and proximity. Cautions: Ravi's conflict-avoidance/pride and Mei's quick temper can erode playfulness and safety in close moments, so the spark is real but contingent on using community/counsel to preserve it.
 
-**LifeStagePractical** — score `0.60`  _(latency 9.97s)_
+**LifeStagePractical** — score `0.70`  _(latency 8.86s)_
 
-> Both are the same age, ready to commit, want kids, and share faith/community—this aligns timelines and reduces logistical friction. Careers (engineer + teacher) are compatible with a family plan. Significant practical risk: low‑moderate maturity and weak repair (avoidance, defensiveness, reactivity) create daily friction and raise parenting stress. Practically aligned for engagement now; delay having children until demonstrated, supported growth via mentor/counseling.
+> Shared age, careers, devout shared faith, same community and identical desire for kids create strong timeline and logistical alignment. Major practical risk: both have low-moderate maturity and poor repair (Ravi proud/avoidant; Mei reactive), which will cause frequent daily friction. Their viability is conditional on consistent mentor/pastoral counsel and community support to translate faith into growth; without that, practical collision risk rises sharply.
 
-**EmotionalPatternFit** — score `0.28`  _(latency 5.65s)_
+**EmotionalPatternFit** — score `0.30`  _(latency 8.53s)_
 
-> Ravi’s conflict‑avoidance, pride and defensive slow-to-apologize stance is a near-perfect trigger for Mei’s reactive, quick‑tempered, hard-to-self-soothe style — a classic pursue/withdraw escalation. Their low‑moderate maturity and poor repair capacity make automatic soothing unlikely today. The shared faith, mentor couple and counseling are real, concrete levers that could shift this over time, but only if they actively use those supports; otherwise patterns will reliably trigger each other.
+> Ravi's conflict-avoidant, defensive stance and slow-to-apologize (anxious-avoidant mix) will likely trigger Mei's quick-tempered, anxiously reactive style, producing a pursue–withdraw cycle. Their low-moderate maturity and poor self-soothing/repair make escalation likely now. The shared faith, mentor couple, and pastoral counsel are real, credible scaffolds — so improvement is possible but conditional, not automatic.
 
-**EmotionalMaturity** — score `0.60`  _(latency 9.04s)_
+**EmotionalMaturity** — score `0.60`  _(latency 7.38s)_
 
-> Both show low-moderate maturity: Ravi is conflict-avoidant, defensive and slow to apologize; Mei is reactive and quick-tempered though remorseful afterwards. That pairing risks a demand-withdraw cycle that undermines safety. However, they share devout faith, the same community, a mentor couple and access to pastoral counseling — genuine levers for learning accountability and repair. Conditional growth is credible if they actively engage supports; otherwise patterns may persist.
+> Both show low-moderate repair: Ravi avoids hard talks, defensiveness and slow apologies; Mei is reactive and struggles to self-soothe. Those complementary weaknesses threaten trust. But both are committed, remorseful, and embedded in the same devout community with a mentor couple and pastoral counseling—real levers for growth. Conditional hope: likely to improve only with consistent external support and deliberate practice of repair; without it, patterns will corrode the bond.
 
-**WillingnessToGrow** — score `0.70`  _(latency 5.71s)_
+**WillingnessToGrow** — score `0.65`  _(latency 7.25s)_
 
-> Both have clear humility gaps—Ravi is defensive/avoids hard talks and slow to apologize; Mei is reactive and struggles to self-soothe. Yet both are described as "open to growing" and lean on a mentor couple, pastoral counseling, and an active faith community. That external scaffolding makes meaningful refinement likely if they engage it; without structured support their patterns could persist.
+> Both show low-moderate maturity—Ravi is prideful and conflict-avoidant; Mei is reactive and quick-tempered—so current repair habits are weak. Importantly, both explicitly want to grow, share the same devout community, and have a mentor couple/pastoral counseling. That external scaffold materially increases real willingness-to-change, making growth plausible if they commit to sustained counsel and accountability.
 
-_Hill-score after round 1: **0.801** (quality of the judgment) | score spread among agents: 0.179_
+> 🔧 **Self-correction:** Critic flagged: Incorrectly claims shared careers — Ravi is an engineer and Mei a teacher. Other points (similar ages, shared faith/community, desire for kids, low-moderate maturity, need for mentor support) are supported. — asking agent to revise. (agent `LifeStagePractical`)
+
+> 🔧 `LifeStagePractical` revised: score 0.70 → **0.68**. New position: Strong practical alignment on timeline: similar ages (28/27), both explicitly ready to commit, want kids, and are embedded in the same faith community with a mentor couple and pastoral counseling — concrete supports for joint planning and child-rearing. Major practical risk: both show low-moderate maturity and poor repair (Ravi proud/avoidant; Mei reactive/quick-tempered). Daily friction and unresolved conflict are likely unless community/mentors actively sustain growth and repair routines.
+
+_Hill-score after round 1: **0.828** (quality of the judgment) | score spread among agents: 0.168_
 
 
 ## Round 2
 
-**ValuesFaith** — score `0.75`  _(latency 10.28s)_
+**ValuesFaith** — score `0.80`  _(latency 11.51s)_
 
-> Core values and faith are tightly aligned: both are devout in the same tradition, embedded in the same community, share family-first goals (want children), and list leaving faith as a dealbreaker. That shared moral framework is a powerful stabilizer. Risk: both show low‑moderate maturity (Ravi’s pride/avoidance; Mei’s reactivity) that can corrode trust unless they reliably use their mentor couple and pastoral counseling.
+> Strong alignment on core values/faith and family: both are devout in the same tradition, embedded in the same community, want kids, and list leaving faith as a dealbreaker. That shared faith + mentor/pastoral support is a real long-term lever. Risk: mutual low-moderate maturity (Ravi's avoidance/pride; Mei's reactivity) threatens repair. Conditional yes — likely to align over time only with consistent community/counsel involvement.
 
-_Reacting to others:_ I agree with EmotionalPatternFit about the pursue/withdraw danger and with AttractionSpark that their pull is real. My judgment hinges on sustained, active engagement with their faith community and mentors; without that scaffold their shared values may not be enough.
+_Reacting to others:_ I agree with AttractionSpark and LifeStagePractical on strong spark and timing; EmotionalPatternFit rightly flags pursue–withdraw risk. The mentor couple/pastoral counseling is the decisive lever — active, sustained use will determine whether faith produces durable growth or patterns erode the bond.
 
-**AttractionSpark** — score `0.82`  _(latency 10.15s)_
+**AttractionSpark** — score `0.80`  _(latency 7.48s)_
 
-> Both explicitly report a “Strong” mutual spark and are drawn to each other’s faithful, expressive/grounded types (Ravi: expressive, faithful; Mei: grounded, faithful). Shared devout faith, same community/mentor couple, aligned life-stage and shared desire for kids amplify embodied pull. Risk: Ravi’s defensiveness/avoidance and Mei’s reactivity could erode safety; attraction is strong but conditional on using counseling/community to sustain it.
+> Both explicitly report a “strong” spark and are drawn to each other’s faithful, expressive/grounded traits. Shared faith, community rituals, and frequent proximity (same mentor couple/pastoral ties) amplify embodied attraction and ongoing flirtation. Caveat: Ravi’s avoidance/pride and Mei’s quick temper threaten playfulness and erode safety over time—so the spark is real but conditional on active, sustained community/counsel support to preserve repair and intimacy.
 
-_Reacting to others:_ I agree with ValuesFaith and WillingnessToGrow that shared faith/community are real levers. EmotionalPatternFit’s pursue–withdraw warning is valid — without active support that strong spark can dim, so my high score remains conditional.
+_Reacting to others:_ I agree with EmotionalPatternFit and EmotionalMaturity: pursue–withdraw dynamics and poor repair could dampen chemistry. ValuesFaith’s point stands—shared faith/community materially bolster attraction, but only if they consistently use that support to manage conflict.
 
-**LifeStagePractical** — score `0.65`  _(latency 11.5s)_
+**LifeStagePractical** — score `0.68`  _(latency 10.29s)_
 
-> High practical alignment to begin a committed relationship now: same ages (27/28), shared faith community, identical family goals, and compatible careers (engineer + teacher) reduce relocation/major logistical friction. Major practical risk is low‑moderate maturity and weak repair (Ravi’s avoidance/pride; Mei’s reactivity) which will generate daily conflict and parenting stress. Proceed with relationship-building and structured counseling now; postpone having children until consistent repair is demonstrated through mentor/pastoral support.
+> A solid practical fit on timeline: both 27–28, explicitly ready to commit, want kids, share the same faith community, mentor couple and pastoral counseling — good logistics and aligned goals. The key risk is low-moderate maturity and poor repair (Ravi’s avoidance/pride; Mei’s reactivity) which will produce daily friction and strain parenting/career decisions. Success is conditional on sustained, structured external support and agreed repair routines.
 
-_Reacting to others:_ I agree with ValuesFaith and AttractionSpark on shared anchors and with EmotionalPatternFit about a pursue/withdraw hazard. That makes my read conditional: practical fit for commitment now, but delay kids until measured growth via the mentor/pastoral supports.
+_Reacting to others:_ I agree with ValuesFaith and AttractionSpark that shared faith/support is a real lever. I also echo EmotionalPatternFit: pursue–withdraw and weak repair are the chief practical threats. Without disciplined, ongoing counsel and concrete repair practices, day-to-day frictions will likely derail timelines.
 
-**EmotionalPatternFit** — score `0.34`  _(latency 9.2s)_
+**EmotionalPatternFit** — score `0.28`  _(latency 13.29s)_
 
-> Ravi’s conflict‑avoidance, pride and slow-to-apologize (anxious-avoidant mix) is a strong trigger for Mei’s reactive, quick‑tempered anxious style — a classic pursue/withdraw escalation. Both have low-moderate maturity and poor repair capacity today, so automatic soothing is unlikely. Shared faith and a mentor couple are real, concrete levers that could shift this over time, but fit is low unless they actively use structured support.
+> Ravi’s conflict-avoidance, defensiveness and slow-to-apologize (anxious-avoidant mix) is likely to trigger Mei’s anxious, quick-tempered reactivity and poor self-soothing, producing a pursue–withdraw cycle with weak repair. Their shared faith and mentor couple are credible scaffolds, but only conditional support — currently their interaction patterns more reliably trigger than soothe.
 
-_Reacting to others:_ I agree shared faith/community and mentorship are meaningful levers (ValuesFaith, WillingnessToGrow). My read remains cautious: those external supports can materially improve pattern fit, but only if consistently engaged; otherwise the pursue/withdraw cycle will reliably trigger.
+_Reacting to others:_ I agree faith/community and mentors are real levers (ValuesFaith, WillingnessToGrow). They matter, but they won’t automatically resolve an avoidant–reactive loop; disciplined, sustained counseling and accountability are required to shift these triggering patterns.
 
-**EmotionalMaturity** — score `0.50`  _(latency 11.82s)_
+**EmotionalMaturity** — score `0.60`  _(latency 12.16s)_
 
-> Both partners are low-moderate in repair: Ravi is conflict-avoidant, proud and slow to apologize; Mei is reactive and quick-tempered though remorseful after. That pairing invites a pursue-withdraw spiral that undermines safety. Their shared faith, mentor couple and pastoral counseling are credible levers for change—but growth is conditional on sustained, active engagement rather than hope alone.
+> Both partners show weak, complementary repair habits: Ravi avoids conflict, gets defensive and is slow to apologize; Mei is reactive and quick-tempered but remorseful. That pursue–withdraw pattern risks eroding safety. Yet they share a devout community, the same mentor couple, and pastoral counseling—real scaffolds that can foster growth if used consistently. Conditional hope: improvement likely only with sustained external accountability and deliberate repair work.
 
-_Reacting to others:_ I agree faith/community are real levers (ValuesFaith, WillingnessToGrow). EmotionalPatternFit correctly warns of a pursue-withdraw trap; their safety hinges on measurable, ongoing use of mentorship/counseling, not just intent.
+_Reacting to others:_ I agree shared faith and mentors are real levers (ValuesFaith/WillingnessToGrow). I also concur with EmotionalPatternFit that their anxious/avoidant/reactive cycle is high-risk. My emphasis: growth is plausible but depends on consistent, practical accountability and repair routines, not just good intentions.
 
-**WillingnessToGrow** — score `0.70`  _(latency 8.86s)_
+**WillingnessToGrow** — score `0.70`  _(latency 8.46s)_
 
-> Both show real humility gaps now—Ravi is defensive/avoidant and slow to apologize; Mei is reactive and struggles to self-soothe (though remorseful). Crucially, both explicitly lean on faith, a mentor couple, and pastoral counseling. That external scaffolding makes genuine refinement likely if they actively engage it; willingness exists but is conditional and not yet proven.
+> Both explicitly report a desire to grow and list growth supports: same devout community, a mentor couple, and pastoral counseling. That external scaffold meaningfully raises real openness. Yet profiles show defensive/avoidant pride (Ravi), reactivity/poor self-soothing (Mei), and slow apologies—limited humility in practice. Willingness exists but is uneven and conditional on sustained, active accountability and repair work.
 
-_Reacting to others:_ I agree with ValuesFaith and AttractionSpark: shared faith and strong spark are real levers. EmotionalPatternFit rightly warns of pursue/withdraw risk. My read emphasizes that growth is plausible but hinges on disciplined use of the mentor/community supports.
-
-_Hill-score after round 2: **0.868** (quality of the judgment) | score spread among agents: 0.162_
+_Hill-score after round 2: **0.832** (quality of the judgment) | score spread among agents: 0.177_
 
 
-## Round 3
-
-**ValuesFaith** — score `0.78`  _(latency 6.76s)_
-
-> Their faith is a concrete, shared organizing principle: same devout tradition, identical community, the same dealbreaker about leaving faith, and both want kids and family-first lives. That alignment supplies a durable moral framework and practical supports (mentor couple, pastoral counseling). Risk: low-moderate maturity (Ravi’s pride/avoidance; Mei’s reactivity) can undo trust unless they actively submit to community counsel—faith is a real lever but conditional.
-
-_Reacting to others:_ I agree with AttractionSpark and LifeStagePractical about strong alignment and with EmotionalPatternFit about pursue/withdraw risk. The community/mentor scaffold is the decisive factor — it can shift trajectories, but only if both reliably engage it; otherwise their rigidity/maturity gaps will persist.
-
-**AttractionSpark** — score `0.80`  _(latency 8.32s)_
-
-> Both partners explicitly report a “Strong” mutual spark and are attracted to each other’s faithful, expressive/grounded types. Shared devout faith, same community/mentor couple, aligned life-stage and desire for children intensify embodied pull now. Risk: Ravi’s defensiveness/avoidance and Mei’s reactivity are real erosive forces—spark is strong but fragile and conditional on using pastoral/mentor support to sustain safety and playfulness.
-
-_Reacting to others:_ I agree faith/community (ValuesFaith) powerfully magnify attraction and WillingnessToGrow notes real scaffolding. EmotionalPatternFit’s pursue–withdraw warning is apt: that dynamic could quickly smother the spark if they don’t engage mentors and counseling consistently.
-
-**LifeStagePractical** — score `0.65`  _(latency 7.59s)_
-
-> Strong practical fit to start a committed relationship now: same ages (27/28), identical family goals, shared faith community/mentor, and compatible careers reduce relocation and major logistical barriers. Major practical risk is low‑moderate repair capacity (Ravi’s avoidance/pride; Mei’s reactivity) which will create everyday friction and stress around parenting. Proceed together now with structured pastoral/mentor support; delay having children until consistent, demonstrated repair via that community scaffolding.
-
-_Reacting to others:_ I agree with ValuesFaith and AttractionSpark about stabilizing alignment. EmotionalPatternFit and EmotionalMaturity rightly flag pursuit/withdraw risk — that’s my core practical worry. WillingnessToGrow is promising but must be proven; community support is the required condition for safe timing of kids.
-
-**EmotionalPatternFit** — score `0.30`  _(latency 9.53s)_
-
-> Current emotional patterns are high-risk: Ravi’s anxious-avoidant withdrawal, defensiveness and slowness to apologize will reliably trigger Mei’s anxious, reactive pursuit and quick temper, producing a pursue–withdraw spiral. Both have low-moderate repair capacity now, so automatic soothing is unlikely. Shared faith/mentors can correct this, but only with sustained, structured work.
-
-_Reacting to others:_ I agree faith/community are meaningful stabilizers (ValuesFaith, WillingnessToGrow). Still, without practiced repair skills the pursue–withdraw dynamic will persist; my low-fit rating reflects the high likelihood of mutual triggering absent consistent, active intervention.
-
-**EmotionalMaturity** — score `0.50`  _(latency 17.1s)_
-
-> Both partners show low-moderate repair: Ravi’s avoidance/pride and slow-to-apologize versus Mei’s reactivity create a likely pursue–withdraw spiral that undermines safety now. Crucially, both are devout, remorseful at times, and embedded in the same mentor-coupled faith community with pastoral counseling — a real scaffold. Score: 0.50 — growth is credible but conditional on sustained, structured engagement and early, consistent repair practice.
-
-**WillingnessToGrow** — score `0.76`  _(latency 9.1s)_
-
-> Both show clear humility gaps now—Ravi’s defensiveness/avoidance and slow-to-apologize; Mei’s reactivity and trouble self-soothing—so repair isn’t reliable today. Crucially, both explicitly lean on the same faith community, a mentor couple, and pastoral counseling and state a desire to grow. That concrete external scaffolding makes genuine refinement plausible if they actively engage it; willingness exists but is conditional.
-
-_Reacting to others:_ I agree with ValuesFaith and AttractionSpark about the stabilizing power of shared faith. EmotionalPatternFit correctly flags a pursue/withdraw risk. I nudged my score up because their mentor/pastoral support and earnest desire to change are real levers—conditional, not guaranteed.
-
-_Hill-score after round 3: **0.821** (quality of the judgment) | score spread among agents: 0.180_
-
-
-> _Note: Stopping after round 3: hill plateaued (gain -0.046 < 0.05); more rounds won't improve judgment quality_
+> _Note: Stopping after round 2: hill plateaued (gain +0.004 < 0.05); more rounds won't improve judgment quality_
 
 
 ## Final verdict (Judge)
 
-**Decision:** conditional  |  **Confidence:** 0.6
+**Decision:** conditional  |  **Confidence:** 0.55
 
 
-On paper this is a high-opportunity match: identical devout faith, the same mentor couple and pastoral resources, aligned life-stage and family goals, and a reported strong mutual attraction. Those shared institutions are an actual lever — not a platitude — because both name faith and community as central and are already embedded in the same support network. The live risk is behavioral: Ravi’s defensiveness, avoidance and slowness to apologize reliably trigger Mei’s anxious reactivity and quick temper, creating a likely pursue–withdraw spiral. Today their repair capacity is low-to-moderate, so natural friction could erode trust and the current spark. Character tilts hopeful: both express willingness to grow and already lean on the same mentors, meaning real change is plausible if they commit to disciplined, external accountability. For a safe, optimistic path forward they must: engage regular couples work with their mentor/pastor, learn concrete repair skills (timely apologies, de-escalation, timeouts), set accountability checkpoints, and postpone major steps (marriage/children) until consistent evidence of repair. Absent that disciplined structure the match will probably devolve into corrosive cycles.
+On paper this pair scores very well on values, faith, life-stage and attraction: both are devout in the same tradition, embedded in the same community, explicitly want kids, and report a strong mutual spark. That shared faith and the existent mentor couple/pastoral counseling are real, credible levers for change. The live risk is character and emotional-pattern fit: Ravi’s conflict-avoidance, defensiveness and slow-to-apologize reliably trigger Mei’s anxious reactivity and quick temper, producing a pursue–withdraw loop with weak repair. Character here is the multiplier — their stated willingness to grow and existing supports raise genuine hope, but humility and daily practice are uneven. Reality/safety gate: no concrete abuse, concealment, or substance risk was identified, and there is no declared dealbreaker contradiction between them. Recommendation: conditional—this can become a healthy match only if they both commit to structured accountability (regular pastoral/mentor-led counseling), explicit repair tools (time-outs, rapid apology practice, de-escalation scripts), measurable checkpoints, and mutual agreements to avoid contempt. Without sustained, active engagement the pattern will likely erode intimacy over time.
 
 **Open tensions for the human matchmaker to weigh (practice option C):**
 
-- Pursue–withdraw spiral from Ravi’s avoidance and Mei’s reactive anxiety
-- High mutual attraction vs fragile safety in conflict
-- Both willing to grow but currently low-moderate repair skill
-- Reliance on faith/mentors is promising but requires active submission and follow-through
-- Timing for children/marriage should be delayed until demonstrable, sustained repair
+- Pursue–withdraw cycle: Ravi’s avoidance vs. Mei’s anxious reactivity
+- Ravi’s pride/slow apologies vs. need for swift repair
+- Mei’s poor self-soothing under stress vs. daily relational friction
+- Reliance on external scaffold — community/mentor is necessary, not optional
+- Risk to long-term parenting/commitments if patterns persist
+- No declared safety hazards, but change depends on tangible, sustained humility and effort

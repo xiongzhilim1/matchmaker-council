@@ -3,73 +3,75 @@
 
 ## Round 1
 
-**ValuesFaith** — score `0.97`  _(latency 6.81s)_
+**ValuesFaith** — score `0.97`  _(latency 7.96s)_
 
-> Faith and core values are tightly aligned: both lightly spiritual, faith-flexible, and explicitly respectful of a partner’s path. They share timing and desire for children, the same slow-deep life philosophy, high maturity, and growth orientation. Dealbreakers don’t conflict. Long-term mismatch risk is very low. Minor uncertainty (noted) around specific child-rearing practices and differing career rhythms — hence not a perfect 1.0.
+> Strong alignment across core values and faith: both are lightly spiritual/faith-flexible, explicitly family-oriented and want kids in a few years, and share a slow-deep life philosophy. High emotional maturity, secure attachment, and growth orientation greatly reduce long-run risk of value clashes. Dealbreakers (cruelty/closed-heartedness vs dishonesty/stagnation) are complementary rather than contradictory. Mild present spark is not a values/faith red flag and can be cultivated given this foundation.
 
-**AttractionSpark** — score `0.72`  _(latency 7.55s)_
+**AttractionSpark** — score `0.65`  _(latency 8.58s)_
 
-> Both describe mild-but-warming attraction and explicitly endorse a ‘slow-burn’ dynamic. They share values, timing, secure attachment, high maturity and growth orientation — all strong ingredients for attraction to deepen into embodied chemistry. No cruelty/dishonesty red flags. Missing: clear evidence of immediate physical fireworks or playful teasing, so not yet a full-blown spark. Overall, attraction is plausibly and likely cultivable into something strong.
+> Both report mild, warming attraction — Ade: “comfortable and warm… could grow”; Joy: “mild but warming… more attractive as she sees his character.” Their shared slow‑burn preference, secure attachment styles, high maturity, and aligned life goals create fertile ground for chemistry to deepen. Absence of immediate fireworks keeps the score moderate, but mutual openness and character-based pull make stronger spark plausibly cultivable.
 
-**LifeStagePractical** — score `0.90`  _(latency 6.03s)_
+**LifeStagePractical** — score `0.95`  _(latency 7.44s)_
 
-> Strong practical alignment: ages (31/33), both explicitly 'ready' and want kids 'in a few years', careers described as stable/balanced or mission-driven-but-balanced, and high emotional maturity/secure attachment all point to compatible timelines and low daily-life friction. Mild attraction won’t block commitment because both prefer slow-burn growth. Remaining practical unknowns: explicit finances and nonprofit schedule variability — minor risks but not disqualifying.
+> Strong practical alignment: both are in the same age band, explicitly ‘ready to build’ and want kids in a few years. Careers are described as stable/balanced and mission-driven/balanced, faith and family timelines align, and both show high maturity, secure attachment, and growth orientation. No conflicting dealbreakers or logistical/financial red flags are listed. Mild current attraction is noted but not a life-stage barrier.
 
-**EmotionalPatternFit** — score `0.95`  _(latency 5.48s)_
+**EmotionalPatternFit** — score `0.97`  _(latency 5.61s)_
 
-> Both are securely attached, high-maturity, repair-capable and growth-oriented. Their shared patience, aligned life-stage/values, and explicit belief that attraction can deepen makes their stress responses likely soothing rather than triggering. Mild initial spark is intentional and mutual ("slow burn","mild but warming"), reducing fears of rejection. Small downside: if either withdraws action on building attraction, disappointment could arise — but profiles show low risk.
+> Both are securely attached, emotionally mature, repair-capable and growth-oriented. Their shared patience, aligned life-stage and slow-burn preference mean stress is likely met with soothing, not reactivity. Mild initial attraction isn't threatening—it's congruent with cultivating depth. Emotional patterns are strongly complementary and unlikely to trigger each other.
 
-**EmotionalMaturity** — score `1.00`  _(latency 7.79s)_
+**EmotionalMaturity** — score `0.98`  _(latency 6.81s)_
 
-> Both partners are explicitly described as high in self-awareness, repair capacity, and secure attachment, and both are growth-oriented and aligned on values/timeline. No unsafe or concealed patterns are stated. Their shared readiness and openness make accountability and repair very likely — a solid foundation for emotional maturity.
+> Both partners present high emotional maturity: self-aware, repair-capable, secure attachment, and growth-oriented (Ade: “High — self-aware…”, Joy: “High — emotionally fluent…”). They share values, timing for family, and faith-flexibility, creating safety and external support. Mild, warming attraction is described as a slow-burn by both and is plausibly cultivable given their strengths—so immaturity is unlikely to corrode the bond.
 
-**WillingnessToGrow** — score `0.98`  _(latency 4.7s)_
+**WillingnessToGrow** — score `1.00`  _(latency 8.19s)_
 
-> Both profiles explicitly show humility and growth: 'actively works on himself,' 'reflective, growth-committed,' emotionally fluent, secure attachment, low ego and good repair. Their shared faith-flexible stance and family/community orientation offer real external scaffolding. Dealbreakers (closed‑heartedness, stagnation) further signal commitment to openness. Nothing in the data suggests rigidity; mild attraction is noted but they both believe attraction can deepen.
+> Both Ade and Joy present strong humility and receptivity: secure attachment, high emotional maturity, explicit growth-orientation ('actively works on himself', 'emotionally fluent'), and repair-focused language. They name stagnation/closed-heartedness as dealbreakers and are faith-flexible — indicating they accept external supports. Their mindset and stated behaviors fit the top of the scale for willingness to be refined.
 
-_Hill-score after round 1: **0.916** (quality of the judgment) | score spread among agents: 0.095_
+_Hill-score after round 1: **0.924** (quality of the judgment) | score spread among agents: 0.122_
 
 
 ## Round 2
 
-**ValuesFaith** — score `0.97`  _(latency 7.19s)_
+**ValuesFaith** — score `0.97`  _(latency 8.42s)_
 
-> Both are explicitly 'lightly spiritual' and faith‑flexible, respect a partner’s path, and name the same timeline for children ('in a few years'). Their shared slow‑deep life philosophy, family orientation, secure attachment, and high growth orientation all point to strong long‑term value/faith alignment. Small uncertainty: no stated child‑rearing doctrine or detailed religious practice and potential career rhythm differences (nonprofit vs engineering) could require negotiation.
+> Both are lightly spiritual/faith-flexible, share the same family timeline (want kids in a few years), and endorse a slow‑deep life philosophy. Their high emotional maturity, secure attachment styles, and explicit growth orientation strongly reduce long‑term risk of value/faith clashes. Mild present spark is not a values/faith red flag and can be cultivated on this foundation.
 
-_Reacting to others:_ I agree attraction can be cultivated (AttractionSpark) and practical/emotional fits lower long‑term risk (LifeStagePractical, EmotionalPatternFit). Main unresolved item remains specific child‑raising practices and day‑to‑day career rhythm negotiations.
+_Reacting to others:_ I concur with others: aligned faith, timing, and growth orientation justify a high score. Attraction‑caution is fair, but strong willingness to grow and emotional maturity make deepening likely, not a values risk.
 
-**AttractionSpark** — score `0.78`  _(latency 7.1s)_
+**AttractionSpark** — score `0.65`  _(latency 9.84s)_
 
-> Both explicitly describe a "mild" and "warming" attraction and prefer a slow‑burn drawn to depth. Their secure attachment, high maturity, and shared timeline/family goals are strong, concrete ingredients for embodied chemistry to develop. What’s missing is evidence of immediate physical fireworks or playful, flirtatious interaction — so not full present spark, but quite plausibly and likely cultivable into strong attraction.
+> Both explicitly report a mild, warming attraction and prefer a 'slow burn'—Ade: "comfortable and warm... could grow"; Joy: "mild but warming... more attractive as she sees his character." Their secure attachment, high maturity, and aligned life-stage make deepening chemistry plausible, but the current absence of clear visceral/physical spark keeps my score moderate.
 
-_Reacting to others:_ I echo the council consensus: values, timing, and emotional maturity strongly support attraction deepening. That growth will require intentional, playful, sensory courtship rather than passive waiting.
+_Reacting to others:_ I agree with others that shared values, secure attachment, and growth orientation make attraction cultivable. Still, without stronger embodied/physical cues or 'fireworks' now, the pace will likely be slow and needs ongoing interaction to confirm growth.
 
-**LifeStagePractical** — score `0.90`  _(latency 14.06s)_
+**LifeStagePractical** — score `0.95`  _(latency 10.41s)_
 
-> Strong practical fit: ages 31 & 33, both explicitly 'ready' and want kids 'in a few years', careers described as stable/balanced (civil engineer; nonprofit program lead), and both have secure attachment/high maturity. That alignment reduces timeline and daily-life friction. Missing concrete data on finances, housing/location, and exact work schedules are minor unknowns, so I dock slightly from a perfect 1.0.
+> Strong practical fit. Ages 33/31, both explicitly ‘ready to build’ and want kids in a few years. Careers described as stable/balanced and mission-driven/balanced; both secure-attached, high maturity, growth-oriented. Dealbreakers are not mutually exclusive and no logistical/financial red flags are listed. Mild current spark is noted but not a life-stage barrier to commitment or timing.
 
-_Reacting to others:_ I echo ValuesFaith and EmotionalMaturity on deep alignment. I agree with AttractionSpark — mild attraction won't block commitment given their slow-burn preference. My small deduction reflects absent specifics about finances, living situation, and schedules.
+_Reacting to others:_ I agree with ValuesFaith and EmotionalPatternFit — timelines and maturity line up. AttractionSpark’s caution is reasonable, but cultivation is plausible given their growth orientation and aligned practical timelines.
 
-**EmotionalPatternFit** — score `0.95`  _(latency 7.05s)_
+**EmotionalPatternFit** — score `0.97`  _(latency 8.06s)_
 
-> Both are securely attached, emotionally mature, repair-capable and growth-oriented, sharing timeline/values and an explicit belief attraction can deepen. Those patterns predict soothing responses under stress and low mutual triggering. Small remaining risk: the current mild spark needs active cultivation — but both profiles show readiness to do that, keeping risk minimal.
+> Both profiles show secure attachment, high emotional maturity, repair-capability and active growth orientation. They explicitly prefer a slow‑burn, are patient about building family life, and name avoidance of cruelty/stagnation/dishonesty as dealbreakers. Those patterns make stress responses more likely to soothe than trigger; mild present spark fits a cultivable trajectory rather than a relational risk.
 
-_Reacting to others:_ I agree with others: values, life-stage and maturity strongly favor fit. AttractionSpark rightly notes lack of instant fireworks — that’s only risky if investment stops; here both explicitly commit to growth and slow-building attraction.
+_Reacting to others:_ I agree with ValuesFaith, EmotionalMaturity and WillingnessToGrow — their shared slow‑burn preference and life-stage alignment (ready for family) support AttractionSpark and LifeStagePractical’s conclusions: low friction, high potential to deepen.
 
-**EmotionalMaturity** — score `1.00`  _(latency 8.97s)_
+**EmotionalMaturity** — score `0.97`  _(latency 8.47s)_
 
-> Both profiles explicitly describe high self-awareness, secure attachment, consistent repair capacity, low ego, and strong growth orientation. Their dealbreakers (cruelty/closed‑heartedness/dishonesty/stagnation) further protect relational safety. No unsafe or concealed patterns are stated. Mild attraction is acknowledged but both endorse a slow‑burn and are committed to growth, making accountability and repair very likely and emotional maturity essentially reliably present.
+> Both profiles show concrete markers of high emotional maturity: self-awareness, secure attachment, explicit repair capacity, and active growth orientation. Dealbreakers and aligned timelines create safety. Mild, warming attraction is noted by both as a slow burn — a limitation but not an immaturity. Overall, their strengths make durable repair and growth highly likely.
 
-**WillingnessToGrow** — score `0.98`  _(latency 6.37s)_
+_Reacting to others:_ I agree with ValuesFaith, LifeStagePractical, and EmotionalPatternFit — they reinforce strong maturity and alignment. AttractionSpark rightly tempers enthusiasm given mild chemistry; WillingnessToGrow justifies optimism that spark can deepen.
 
-> Both profiles explicitly name high growth-orientation: 'actively works on himself,' 'reflective, growth-committed,' emotionally fluent and repair-capable with secure attachment. Dealbreakers (closed‑heartedness, stagnation) signal motivation to remain open. Their faith‑flexible, family/community orientation provides real external scaffolding. No stated rigidity; mild attraction is framed as cultivable, not resistant.
+**WillingnessToGrow** — score `1.00`  _(latency 10.34s)_
 
-_Reacting to others:_ I agree with others: values, timing, and emotional maturity strongly support growth. Small caveat: deepening attraction requires sustained, mutual intentionality — but the profiles show the temperament and supports to do that.
+> Both explicitly describe high emotional maturity, secure attachment, and active growth-orientation (Ade: 'actively works on himself'; Joy: 'reflective, growth-committed'). Their dealbreakers (closed‑heartedness, stagnation) and faith‑flexibility signal openness to outside support. Grounded language about repair and slow‑burn attraction shows humility and readiness to be refined — full credit.
 
-_Hill-score after round 2: **0.929** (quality of the judgment) | score spread among agents: 0.074_
+_Reacting to others:_ I agree with values, life‑stage, and emotional‑maturity reads. Mild initial spark is noted but irrelevant to willingness: both name growth and external support as real levers, strengthening the case for long‑term refinement.
+
+_Hill-score after round 2: **0.868** (quality of the judgment) | score spread among agents: 0.121_
 
 
-> _Note: Stopping after round 2: agents converged (spread 0.074 < 0.12)_
+> _Note: Stopping after round 2: hill plateaued (gain -0.056 < 0.05); more rounds won't improve judgment quality_
 
 
 ## Final verdict (Judge)
@@ -77,12 +79,12 @@ _Hill-score after round 2: **0.929** (quality of the judgment) | score spread am
 **Decision:** conditional  |  **Confidence:** 0.6
 
 
-Strengths: Ade and Joy align closely on faith stance, family timeline, life stage, and practical readiness; both report secure attachment, high self-awareness, and explicit growth orientation. Those are high‑leverage assets — emotionally fluent partners who repair well and actively pursue growth greatly increase the chance that mild spark will become embodied attraction. Live tensions: attraction is currently mild on both sides and there’s limited data on daily logistics (finances, housing, schedules) and on how they flirt/play physically. Character multiplies the read: because both demonstrate humility, repair skill, and commitment to cultivation, the lack of immediate fireworks is not a dealbreaker — it’s a manageable development task. What would have to change: observable warming of attraction through intentional courtship (play, shared projects, vulnerability pacing, physical affection experiments), and practical alignment confirmed (work rhythm, location/finances). No concrete trust or safety hazards are present, so the sensible path is a time‑boxed, supported courtship with clear check‑ins.
+Strengths: Ade and Joy align tightly on values, faith flexibility, and life stage (both want kids in a few years), and they share secure attachment styles and very high growth orientation. Those factors create a rare safety and trust foundation where attraction often deepens as partners witness one another’s character. Character multiplies the case: both report active self‑work and repair capacity, which makes it realistic that a slow burn could become durable chemistry rather than fossilize into complacency. Live tensions: attraction is currently mild for both — described as “comfortable/warming” — so the match depends on whether that warming accelerates into visceral spark. That is an empirical question outside profile data. There is no declared dealbreaker contradiction and no concrete trust/safety hazard, so hope is warranted, but not guaranteed. What would have to change: intentional investment in romantic initiation (shared vulnerability, physical affection, date rhythms, mutual erotic curiosity) and explicit conversations about pacing and expectations around family timing. If either partner withdraws from that intentionality or slips into stagnation/closed‑heartedness, the match will likely fail; if they invest, attraction can grow.
 
 **Open tensions for the human matchmaker to weigh (practice option C):**
 
-- Current attraction is mild — needs to warm into embodied chemistry
-- Unspecified logistics: finances, housing, and daily schedules
-- No evidence yet of playful/physical flirtation or shared rituals
-- Need explicit plan for courting pace and integration of family/career rhythms
-- Both must guard against slipping into complacent familiarity before spark develops
+- Present attraction is mild for both; needs intentional cultivation
+- Shared slow‑burn preference helps, but requires active romantic work
+- Family timeline (kids in a few years) could create pressure to accelerate chemistry
+- Risk of complacency/stagnation if intentionality lapses (Joy's stated dealbreaker)
+- No safety hazard now — ongoing transparency and mutual accountability remain important

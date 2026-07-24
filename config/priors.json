@@ -1,0 +1,11 @@
+[
+  {
+    "id": "prior_001",
+    "pattern": "trust_safety_gate_inferred_not_confirmed",
+    "guidance": "Distinguish CONCEALED/INFERRED hazards from DECLARED dealbreaker contradictions. Concealed patterns (unverified, not disclosed) warrant a high-conviction PAUSE (lean-no conditional at ~0.55-0.65 confidence). Declared dealbreakers (explicitly stated non-negotiables that the other person clearly contradicts) warrant a clear not_a_match at ~0.80-0.90 confidence. Do not confuse the two.",
+    "applies_to": "judge",
+    "source": "diagnosis: pair_06 (Noah & Grace) grace_skeptic overconfidence — Judge escalated to not_a_match at 0.90 on an inferred (not confirmed) avoidant pattern; label wants conditional_no band at 0.55-0.70",
+    "added": "2026-07-24",
+    "success_gate_delta": "+0.0046 mean hill (neutral +0.0003, grace +0.0058, grace_skeptic +0.0076); calibration 0.917→1.000"
+  }
+]

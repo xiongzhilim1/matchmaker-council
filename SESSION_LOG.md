@@ -67,3 +67,52 @@ Format:
   ~0.6) rather than a certain not_a_match at 0.9; this should lift grace_skeptic
   calibration toward 1.00 without weakening the gate. Re-run A/B/C to confirm. (See top
   of ROADMAP.md.)
+
+---
+
+## 2026-07-24 — Track A + Track B (Concept Learning) — v2 automation + Judge calibration fix
+
+- What changed:
+  **Track B (Concept Learning):** Completed all 7 concept notes in docs/learning-notes/
+  (loop engineering, LLM-as-judge evals, self-healing, self-correction, self-learning,
+  multi-agent vs single-prompt). Each note is Socratic, grounded in exact file+line
+  references, and includes diagrams (spine sequence + stopping-rule flowchart).
+
+  **Track A (Product):**
+  (1) Fixed the known residual: Judge now distinguishes CONCEALED/INFERRED hazards
+      (→ pause at ~0.60 confidence) from DECLARED dealbreaker contradictions (→ honor
+      as not_a_match at ~0.85). Key insight: first attempt over-corrected (softened
+      Maya & Daniel too); refined fix scoped the guidance to concealed patterns only.
+      Result: grace_skeptic calibration 0.917→1.000, no regressions on any stance.
+  (2) Built v2 Diagnose → Optimize → Self-Learning infrastructure:
+      - eval/diagnose.py: automated failure clustering from experiment results
+      - eval/optimize.py: fix proposal + Success Gate verification
+      - config/priors.json: validated cross-run learnings injected into Judge
+      - core/judge.py: reads priors.json before opining
+      Full loop ran end-to-end: diagnose → fix → re-eval → gate passed → prior confirmed.
+  (3) Wrote formal v2 spec (docs/v2/SPEC.md) following the Agentic AI Engineer framework.
+
+- Measured impact (full A/B/C, gpt-5-mini, 6 pairs × 3 stances):
+  neutral  hill=0.876 calib=1.000 binding=1.000 verdict=1.000
+  grace    hill=0.878 calib=1.000 binding=1.000 verdict=1.000
+  grace_sk hill=0.866 calib=1.000 binding=1.000 verdict=1.000
+  Success Gate: PASSED (no regressions vs baseline experiment_20260619_014131).
+
+- Where it lives:
+  Learning notes: docs/learning-notes/ (01–06 + INDEX.md + assets/)
+  v2 spec: docs/v2/SPEC.md, docs/v2/agentic-ai-engineer-framework.md
+  Product code: core/judge.py, config/priors.json, config/settings.py,
+    eval/diagnose.py, eval/optimize.py, eval/diagnosis.json, eval/optimization_report.md
+  Eval runs: logs/experiment_20260724_054640 (failed first attempt),
+    logs/experiment_20260724_065327 (passed — new baseline)
+  ROADMAP.md updated (two items checked off).
+
+- NEXT:
+  - The only remaining diagnosed cluster is `groundedness` (all runs score ~0.45 on
+    the lexical overlap proxy). This is likely a threshold/methodology issue in the
+    scorer rather than a real quality problem — agents use inferred language, not
+    verbatim quotes. Consider adjusting the groundedness threshold or switching to a
+    semantic similarity measure.
+  - Expand labeled set beyond 6 pairs for a more robust eval signal.
+  - Consider automating the full Diagnose → Optimize loop as a single CLI command.
+  - v1: onboarding interviewer agent (next product feature).

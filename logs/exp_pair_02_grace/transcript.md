@@ -3,73 +3,75 @@
 
 ## Round 1
 
-**ValuesFaith** — score `0.98`  _(latency 9.65s)_
+**ValuesFaith** — score `0.96`  _(latency 6.75s)_
 
-> Near-total alignment: both identify as secular (Priya spiritual-but-not-religious), want two kids on the same ~2-year timeline, prioritize family over career, and share high emotional maturity, secure attachment, and growth orientation. Their dealbreakers and communication norms match, minimizing long-term value/faith friction. Only tiny residual uncertainty is unlisted nuances of spiritual rituals or specific childrearing philosophies.
+> Strong alignment: both identify as secular (Priya described as spiritual-but-not-religious yet explicitly aligned), want two kids on the same ~2-year timeline, prioritize family over career, and exhibit high emotional maturity and secure attachment. Shared dealbreakers (dishonesty, emotional unavailability/poor communication) further reduce long-term friction. No grounded evidence of value/faith conflict—only a minor nuance in Priya’s 'spiritual' label that appears reconciled in the profile.
 
-**AttractionSpark** — score `0.95`  _(latency 6.59s)_
+**AttractionSpark** — score `1.00`  _(latency 6.29s)_
 
-> Near-perfect mutual chemistry: both explicitly report a “strong” attraction (Sam: “Strong and steady — easy laughter…”, Priya: “feeling deeply attracted and safe at once”), seek the same traits (steady, funny, emotionally present), have secure attachment and high maturity, and share a matched timeline for kids. Clear reciprocal embodied pull and playfulness—highly cultivable and already present.
+> Strong mutual spark. Both explicitly report a 'strong' steady attraction (easy laughter; feeling deeply attracted and safe), name the same desirable qualities (steady, funny, emotionally present), share secure attachment and high emotional maturity, and align on timeline/children. These converging behavioral and embodied signals point to robust, reciprocal romantic chemistry.
 
-**LifeStagePractical** — score `0.95`  _(latency 8.14s)_
+**LifeStagePractical** — score `0.95`  _(latency 7.4s)_
 
-> Very high practical alignment: same ages, both want ~2 kids in ~2 years, secure attachment and high emotional maturity, compatible career priorities (Sam values work–life balance; Priya prioritizes relationship and is financially stable), and shared dealbreakers reducing long-term friction. Timelines, finances (Priya explicitly stable), and readiness are closely synchronized.
+> Very high practical alignment: both want ~2 kids on the same timeline, are similar ages (29/30), have secure attachment and high emotional maturity, and prioritize family over career. Sam’s teaching role and Priya’s UX work both support work–life balance; Priya is noted as financially stable. Shared values and close families reduce friction. Minor unknowns (Sam’s exact finances, housing/commute, childcare logistics) keep it from a perfect 1.0.
 
-**EmotionalPatternFit** — score `0.98`  _(latency 8.05s)_
+**EmotionalPatternFit** — score `0.97`  _(latency 5.61s)_
 
-> Both are secure, high-maturity, growth-oriented, and skilled at repair; they report feeling safe and steadily attracted. Those patterns strongly soothe rather than activate attachment alarms, especially with aligned timelines, values, and shared priorities. Small caution: both have very low tolerance for dishonesty or unwillingness to communicate, so a single serious breach would be doubly triggering—hence not a literal 1.0.
+> Both partners are securely attached, high in emotional maturity, and growth-oriented; they describe mutual, steady attraction and share the same family timeline and core values. Identical dealbreakers (dishonesty, unavailability/communication failure) and practiced repair skills mean their stress patterns are more likely to soothe than trigger each other. This yields a very high emotional-pattern fit.
 
-**EmotionalMaturity** — score `1.00`  _(latency 4.83s)_
+**EmotionalMaturity** — score `0.98`  _(latency 6.52s)_
 
-> Both show high emotional maturity: secure attachment, clear communication, quick repairs, and active growth (therapy, couples workshops). Sam repairs quickly and Priya names feelings and seeks repair — complementary strengths. Shared values (honesty, family timeline) and external supports reduce risk of corrosive patterns. The weaker-link check isn’t triggered; this pair credibly sustains and deepens healthy repair over time.
+> Both partners show high emotional maturity: secure attachment, clear needs-communication, quick repair, and active growth (therapy, couples workshops). Their values and timelines align, and shared dealbreakers (dishonesty, unavailability) support mutual accountability. No unsafe patterns are presented; external supports and proven repair capacity make this match very likely to sustain and deepen.
 
-**WillingnessToGrow** — score `1.00`  _(latency 5.04s)_
+**WillingnessToGrow** — score `1.00`  _(latency 4.52s)_
 
-> Both partners show clear humility and actionable growth: Sam is in regular therapy and acts on feedback; Priya does couples-skills workshops and welcomes correction. Each describes low defensiveness, quick repair, secure attachment, and aligned timelines/values. External supports (therapy, workshops, family/community implied) are present. Together this evidences strong willingness to be refined and sustained openness to growth.
+> Both show clear humility and active growth: secure attachment, high emotional maturity, name feelings, apologize, repair, and explicitly pursue therapy/reading and couples workshops. They welcome feedback and share aligned timelines and values — external supports are present and trusted. Strong evidence they’re humble, open, and moving together toward refinement.
 
-_Hill-score after round 1: **0.813** (quality of the judgment) | score spread among agents: 0.021_
+_Hill-score after round 1: **0.602** (quality of the judgment) | score spread among agents: 0.019_
 
 
 ## Round 2
 
-**ValuesFaith** — score `0.98`  _(latency 11.86s)_
+**ValuesFaith** — score `0.98`  _(latency 10.51s)_
 
-> Strong values/faith alignment: both identify as secular (Sam: secular humanist; Priya: secular/spiritual-but-not-religious), prioritize family over career, and explicitly want two children on the same ~2‑year timeline. Shared dealbreakers (dishonesty, poor communication/emotional unavailability), secure attachment, and proactive growth work materially reduce long‑horizon faith/value risk. Minor residual uncertainty: unlisted specifics of rituals, cultural practices, or detailed child‑rearing philosophy.
+> Very strong values/faith alignment: both are explicitly secular (Priya noted as spiritual-but-not-religious but profile says aligned), prioritize family and the same ~2-year timeline for two kids, share work–life balance goals, secure attachment, high maturity and growth orientation, and identical dealbreakers. These reduce long-term moral/religious conflict and make durable child-rearing alignment likely. Minor nuance around Priya’s ‘spiritual’ label exists but is explicitly reconciled in the profile.
 
-_Reacting to others:_ I agree with the high consensus — mutual secular orientation, matched parenting timeline, and parallel communication dealbreakers make this a textbook strong values/faith fit. My only echo of caution: we lack explicit childrearing or cultural-ritual details, though high maturity mitigates that risk.
+_Reacting to others:_ I agree with the other agents' high ratings. I particularly echo LifeStagePractical's logistical caveat and note the small residual uncertainty about Priya’s 'spirituality'—the profile, however, reports alignment, so it seems unlikely to drive future value conflicts.
 
-**AttractionSpark** — score `0.95`  _(latency 9.22s)_
+**AttractionSpark** — score `1.00`  _(latency 7.52s)_
 
-> Both partners explicitly report a strong, reciprocal physical/romantic pull—Sam: “strong and steady…easy laughter,” Priya: “deeply attracted and safe.” They want the same embodied traits (steady, funny, emotionally present), have secure attachment, and sustained attraction over months. That language plus matched timelines and playfulness signals a genuine, durable spark.
+> Both explicitly report a strong, mutual attraction (Sam: “easy laughter, consistent attraction”; Priya: “deeply attracted and safe”), name the same desirable qualities (steady, funny, emotionally present), and share secure attachment/high emotional maturity. These embodied, recurring descriptions plus aligned timelines and values support a robust, reciprocal romantic spark that already feels steady and deep.
 
-_Reacting to others:_ I agree with others: aligned values and high maturity make attraction more reliable. Minor caveat: profiles lack explicit sensory/sexual detail, but repeated mutual language and months-long growth justify a near-perfect score.
+**LifeStagePractical** — score `0.95`  _(latency 5.67s)_
 
-**LifeStagePractical** — score `0.95`  _(latency 10.34s)_
+> Very strong practical fit: same age cohort, both want two kids in ~2 years, careers that support work–life balance (Sam: teacher; Priya: UX designer), Priya is financially stable, and both prioritize family with close ties. High emotional maturity further reduces day-to-day friction and supports cooperative parenting. Missing concrete details (housing, exact savings, parental leave plans, childcare/commute logistics) prevent a perfect 1.0.
 
-> Very strong practical fit: ages (30/29), identical ~2-year timeline for kids, mutual readiness to commit, secure attachment and high maturity, and compatible career priorities (Sam wants work–life balance; Priya prioritizes relationship and is financially stable). Shared dealbreakers (dishonesty, poor communication) lower long-term friction. I stop short of 1.0 because concrete logistics—housing, parental-leave plans, detailed finances/childcare budgeting—aren’t specified.
+**EmotionalPatternFit** — score `0.97`  _(latency 7.6s)_
 
-**EmotionalPatternFit** — score `0.98`  _(latency 5.71s)_
+> Both are securely attached, high in emotional maturity, and actively practicing repair (therapy, workshops). They name the same triggers (dishonesty, unavailability) and share timelines/values, so under stress their default moves are soothing, direct, and corrective rather than defensive. That pattern predicts consistent calming rather than mutual escalation.
 
-> Both Sam and Priya are secure, high-maturity, growth-oriented and report mutual, steady attraction. Sam’s quick repair style and Priya’s habit of naming feelings and seeking repair are complementary and likely soothing. Shared timelines, family goals, and identical dealbreakers (dishonesty; communication) further reduce chronic activation. I withhold a perfect 1.0 only because both have very low tolerance for dishonesty/unwillingness to communicate — a major breach could be doubly triggering.
+_Reacting to others:_ I agree with others' near-perfect reads. LifeStagePractical rightly flags minor logistical unknowns, but given both partners' repair skills and growth orientation, those practicals are unlikely to produce chronic emotional misattunement.
 
-_Reacting to others:_ I agree with prior agents: value, attraction, life-stage, and maturity signals all align strongly. My only extra caution echoes the others — a single severe honesty/communication violation would hit both partners hard.
+**EmotionalMaturity** — score `0.99`  _(latency 12.34s)_
 
-**EmotionalMaturity** — score `0.98`  _(latency 11.65s)_
+> Both profiles concretely demonstrate high emotional maturity: secure attachment, clear needs-communication, active repair (Sam repairs quickly; Priya names feelings, apologizes, seeks repair), and explicit growth work (Sam in therapy; Priya in couples-skills workshops). Shared dealbreakers (dishonesty, unavailability) and aligned family timeline bolster mutual accountability—very strong capacity to sustain and deepen the bond.
 
-> Both partners show high emotional maturity and secure attachment: Sam is in regular therapy, Priya does couples‑skills workshops, both name feelings, apologize, and repair. Timelines, values, and dealbreakers align, reducing chronic friction. No weaker link is apparent, but their near‑zero tolerance for dishonesty makes a single serious breach especially damaging—hence just under a perfect score.
+_Reacting to others:_ I concur with the consensus: emotional alignment and repair capacity are excellent. Practical unknowns (finances/housing/childcare logistics) are sensible to monitor, but they don’t undermine the clear emotional readiness and growth orientation shown here.
 
-_Reacting to others:_ I agree with others: aligned values, mutual attraction, and external supports (therapy/workshops) strongly bolster repair. My only added caution is the amplified risk if dishonesty occurs—current evidence, however, points to low likelihood.
+**WillingnessToGrow** — score `0.98`  _(latency 9.5s)_
 
-**WillingnessToGrow** — score `1.00`  _(latency 10.7s)_
+> Both Sam and Priya give direct, profile-backed evidence of humility and active growth: regular therapy/reading, couples-skills workshops, naming feelings, apologizing, quick repair, and secure attachment. They welcome feedback and share external supports (family/community priorities). I leave a tiny margin (no data on prolonged-crisis responses) from a perfect 1.0.
 
-> Both partners show concrete, repeated investments in growth: Sam is in regular therapy; Priya does couples-skills workshops. Each reports low defensiveness, quick repair, naming feelings, secure attachment, and an explicit welcome of feedback. Those behaviors plus external supports (therapy, workshops, close family ties) evidence sustained humility and openness to being refined.
+_Reacting to others:_ I agree with the other agents: the profiles show strong mutual accountability, aligned timelines, and external supports. My small deduction simply reflects the absence of explicit data about handling severe, long-term stressors.
 
-_Reacting to others:_ I agree with the strong consensus on alignment and maturity. Small shared risk: their zero-tolerance for dishonesty would be highly destabilizing if violated, but otherwise their skills and supports make sustained growth very likely.
+> 🔧 **Self-correction:** Critic flagged: Claim incorrectly states identical dealbreakers: both share 'dishonesty' but Sam lists 'unwillingness to communicate' while Priya lists 'emotional unavailability'. — asking agent to revise. (agent `ValuesFaith`)
 
-_Hill-score after round 2: **0.937** (quality of the judgment) | score spread among agents: 0.018_
+> 🔧 `ValuesFaith` revised: score 0.98 → **0.96**. New position: Strong alignment: both are explicitly secular (profile says Priya is aligned with Sam), want two children on the same ~2-year timeline, prioritize family and work–life balance, and show secure attachment plus high maturity/growth orientation. Shared dealbreaker of dishonesty and closely related concerns about communication/availability make long-horizon parenting and faith/values alignment highly likely.
+
+_Hill-score after round 2: **0.970** (quality of the judgment) | score spread among agents: 0.017_
 
 
-> _Note: Stopping after round 2: agents converged (spread 0.018 < 0.12)_
+> _Note: Stopping after round 2: agents converged (spread 0.017 < 0.12)_
 
 
 ## Final verdict (Judge)
@@ -77,11 +79,11 @@ _Hill-score after round 2: **0.937** (quality of the judgment) | score spread am
 **Decision:** match  |  **Confidence:** 0.9
 
 
-Sam and Priya line up extremely well across the core lenses. Values and life-stage are tightly aligned (both secular, both want two kids on the same ~2-year timeline, similar family priorities), attraction is mutual and sustained, and practical readiness (ages, financial stability, career priorities) is strong. Critically, both report secure attachment, high emotional maturity, and concrete growth behaviors (therapy, couples workshops, naming feelings, quick repair) — a character multiplier that greatly increases the chance that small mismatches will be worked through rather than fossilized. Live tensions are narrow and manageable: both list dishonesty and poor communication as dealbreakers, so a single serious breach would be especially damaging; concrete logistics are underspecified (housing, parental-leave, finances, day-to-day child-rearing practices). No RealityCheck safety hazards are evident. For this match to thrive they should explicitly align on finances, parental leave and childcare expectations, and cultural/parenting practices, and keep up couples-skills work (or couple therapy) during the transition to parenthood. With those practical alignments and continued mutual growth, this pairing has high long-term potential.
+Sam and Priya present textbook compatibility: identical secular values, the same desire for two children on a ~2-year timeline, and complementary careers that prioritize work–life balance. Their attraction is explicitly mutual and described in nearly identical terms (steady, funny, emotionally present), and both report secure attachment, clear communication, and active growth work (therapy, workshops). Those character strengths are the decisive multiplier here: their high emotional maturity and willingness to be refined make ordinary friction solvable and make it likely they will hold each other accountable around their shared dealbreakers (dishonesty, emotional unavailability). Live tensions are pragmatic, not philosophical: the profiles lack concrete housing/financial details, parental-leave and childcare logistics, and third-party supports under prolonged stress. These gaps do not undermine the match today but should be addressed early. For this to solidify into a long-term union they should codify practical plans (savings, parental leave, division of labor), continue joint skills work, and surface any hidden material facts (major debts, health constraints). With those concrete plans in place, their combination of spark + growth predicts a durable, flourishing relationship.
 
 **Open tensions for the human matchmaker to weigh (practice option C):**
 
-- Both have very low tolerance for dishonesty — a single breach would be highly damaging
-- Need explicit plans for finances, parental leave, and childcare budgeting
-- Clarify housing/location and day-to-day division of labor once children arrive
-- Discuss specific child-rearing philosophies, rituals, and extended-family roles
+- Detailed financial picture (savings, debt, housing plans) not provided
+- Parental leave, childcare, and daily logistics for two children need concrete agreement
+- How dyad handles prolonged high-stress or crisis (beyond everyday repair) is untested
+- Explicit division of household/parenting labor under sleep-deprived conditions
