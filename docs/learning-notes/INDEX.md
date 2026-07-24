@@ -11,7 +11,7 @@ running example so the learning stays concrete.
 - [x] Self-healing — routing around dead components (see `core/llm.py`, `core/council.py`) → [03-self-healing.md](03-self-healing.md)
 - [x] Self-learning — memory/priors across runs (deferred; v2) → [05-self-learning.md](05-self-learning.md)
 - [x] LLM-as-judge evals & why they saturate (see `docs/post_final.md` §3) → [02-llm-as-judge-evals.md](02-llm-as-judge-evals.md)
-- [ ] Multi-agent negotiation vs single-prompt — when many agents are worth the cost
+- [x] Multi-agent negotiation vs single-prompt — when many agents are worth the cost → [06-multi-agent-vs-single-prompt.md](06-multi-agent-vs-single-prompt.md)
 
 ## Notes
 - [01 — Loop Engineering & the Spine](01-loop-engineering.md) — the deliberation spine, lag-1 cross-round debate, the hill formula, the four-gate stopping rule, and why a stopping rule is only as good as the (saturating) metric it watches. Includes `assets/spine_sequence.png` and `assets/stopping_rule.png`.
@@ -19,6 +19,7 @@ running example so the learning stays concrete.
 - [03 — Self-Healing](03-self-healing.md) — three layers of defense (retry, JSON repair, structured surrender), the `down=True` sentinel, routing around dead agents, the referee fallback trap, and why self-heal instead of crash-and-restart.
 - [04 — Self-Correction](04-self-correction.md) — the critic's narrow yes/no mandate, one-revision contract, placement before the hill, why skip-on-failure is safer than substitute, and how `critic_fired` feeds the eval's anti-groupthink component. Includes runnable test + fault injection.
 - [05 — Self-Learning](05-self-learning.md) — cross-run memory design: the safety hierarchy (real outcomes > eval results > traces > own verdicts), what to learn (calibration priors, pattern priors, process priors), where it lives (`config/priors.json`), and the Diagnose → Optimize → Evaluate loop from the Agentic AI Engineer framework. v2 design target.
+- [06 — Multi-Agent vs Single-Prompt](06-multi-agent-vs-single-prompt.md) — three structural advantages (decomposition, adversarial pressure, critic tractability), which eval components break on single-prompt, the Skeptic argument, and when single-prompt IS sufficient. Completes the Concept Learning track.
 
 ## How to add a note
 Create `docs/learning-notes/NN-topic.md`, write what you learned in your own
