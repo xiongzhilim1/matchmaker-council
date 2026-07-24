@@ -20,6 +20,7 @@ running example so the learning stays concrete.
 - [04 — Self-Correction](04-self-correction.md) — the critic's narrow yes/no mandate, one-revision contract, placement before the hill, why skip-on-failure is safer than substitute, and how `critic_fired` feeds the eval's anti-groupthink component. Includes runnable test + fault injection.
 - [05 — Self-Learning](05-self-learning.md) — cross-run memory design: the safety hierarchy (real outcomes > eval results > traces > own verdicts), what to learn (calibration priors, pattern priors, process priors), where it lives (`config/priors.json`), and the Diagnose → Optimize → Evaluate loop from the Agentic AI Engineer framework. v2 design target.
 - [06 — Multi-Agent vs Single-Prompt](06-multi-agent-vs-single-prompt.md) — three structural advantages (decomposition, adversarial pressure, critic tractability), which eval components break on single-prompt, the Skeptic argument, and when single-prompt IS sufficient. Completes the Concept Learning track.
+- [07 — Self-Improvement Triggers](07-self-improvement-triggers.md) — the three levels of automation (manual, single CLI, scheduled/event-triggered), how `eval/loop.py` works, the session protocol, and why the Success Gate makes automation safe.
 
 ## How to add a note
 Create `docs/learning-notes/NN-topic.md`, write what you learned in your own
