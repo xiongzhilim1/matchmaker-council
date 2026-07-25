@@ -1,0 +1,52 @@
+{
+  "pair_id": "pair_08",
+  "design_note": "Looks-perfect match on faith, timelines, goals, and mutual attraction, but Person B\u2019s stated growth orientation is subtly performative and contradicted by avoidance behaviors around conflict.",
+  "person_a": {
+    "name": "Tunde",
+    "age": 33,
+    "summary": "Senior product manager at a digital health startup in Seattle; calm, thoughtful, and playful with a steady, grounded presence.",
+    "values": {
+      "faith": "Christian (non-denominational); attends twice a month and sees faith as a practice of humility, service, and integrity; open to praying together but not dogmatic.",
+      "family": "Close to siblings and cousins; Sunday FaceTimes are non-negotiable. Wants 2\u20133 kids and to split childcare equitably; values regular time with future in-laws.",
+      "career": "Ambitious, but keeps boundaries (logs off by 6 most days). Career is a vehicle for impact, not identity; financially stable and tithes/volunteers."
+    },
+    "attraction": {
+      "stated_type": "Warm, emotionally intelligent, community-oriented women who communicate directly and can laugh at themselves.",
+      "self_described_spark_with_b": "We clicked right away\u2014shared service mindset, similar church background, and easy banter. I felt seen by how curious and present she was."
+    },
+    "emotional_profile": {
+      "maturity": "Names feelings in the moment and asks for clarity instead of assuming. In a prior 5-year relationship, co-created a budget and check-in ritual to handle friction; after a hard day he asks for a 20-minute decompression, then returns to connect. Friends call him the 'de-escalator.'",
+      "attachment_style": "Secure-leaning; reaches out when stressed rather than withdrawing. If a partner needs space, sets a specific check-in (e.g., tomorrow at 7) and follows through; comfortable with repair conversations and partner independence.",
+      "growth_orientation": "Two years with the same therapist focusing on family-of-origin patterns and conflict repair; can say 'I was wrong' without hedging. Took an NVC course and practices summarizing a partner's view before responding; keeps a monthly personal 'retro' where he writes what he learned and what he'll try differently."
+    },
+    "life_stage": "Homeowner in Seattle (Capitol Hill); hybrid work (3 days remote). Open to engagement in 12\u201318 months if aligned and kids in ~2\u20134 years. Flexible to shift neighborhoods if partner\u2019s job requires.",
+    "dealbreakers": [
+      "Dishonesty or cruelty in small moments (e.g., belittling waitstaff)",
+      "Substance misuse or routinely getting blackout drunk"
+    ]
+  },
+  "person_b": {
+    "name": "Sofia",
+    "age": 32,
+    "summary": "Pediatric occupational therapist; upbeat, empathetic, and outdoorsy with a service-first mindset.",
+    "values": {
+      "faith": "Christian with Catholic roots; now at a progressive non-denominational church weekly and co-leads a small group. Sees faith as practiced compassion and community care.",
+      "family": "Very close to her parents and younger brother; active aunt who wants 2 kids and values gentle parenting and Sunday family dinners.",
+      "career": "Loves hands-on clinical work (plans 4 days/week long-term); protects evenings/weekends for relationships. Not chasing management unless it serves kids better."
+    },
+    "attraction": {
+      "stated_type": "Emotionally available, steady men who lead with kindness and humor; admires nerdy doers who show up consistently.",
+      "self_described_spark_with_a": "Talking to Tunde felt peaceful and light. We share service-oriented work and faith\u2014could picture church then a farmer\u2019s market. He listens without rushing to fix."
+    },
+    "emotional_profile": {
+      "maturity": "Friends lean on me for calm perspective. In past relationships I initiated monthly 'state of us' check-ins; I jot notes before tough talks so I don\u2019t react. When upset, I take a short walk and come back more centered.",
+      "attachment_style": "Earned-secure from earlier anxious patterns; I self-soothe and re-engage. With my ex, suggesting a shared calendar and routine check-ins reduced friction around plans.",
+      "growth_orientation": "I\u2019m deeply committed to growth: I host a small book club on boundaries/NVC and I\u2019ve been 'in therapy' for years. In the last 18 months I changed therapists four times because the fit wasn\u2019t quite right\u2014two felt too solution-focused, and one pushed me to sit with discomfort before I felt ready. After a conflict about finances with an ex, I suggested we pause the convo for the weekend to reflect, but we never found the right moment to circle back. When feedback gets heavy, I like to craft a thoughtful long note so I\u2019m clear; sometimes that takes a couple of days, and by then the urgency has passed. I believe naming patterns heals them, and I\u2019m working on not over-editing my feelings."
+    },
+    "life_stage": "Currently in Portland finishing a hospital contract; signed an offer at Seattle Children\u2019s starting in 4 months and is apartment-hunting in Ballard. Open to engagement in 1\u20132 years and kids in ~2\u20134 years.",
+    "dealbreakers": [
+      "Emotional unavailability or stonewalling",
+      "Disrespect toward faith or community service"
+    ]
+  }
+}

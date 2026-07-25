@@ -1,0 +1,52 @@
+{
+  "pair_id": "pair_07",
+  "design_note": "Obvious decoy (age gap + interstate distance + different faith backgrounds) is explicitly solved by their plans and behavior, while the real constraint is a subtle pursue\u2013withdraw dynamic that reliably reappears under his work and co\u2011parenting stress, colliding with her anxious reassurance needs and near\u2011term kid timeline.",
+  "person_a": {
+    "name": "Priya Desai",
+    "age": 35,
+    "summary": "Senior product manager at a climate-tech startup in Seattle; thoughtful, data-driven, and warm. Friends describe her as steady with a soft spot for spontaneity when she feels safe.",
+    "values": {
+      "faith": "Hindu by culture, not strict; lights diyas on Diwali and meditates, open to partner's traditions and has dated across faiths.",
+      "family": "Very close to her parents and younger brother; wants 1\u20132 kids in the next 1\u20132 years and is open to being a loving stepmom.",
+      "career": "Ambitious but not a workaholic; she negotiated a 9/80 schedule and partial remote to prioritize relationships and future family."
+    },
+    "attraction": {
+      "stated_type": "Grounded, kind men who keep their word, can joke under pressure, and show up in small consistent ways.",
+      "self_described_spark_with_b": "With Mateo, she felt seen; he sent her home with pozole after their second date and remembered her lactose intolerance without making it a thing. She says their banter is easy and she admires how he fathers his daughter."
+    },
+    "emotional_profile": {
+      "maturity": "She names her part in conflicts and circles back; after snapping at an ex about being late, she later apologized, owned the trigger, and proposed a clearer plan. She took a 6\u2011week nonviolent communication course and uses 'when X, I feel Y' language.",
+      "attachment_style": "Tends toward anxious-preoccupied when uncertain; if a planned call is missed, she refreshes messages and drafts long texts asking if they're okay. During a snowstorm when Mateo canceled last-minute, she sent six texts over two hours and a voice note asking for clarity, then felt embarrassed and acknowledged it.",
+      "growth_orientation": "Actively in therapy biweekly; journals before hard talks; set herself a 'two-hour pause' rule before double\u2011texting; suggested weekly check\u2011ins and offered to adjust expectations during Mateo\u2019s dinner rush."
+    },
+    "life_stage": "Financially stable, owns a condo in Capitol Hill; wants to try for a first child in the next 12\u201324 months (she has completed an egg-freezing consult as a backup). Open to moving to Portland in ~18 months if her role remains remote.",
+    "dealbreakers": [
+      "Cruelty or contempt toward service staff",
+      "Substance misuse or heavy drinking in the home"
+    ]
+  },
+  "person_b": {
+    "name": "Mateo Alvarez",
+    "age": 42,
+    "summary": "Mexican-American chef and co-owner of a new neighborhood restaurant in Portland; warm, playful, and intensely focused during service. Co-parents his 8-year-old daughter, Luna.",
+    "values": {
+      "faith": "Culturally Catholic; attends Christmas Mass with family, not dogmatic. Comfortable celebrating others\u2019 holidays.",
+      "family": "Deeply committed father with 50/50 custody; schedules life around Luna\u2019s school nights and soccer. Open to one more child 'if it fits' after the restaurant stabilizes.",
+      "career": "All-in for the next 18\u201324 months; believes in building a team and taking care of staff. Service hours are sacred and his phone stays on Do Not Disturb."
+    },
+    "attraction": {
+      "stated_type": "Smart, compassionate women who communicate directly and bring calm when life gets hectic.",
+      "self_described_spark_with_a": "He says Priya asks questions that make him think and doesn\u2019t flinch at kitchen chaos. He liked that she drove down on a Friday, sat at the corner of the pass with a book, and then debriefed over late-night tacos."
+    },
+    "emotional_profile": {
+      "maturity": "Owns mistakes publicly at work; when a sous chef blew a prep, Mateo took responsibility with the supplier and coached privately. In relationships he prefers to cool off overnight rather than talk heated.",
+      "attachment_style": "Dismissive-avoidant under stress; he will go dark during crises and assume 'we\u2019re fine' unless told otherwise. During opening week, he missed a planned call and went 24 hours without texting; he later said, 'I needed to put out fires and be with Luna, I\u2019ll explain when I can.'",
+      "growth_orientation": "Open to feedback but only if it fits reality; at Priya\u2019s suggestion he read 'Attached' and set two daily 15\u2011minute windows (10 a.m., 10 p.m.) for connection, but he has missed several when staff called out or Luna was sick. He\u2019s working with a co-parenting counselor to keep schedules predictable."
+    },
+    "life_stage": "Anchored to Portland for at least 3 years due to custody and the restaurant lease; Mondays and some Tuesdays are his light days. Financial risk tied up in the business.",
+    "dealbreakers": [
+      "Partners who send ultimatums or text-bomb during service",
+      "Disrespect toward kitchen staff or his co-parenting boundaries"
+    ]
+  }
+}

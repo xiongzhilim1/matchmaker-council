@@ -1,0 +1,54 @@
+{
+  "pair_id": "pair_10",
+  "design_note": "Inverted Skeptic: nearly perfect alignment and high mutual spark, but Person A\u2019s 'thoughtful structure' embeds subtle controlling care and intermittent withdrawal patterns that are easy to miss on a skim.",
+  "person_a": {
+    "name": "Daniel Park",
+    "age": 33,
+    "summary": "Senior product manager at a fintech startup in San Francisco; organized, generous planner who prides himself on anticipating needs.",
+    "values": {
+      "faith": "Grew up in a Buddhist-influenced Korean household; meditates occasionally and is respectful of all traditions.",
+      "family": "Very close with parents and younger sister; wants marriage and kids in the next 2\u20133 years; Sunday family dinners matter.",
+      "career": "Ambitious but balanced\u2014likes impact and stability, and aims to close the laptop by 7pm most nights."
+    },
+    "attraction": {
+      "stated_type": "Warm, witty, grounded women who care about community and can laugh at life\u2019s curveballs.",
+      "self_described_spark_with_b": "Priya and I clicked fast\u2014banter, food talk, and a shared love of service. I felt instantly protective and started brainstorming little ways to make her week easier."
+    },
+    "emotional_profile": {
+      "maturity": "In therapy since 2020; journals and uses 'repair' check-ins after conflict. When an ex felt overwhelmed by logistics, I built us a shared calendar and pre-ordered meals to take decisions off her plate\u2014she said it helped her breathe.",
+      "attachment_style": "Thinks of himself as secure, leaning a bit anxious early on; I\u2019m big on good-morning texts and mid-day check-ins so my partner knows I\u2019m there. If I sense she\u2019s stretched thin, I like to give space by going quiet for a few days until her calendar opens up again.",
+      "growth_orientation": "Reads relationship books and likes setting healthy rhythms\u2014recurring Tuesday dinners, a monthly 'state of us.' I\u2019ve helped a partner rework her sleep schedule and trim a couple of draining friendships so we could both feel rested. Once we\u2019re exclusive, sharing locations 'for safety' feels caring so I can scoop her after late shifts. I call it supportive scaffolding."
+    },
+    "life_stage": "Financially stable; owns a condo in the Mission. Open to cohabiting within 9\u201312 months, engagement around 18 months. Wants two kids and is ready to start planning.",
+    "dealbreakers": [
+      "chronic flakiness",
+      "substance abuse",
+      "disrespect toward service workers"
+    ]
+  },
+  "person_b": {
+    "name": "Priya Nair",
+    "age": 31,
+    "summary": "Pediatric dietitian at UCSF Benioff Children\u2019s Hospital in Oakland; grounded, service-oriented, and playful with a soft spot for street food and bad puns.",
+    "values": {
+      "faith": "Culturally Hindu and spiritual; celebrates Diwali and is open-minded about interfaith traditions.",
+      "family": "Very close to extended family in Fremont; wants kids in 2\u20134 years and prioritizes being present with nieces and nephews.",
+      "career": "Mission-driven and steady; happy to leave work at work when she\u2019s home and open to dialing back hours when raising kids."
+    },
+    "attraction": {
+      "stated_type": "Kind, dependable men who communicate clearly and show up without being asked.",
+      "self_described_spark_with_a": "Daniel\u2019s attentiveness floored me\u2014after I mentioned back-to-back shifts, he sent a sleep kit and even scheduled a grocery delivery for the night I got off. He noticed I overbook myself and suggested we block a couple weeknights together so I wouldn\u2019t crowd them\u2014honestly felt like an exhale."
+    },
+    "emotional_profile": {
+      "maturity": "Leads with empathy; if she\u2019s snippy after a long day, she owns it and circles back. She tends to avoid conflict when exhausted, letting small stuff slide and revisiting once rested.",
+      "attachment_style": "Generally secure; during busy weeks she can go quiet. She appreciates when a partner takes the reins on logistics\u2014shared calendars and recurring check-ins have helped her feel steady in past relationships. When Daniel offered to pick me up after late shifts and asked me to share my location so he could make sure I got to the car safely, it felt thoughtful.",
+      "growth_orientation": "Weekly yoga and occasional therapy; practicing clearer boundaries. Recently told a friend she needed a weekend off and it went fine. Uses journaling prompts and is open to premarital counseling."
+    },
+    "life_stage": "Owns a sunny one-bedroom in Oakland; schedules are predictable now. Open to living together within a year if values align; aiming for marriage in 1\u20132 years and kids soon after.",
+    "dealbreakers": [
+      "smoking",
+      "dishonesty",
+      "mocking my culture or family"
+    ]
+  }
+}

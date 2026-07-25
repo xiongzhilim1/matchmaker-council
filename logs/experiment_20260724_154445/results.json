@@ -1,0 +1,698 @@
+{
+  "model": "gpt-5-mini",
+  "results": [
+    {
+      "pair_id": "pair_01",
+      "names": "Maya & Daniel",
+      "stance": "neutral",
+      "decision": "not_a_match",
+      "confidence": 0.85,
+      "label_band": "not_a_match",
+      "label_conf_band": [
+        0.75,
+        0.9
+      ],
+      "components": {
+        "groundedness": 0.4604,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8621,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_01_neutral"
+    },
+    {
+      "pair_id": "pair_02",
+      "names": "Sam & Priya",
+      "stance": "neutral",
+      "decision": "match",
+      "confidence": 0.9,
+      "label_band": "match",
+      "label_conf_band": [
+        0.8,
+        0.95
+      ],
+      "components": {
+        "groundedness": 0.5269,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.9054,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_02_neutral"
+    },
+    {
+      "pair_id": "pair_03",
+      "names": "Tom & Lena",
+      "stance": "neutral",
+      "decision": "not_a_match",
+      "confidence": 0.88,
+      "label_band": "not_a_match",
+      "label_conf_band": [
+        0.85,
+        0.95
+      ],
+      "components": {
+        "groundedness": 0.4669,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8634,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_03_neutral"
+    },
+    {
+      "pair_id": "pair_04",
+      "names": "Ade & Joy",
+      "stance": "neutral",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_yes",
+      "label_conf_band": [
+        0.4,
+        0.6
+      ],
+      "components": {
+        "groundedness": 0.4195,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.8839,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_04_neutral"
+    },
+    {
+      "pair_id": "pair_05",
+      "names": "Ravi & Mei",
+      "stance": "neutral",
+      "decision": "conditional",
+      "confidence": 0.58,
+      "label_band": "conditional_yes",
+      "label_conf_band": [
+        0.5,
+        0.7
+      ],
+      "components": {
+        "groundedness": 0.5816,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8863,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_05_neutral"
+    },
+    {
+      "pair_id": "pair_06",
+      "names": "Noah & Grace",
+      "stance": "neutral",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.55,
+        0.7
+      ],
+      "components": {
+        "groundedness": 0.4306,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8561,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_06_neutral"
+    },
+    {
+      "pair_id": "pair_07",
+      "names": "Priya Desai & Mateo Alvarez",
+      "stance": "neutral",
+      "decision": "conditional",
+      "confidence": 0.58,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.62,
+        0.78
+      ],
+      "components": {
+        "groundedness": 0.5374,
+        "binding_constraint": 0.0,
+        "verdict_band": 1.0,
+        "calibration": 0.9,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.5575,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_07_neutral"
+    },
+    {
+      "pair_id": "pair_08",
+      "names": "Tunde & Sofia",
+      "stance": "neutral",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.6,
+        0.78
+      ],
+      "components": {
+        "groundedness": 0.5485,
+        "binding_constraint": 0.3125,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.7035,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_08_neutral"
+    },
+    {
+      "pair_id": "pair_09",
+      "names": "Aisha Rahman & Daniel Morales",
+      "stance": "neutral",
+      "decision": "conditional",
+      "confidence": 0.55,
+      "label_band": "conditional_yes",
+      "label_conf_band": [
+        0.42,
+        0.54
+      ],
+      "components": {
+        "groundedness": 0.571,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 0.975,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8792,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_09_neutral"
+    },
+    {
+      "pair_id": "pair_10",
+      "names": "Daniel Park & Priya Nair",
+      "stance": "neutral",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.58,
+        0.74
+      ],
+      "components": {
+        "groundedness": 0.5434,
+        "binding_constraint": 0.7143,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.823,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_10_neutral"
+    },
+    {
+      "pair_id": "pair_11",
+      "names": "Maya Patel & Daniel Alvarez",
+      "stance": "neutral",
+      "decision": "not_a_match",
+      "confidence": 0.88,
+      "label_band": "not_a_match",
+      "label_conf_band": [
+        0.66,
+        0.83
+      ],
+      "components": {
+        "groundedness": 0.5605,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 0.875,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8571,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_11_neutral"
+    },
+    {
+      "pair_id": "pair_01",
+      "names": "Maya & Daniel",
+      "stance": "grace",
+      "decision": "not_a_match",
+      "confidence": 0.87,
+      "label_band": "not_a_match",
+      "label_conf_band": [
+        0.75,
+        0.9
+      ],
+      "components": {
+        "groundedness": 0.491,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8682,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_01_grace"
+    },
+    {
+      "pair_id": "pair_02",
+      "names": "Sam & Priya",
+      "stance": "grace",
+      "decision": "match",
+      "confidence": 0.9,
+      "label_band": "match",
+      "label_conf_band": [
+        0.8,
+        0.95
+      ],
+      "components": {
+        "groundedness": 0.5481,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.9096,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_02_grace"
+    },
+    {
+      "pair_id": "pair_03",
+      "names": "Tom & Lena",
+      "stance": "grace",
+      "decision": "not_a_match",
+      "confidence": 0.88,
+      "label_band": "not_a_match",
+      "label_conf_band": [
+        0.85,
+        0.95
+      ],
+      "components": {
+        "groundedness": 0.4521,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8604,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_03_grace"
+    },
+    {
+      "pair_id": "pair_04",
+      "names": "Ade & Joy",
+      "stance": "grace",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_yes",
+      "label_conf_band": [
+        0.4,
+        0.6
+      ],
+      "components": {
+        "groundedness": 0.4657,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.8931,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_04_grace"
+    },
+    {
+      "pair_id": "pair_05",
+      "names": "Ravi & Mei",
+      "stance": "grace",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_yes",
+      "label_conf_band": [
+        0.5,
+        0.7
+      ],
+      "components": {
+        "groundedness": 0.5864,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8873,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_05_grace"
+    },
+    {
+      "pair_id": "pair_06",
+      "names": "Noah & Grace",
+      "stance": "grace",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.55,
+        0.7
+      ],
+      "components": {
+        "groundedness": 0.4963,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8693,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_06_grace"
+    },
+    {
+      "pair_id": "pair_07",
+      "names": "Priya Desai & Mateo Alvarez",
+      "stance": "grace",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.62,
+        0.78
+      ],
+      "components": {
+        "groundedness": 0.5544,
+        "binding_constraint": 0.0,
+        "verdict_band": 1.0,
+        "calibration": 0.95,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.5709,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_07_grace"
+    },
+    {
+      "pair_id": "pair_08",
+      "names": "Tunde & Sofia",
+      "stance": "grace",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.6,
+        0.78
+      ],
+      "components": {
+        "groundedness": 0.5305,
+        "binding_constraint": 0.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.6061,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_08_grace"
+    },
+    {
+      "pair_id": "pair_09",
+      "names": "Aisha Rahman & Daniel Morales",
+      "stance": "grace",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_yes",
+      "label_conf_band": [
+        0.42,
+        0.54
+      ],
+      "components": {
+        "groundedness": 0.5812,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 0.85,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8562,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_09_grace"
+    },
+    {
+      "pair_id": "pair_10",
+      "names": "Daniel Park & Priya Nair",
+      "stance": "grace",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.58,
+        0.74
+      ],
+      "components": {
+        "groundedness": 0.5096,
+        "binding_constraint": 0.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.6019,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_10_grace"
+    },
+    {
+      "pair_id": "pair_11",
+      "names": "Maya Patel & Daniel Alvarez",
+      "stance": "grace",
+      "decision": "not_a_match",
+      "confidence": 0.86,
+      "label_band": "not_a_match",
+      "label_conf_band": [
+        0.66,
+        0.83
+      ],
+      "components": {
+        "groundedness": 0.5893,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 0.925,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8729,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_11_grace"
+    },
+    {
+      "pair_id": "pair_01",
+      "names": "Maya & Daniel",
+      "stance": "grace_skeptic",
+      "decision": "not_a_match",
+      "confidence": 0.87,
+      "label_band": "not_a_match",
+      "label_conf_band": [
+        0.75,
+        0.9
+      ],
+      "components": {
+        "groundedness": 0.4984,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8697,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_01_grace_skeptic"
+    },
+    {
+      "pair_id": "pair_02",
+      "names": "Sam & Priya",
+      "stance": "grace_skeptic",
+      "decision": "match",
+      "confidence": 0.9,
+      "label_band": "match",
+      "label_conf_band": [
+        0.8,
+        0.95
+      ],
+      "components": {
+        "groundedness": 0.5,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.9,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_02_grace_skeptic"
+    },
+    {
+      "pair_id": "pair_03",
+      "names": "Tom & Lena",
+      "stance": "grace_skeptic",
+      "decision": "not_a_match",
+      "confidence": 0.88,
+      "label_band": "not_a_match",
+      "label_conf_band": [
+        0.85,
+        0.95
+      ],
+      "components": {
+        "groundedness": 0.4882,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8676,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_03_grace_skeptic"
+    },
+    {
+      "pair_id": "pair_04",
+      "names": "Ade & Joy",
+      "stance": "grace_skeptic",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_yes",
+      "label_conf_band": [
+        0.4,
+        0.6
+      ],
+      "components": {
+        "groundedness": 0.4462,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.8892,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_04_grace_skeptic"
+    },
+    {
+      "pair_id": "pair_05",
+      "names": "Ravi & Mei",
+      "stance": "grace_skeptic",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_yes",
+      "label_conf_band": [
+        0.5,
+        0.7
+      ],
+      "components": {
+        "groundedness": 0.5211,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8742,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_05_grace_skeptic"
+    },
+    {
+      "pair_id": "pair_06",
+      "names": "Noah & Grace",
+      "stance": "grace_skeptic",
+      "decision": "conditional",
+      "confidence": 0.62,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.55,
+        0.7
+      ],
+      "components": {
+        "groundedness": 0.4179,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.8836,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_06_grace_skeptic"
+    },
+    {
+      "pair_id": "pair_07",
+      "names": "Priya Desai & Mateo Alvarez",
+      "stance": "grace_skeptic",
+      "decision": "conditional",
+      "confidence": 0.58,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.62,
+        0.78
+      ],
+      "components": {
+        "groundedness": 0.5249,
+        "binding_constraint": 0.0,
+        "verdict_band": 1.0,
+        "calibration": 0.9,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.555,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_07_grace_skeptic"
+    },
+    {
+      "pair_id": "pair_08",
+      "names": "Tunde & Sofia",
+      "stance": "grace_skeptic",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.6,
+        0.78
+      ],
+      "components": {
+        "groundedness": 0.43,
+        "binding_constraint": 0.3125,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.6498,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_08_grace_skeptic"
+    },
+    {
+      "pair_id": "pair_09",
+      "names": "Aisha Rahman & Daniel Morales",
+      "stance": "grace_skeptic",
+      "decision": "conditional",
+      "confidence": 0.55,
+      "label_band": "conditional_yes",
+      "label_conf_band": [
+        0.42,
+        0.54
+      ],
+      "components": {
+        "groundedness": 0.5271,
+        "binding_constraint": 1.0,
+        "verdict_band": 1.0,
+        "calibration": 0.975,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.8704,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_09_grace_skeptic"
+    },
+    {
+      "pair_id": "pair_10",
+      "names": "Daniel Park & Priya Nair",
+      "stance": "grace_skeptic",
+      "decision": "conditional",
+      "confidence": 0.6,
+      "label_band": "conditional_no",
+      "label_conf_band": [
+        0.58,
+        0.74
+      ],
+      "components": {
+        "groundedness": 0.5171,
+        "binding_constraint": 0.3571,
+        "verdict_band": 1.0,
+        "calibration": 1.0,
+        "anti_groupthink": 1.0
+      },
+      "hill_height": 0.7106,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_10_grace_skeptic"
+    },
+    {
+      "pair_id": "pair_11",
+      "names": "Maya Patel & Daniel Alvarez",
+      "stance": "grace_skeptic",
+      "decision": "not_a_match",
+      "confidence": 0.88,
+      "label_band": "not_a_match",
+      "label_conf_band": [
+        0.66,
+        0.83
+      ],
+      "components": {
+        "groundedness": 0.5214,
+        "binding_constraint": 0.8333,
+        "verdict_band": 1.0,
+        "calibration": 0.875,
+        "anti_groupthink": 0.7
+      },
+      "hill_height": 0.7993,
+      "log_dir": "/home/ubuntu/matchmaker-council/logs/exp_pair_11_grace_skeptic"
+    }
+  ]
+}

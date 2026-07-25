@@ -1,5 +1,5 @@
 {
-  "source_results": "logs/experiment_20260724_065327/results.json",
+  "source_results": "/home/ubuntu/matchmaker-council/logs/experiment_20260724_065327/results.json",
   "model": "gpt-5-mini",
   "baseline_hill": 0.8733,
   "total_runs": 18,
@@ -9,12 +9,12 @@
       "id": "groundedness_neutral_grace_skeptic_grace",
       "component": "groundedness",
       "affected_pairs": [
-        "pair_02",
         "pair_04",
+        "pair_05",
+        "pair_03",
         "pair_01",
         "pair_06",
-        "pair_05",
-        "pair_03"
+        "pair_02"
       ],
       "stances": [
         "neutral",

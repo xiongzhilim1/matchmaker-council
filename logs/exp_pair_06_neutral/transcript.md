@@ -3,116 +3,116 @@
 
 ## Round 1
 
-**ValuesFaith** — score `0.30`  _(latency 5.8s)_
+**ValuesFaith** — score `0.35`  _(latency 11.81s)_
 
-> Faith and family goals align clearly (same faith, same timeline for kids). But Noah’s concealed dismissive-avoidant pattern and low growth orientation directly conflict with Grace’s commitment to honesty, accountability, and emotionally present parenting. Those are core lived values for faith and child-rearing; concealment and over-functioning mask a durability problem. Long-term, this mismatch risks eroding trust, modeled values for children, and sincere faith practice.
+> Faith and family goals are explicitly aligned on paper, but Noah’s concealed dismissive-avoidance and resistance to accountability threaten the lived expression of those shared values. Grace’s over-functioning masks how values (honesty, mutual spiritual/parental leadership) would be practiced. Long-term: erosion of trust, unequal moral labor, and unhealthy modeling for children unless Noah shows transparent, sustained growth.
 
-**AttractionSpark** — score `0.80`  _(latency 6.99s)_
+**AttractionSpark** — score `0.85`  _(latency 10.43s)_
 
-> Both partners report a "strong" spark and their stated attraction types align (Noah -> warm, capable; Grace -> confident, capable), so genuine mutual physical/romantic pull is present. However Noah's concealed dismissive-avoidant withdrawal and Grace's pattern of over-functioning threaten responsive reciprocity; his withholding will likely dull embodied chemistry over time. Present chemistry is real but brittle; sustaining it requires Noah's accountability.
+> Both parties explicitly report a strong mutual spark and their stated attraction types align (Noah: drawn to warm, capable; Grace: drawn to confident, capable). Surface embodied pull and flirtation are therefore likely. But Noah’s concealed dismissive-avoidance and Grace’s over-functioning threaten genuine, reciprocal erotic attunement—chemistry exists and is strong, yet brittle and at high risk of becoming one-sided.
 
-**LifeStagePractical** — score `0.25`  _(latency 7.5s)_
+**LifeStagePractical** — score `0.20`  _(latency 12.17s)_
 
-> Ages, faith and parenting timeline align, but practical fit is weak. Noah’s concealed dismissive-avoidance and low growth + resistance to being “managed” means he likely won’t share emotional/parenting labor. Grace’s pattern of over-functioning risks her carrying household, career sacrifice, and delayed or destabilized timeline. Non-disclosure undermines trust and daily-life reliability needed for joint parenting/commitment.
+> On paper they match on faith, kids timeline and careers, but Noah’s concealed dismissive-avoidance, low growth and 'no being managed' stance combined with Grace’s chronic over-functioning create a practical mismatch. Expect uneven household/childcare labor, stalled joint decision-making, fragile financial/logistical coordination, and burnout for Grace. Readiness is therefore illusory: timelines align superficially but foundational trust and capacity to share daily life don’t.
 
-**EmotionalPatternFit** — score `0.05`  _(latency 4.87s)_
+**EmotionalPatternFit** — score `0.08`  _(latency 8.65s)_
 
-> Noah’s dismissive-avoidant pattern (withholds, deflects accountability, minimizes feedback, conceals low growth) directly triggers Grace’s compensatory style. She over-functions, self-silences, and absorbs relational load, temporarily smoothing things while masking dishonesty and withdrawal. That dynamic undermines trust/safety and predictably leads to burnout, resentment, and stalled mutual growth—poor long-term fit despite surface alignment.
+> Noah's concealed dismissive-avoidant pattern (withholding, deflecting, low real growth) directly conflicts with Grace's tendency to over-function, self-silence, and shoulder the couple's emotional labor. That dynamic fosters a pursue-withdraw loop, masks breaches of trust, and undermines informed consent—so despite surface alignment and spark, their attachment patterns are likely to trigger and destabilize safety.
 
-**EmotionalMaturity** — score `0.15`  _(latency 5.2s)_
+**EmotionalMaturity** — score `0.20`  _(latency 7.59s)_
 
-> Noah’s concealed dismissive-avoidant pattern—withholding, deflecting accountability, low growth orientation and explicit distaste for being 'managed'—is a foundational trust/safety risk. Grace is emotionally mature but over-functions and self-silences, which will likely mask and perpetuate his withdrawal rather than catalyze repair. Shared values/faith help, but given Noah’s hidden, persistent pattern repair looks unlikely without his active, sustained willingness to change.
+> Noah’s concealed dismissive-avoidant pattern, low accountability, and explicit aversion to being "managed" undermine trust and capacity to repair. Grace is emotionally strong but over-functions and self-silences, masking problems until they erode safety. Her maturity offers some chance to surface and demand change, but Noah’s hidden low growth orientation makes durable repair unlikely without sustained, willing work. Overall low but not impossible.
 
-**WillingnessToGrow** — score `0.30`  _(latency 5.18s)_
+**WillingnessToGrow** — score `0.30`  _(latency 13.53s)_
 
-> Noah’s concealed dismissive-avoidance and documented minimization of accountability signal low humility and resistance to refinement. Grace shows high personal growth orientation and supportive faith alignment, but her chronic over-functioning and self-silencing are more likely to enable Noah than to prompt his change. External supports exist but won’t overcome a concealed, low-growth partner without his active engagement.
+> Noah’s dismissive-avoidant pattern (withholding, deflecting accountability, minimizing feedback) and hidden low growth orientation strongly reduce receptivity to refinement. Grace is genuinely growth-oriented and humble but over-functions and self-silences, limiting her ability to elicit change. Shared faith is a real support, but with one partner avoiding accountability, the couple’s net willingness is low.
 
-_Hill-score after round 1: **0.812** (quality of the judgment) | score spread among agents: 0.237_
+_Hill-score after round 1: **0.783** (quality of the judgment) | score spread among agents: 0.248_
 
 
 ## Round 2
 
-**ValuesFaith** — score `0.30`  _(latency 7.2s)_
+**ValuesFaith** — score `0.30`  _(latency 11.46s)_
 
-> Both share faith and family timing, but Noah’s concealed dismissive-avoidant pattern and low growth directly violate core lived values central to their faith—honesty, accountability, mutual vulnerability—and to parenting. Grace’s over-functioning masks the breach, risking modeled behaviors for children and spiritual integrity. Creed alignment cannot substitute for foundational trust and accountable practice.
+> Faith and family goals are explicitly aligned, but Noah’s concealed dismissive-avoidant pattern, low real-growth orientation, and aversion to being “managed” threaten the lived expression of those shared values. Grace’s chronic over-functioning masks breaches, risking erosion of trust, unequal moral/spiritual labor, and unhealthy modeling for children unless Noah transparently commits to sustained change.
 
-_Reacting to others:_ I agree with EmotionalPatternFit and EmotionalMaturity: this dynamic forecasts burnout and eroded trust. AttractionSpark is right that chemistry exists, but shared faith won’t repair non-disclosure; only Noah’s sustained accountability would raise my score.
+_Reacting to others:_ I concur with EmotionalPatternFit, LifeStagePractical, and EmotionalMaturity — their points strengthen a low alignment read. AttractionSpark is correct that chemistry exists, but it’s brittle: without accountability and honest disclosure, shared faith won’t prevent long-term value/faith breakdown.
 
-**AttractionSpark** — score `0.60`  _(latency 8.28s)_
+**AttractionSpark** — score `0.65`  _(latency 7.37s)_
 
-> Both partners report a strong mutual spark and their attraction types align (Noah: drawn to warm, capable; Grace: to confident, capable), so present embodied chemistry is real. Noah’s concealed dismissive-avoidant withdrawal and Grace’s over‑functioning threaten reciprocal responsiveness; the chemistry is brittle and will likely fade without Noah’s honest disclosure and sustained accountability.
+> Both explicitly report strong mutual spark and their attraction types align (Noah: drawn to warm, capable; Grace: drawn to confident, capable), so embodied pull and flirtation are likely. However Noah’s concealed dismissive-avoidance, low growth orientation, and Grace’s over-functioning/self-silencing make reciprocal erotic attunement brittle and at high risk of becoming one-sided.
 
-_Reacting to others:_ I agree with EmotionalPatternFit and EmotionalMaturity: concealment plus her compensating behavior makes the spark fragile. That justifies lowering my prior confidence—chemistry exists now but is unlikely to endure absent real behavioral change from Noah.
+_Reacting to others:_ I agree others rightly flagged trust/safety and attachment mismatch. Those dynamics materially weaken lasting, reciprocal chemistry — so I lowered my score, while still recognizing the clear present spark.
 
-**LifeStagePractical** — score `0.20`  _(latency 6.34s)_
+**LifeStagePractical** — score `0.20`  _(latency 10.11s)_
 
-> Ages and child timelines superficially align, but Noah’s concealed dismissive-avoidance and refusal to be “managed” predict unequal emotional and parenting labor. Grace’s over-functioning will mask deficits, risking burnout, career sacrifice, and stalled or destabilized timelines. Daily frictions: inconsistent accountability, lopsided household/childcare division, decision-making paralysis—practically unsafe for a shared parenting/commitment plan.
+> On paper faith, kids, careers and timelines align, but Noah’s concealed dismissive-avoidance, low growth orientation and explicit aversion to being “managed,” paired with Grace’s chronic over-functioning, produce a high-risk practical mismatch: unequal household/childcare labor, stalled joint decisions, financial/logistical friction, and burnout for Grace. Readiness is therefore illusory until transparent, sustained accountability appears.
 
-_Reacting to others:_ I agree with others: surface alignment (faith, kids, spark) exists but concealed avoidance and Grace’s compensating behavior magnify practical risk. Chemistry alone won’t sustain the daily labor and timeline reliability required for parenting and long-term logistics.
+_Reacting to others:_ I agree with ValuesFaith and EmotionalPatternFit: shared values and spark won’t prevent daily-life breakdown. Practical burdens will fall unevenly on Grace and concealment makes their stated timeline unreliable without clear, sustained change.
 
-**EmotionalPatternFit** — score `0.05`  _(latency 5.66s)_
+**EmotionalPatternFit** — score `0.08`  _(latency 10.1s)_
 
-> Noah’s concealed dismissive-avoidant withdrawal directly triggers Grace’s over-functioning and self-silencing. She will absorb relational labor, masking the problem and enabling his non-disclosure. That pattern predictably erodes trust, leads to burnout, and stalls mutual growth unless Noah undertakes sustained accountability.
+> Noah’s concealed dismissive-avoidant pattern (withholding, deflecting, low accountability) directly clashes with Grace’s tendency to over-function and self-silence. That creates a concealed pursue–withdraw loop that masks breaches, delays repair, and corrodes safety and informed consent. Surface alignment and spark won’t sustain a relationship if core emotional responsibility and reciprocity remain absent.
 
-_Reacting to others:_ I agree with ValuesFaith/LifeStagePractical that surface alignment conceals durability risks; AttractionSpark rightly calls the chemistry brittle. EmotionalMaturity/WillingnessToGrow strengthen my low-fit read by highlighting Noah’s low growth and Grace’s enabling.
+_Reacting to others:_ I agree with ValuesFaith, LifeStagePractical, and EmotionalMaturity: shared values won’t compensate for concealed avoidance. AttractionSpark is right that chemistry exists but is brittle; Grace’s over-functioning is precisely what will obscure the danger until damage is done.
 
-**EmotionalMaturity** — score `0.12`  _(latency 6.07s)_
+**EmotionalMaturity** — score `0.18`  _(latency 11.06s)_
 
-> Noah’s concealed dismissive-avoidant pattern (withholding, deflecting accountability, minimizing feedback) plus explicit distaste for being ‘managed’ critically undermines capacity to apologize and repair. Grace is emotionally mature but over-functions and self-silences, masking problems and enabling his avoidance. Repair looks unlikely without Noah’s sustained willingness to change; Grace’s strength prevents immediate collapse but won’t reliably create accountability.
+> Noah’s concealed dismissive-avoidant pattern, low growth orientation, and resistance to being 'managed' severely limit accountability, genuine apology, and repair. Grace’s high maturity helps but her over‑functioning and self‑silencing mask problems and enable Noah’s avoidance. On balance the weaker link (Noah’s hidden pattern) makes durable emotional repair unlikely without explicit, sustained, willing change.
 
-_Reacting to others:_ I agree with EmotionalPatternFit and LifeStagePractical: Grace’s over-functioning will likely perpetuate Noah’s withdrawal. Attraction and shared faith help but don’t overcome a concealed low-growth stance; the risk to trust/safety is real and urgent.
+_Reacting to others:_ I agree with EmotionalPatternFit and LifeStagePractical: the concealment and pursue‑withdraw risk are decisive. Grace’s maturity offers hope, but her tendency to absorb the work means problems will stay hidden until trust erodes.
 
-**WillingnessToGrow** — score `0.20`  _(latency 6.59s)_
+**WillingnessToGrow** — score `0.22`  _(latency 7.92s)_
 
-> Noah’s concealed dismissive-avoidant pattern, minimization of feedback, and explicit dislike of being ‘managed’ point to low humility and resistance to refinement. Grace is highly growth-oriented but over-functions and self-silences, likely enabling rather than triggering change. Faith/community are positive supports but require Noah’s active engagement—absent that, willingness to grow looks weak.
+> Noah’s concealed dismissive-avoidance, pattern of withholding and deflecting accountability, and explicit resistance to being ‘managed’ indicate low real growth orientation. Grace’s genuine humility and high personal growth are offset by chronic over-functioning and self-silencing, which mask problems. Shared faith is supportive but insufficient unless Noah chooses transparency and sustained change—so net willingness to be refined is low.
 
-_Reacting to others:_ I agree with EmotionalPatternFit and EmotionalMaturity: concealment plus Grace’s enabling makes meaningful change unlikely without Noah’s explicit commitment; external supports help only if he participates.
+_Reacting to others:_ I agree with EmotionalPatternFit, LifeStagePractical, and ValuesFaith: the dynamics create a brittle mismatch. I push back on AttractionSpark’s optimism: strong chemistry doesn’t increase Noah’s receptivity to feedback or accountability, so attraction won’t reliably produce durable growth.
 
-_Hill-score after round 2: **0.890** (quality of the judgment) | score spread among agents: 0.176_
+_Hill-score after round 2: **0.842** (quality of the judgment) | score spread among agents: 0.181_
 
 
 ## Round 3
 
-**ValuesFaith** — score `0.20`  _(latency 5.96s)_
+**ValuesFaith** — score `0.28`  _(latency 15.78s)_
 
-> Creedal overlap (faith, family timing) exists but is largely nominal here. Noah’s concealed dismissive‑avoidant pattern and low growth orientation violate lived faith values—honesty, accountability, mutual vulnerability—and jeopardize how parenting and spiritual life are modeled. Grace’s over‑functioning masks the breach; without Noah’s explicit disclosure and sustained repentance/growth, core values alignment is unlikely.
+> Doctrinally they align—shared faith and timing for children—but Noah’s concealed dismissive‑avoidance and low growth orientation risk turning faith into performance. Grace will shoulder disproportionate spiritual and parental labor, eroding mutual accountability and modeling emotional unavailability to children. Unless Noah commits to transparent, sustained change, values/faith alignment is superficial and long‑term moral and safety harms are likely.
 
-_Reacting to others:_ I agree with EmotionalPatternFit and LifeStagePractical: Grace’s buffering enables Noah’s concealment. AttractionSpark correctly flags real chemistry, but it’s brittle. WillingnessToGrow and EmotionalMaturity profiles support a low alignment absent clear, sustained accountability from Noah.
+_Reacting to others:_ I agree with EmotionalPatternFit and LifeStagePractical: surface concordance conceals a dangerous pursue–withdraw loop. Shared faith demands embodied reciprocity; Grace’s over‑functioning masks nonconsent and delays repair. This makes the mismatch materially risky for family and faith practices unless Noah truly changes.
 
-**AttractionSpark** — score `0.65`  _(latency 7.92s)_
+**AttractionSpark** — score `0.55`  _(latency 9.73s)_
 
-> Both explicitly report a "strong" spark and their attraction types align (Noah: drawn to warm, capable; Grace: to confident, capable), so embodied chemistry and mutual pull are genuinely present now. However Noah’s concealed dismissive‑avoidant withdrawal and Grace’s over‑functioning threaten reciprocal responsiveness; the chemistry is real but brittle and likely to fade without Noah’s honest disclosure and sustained accountability.
+> Both report strong mutual spark and their attraction types align (Noah: drawn to warm, capable; Grace: drawn to confident, capable), so embodied pull is real. However Noah’s concealed dismissive‑avoidant pattern (withholding, deflecting, low accountability) and Grace’s over‑functioning/self‑silencing foster a pursue–withdraw dynamic that makes erotic reciprocity brittle and often one‑sided. Attraction is present but fragile and only sustainably cultivable with Noah’s transparent accountability and boundary shifts from Grace.
 
-_Reacting to others:_ I agree with peers that Noah’s concealment and avoidant pattern critically threaten trust and will erode the spark. Their points reduce my confidence in this attraction’s durability, though they don’t negate the present chemistry.
+_Reacting to others:_ Other agents’ focus on the hidden avoidant pattern, trust/safety risk, and Grace’s masking reinforces my read: the spark exists but is high‑risk and likely to degrade without clear disclosure and sustained behavioral change.
 
-**LifeStagePractical** — score `0.18`  _(latency 6.93s)_
+**LifeStagePractical** — score `0.20`  _(latency 10.8s)_
 
-> Ages and stated timelines align, but Noah’s concealed dismissive-avoidance plus dislike of being “managed” predict persistent unequal emotional/parenting labor. Grace’s over‑functioning will mask deficits, delaying problems until daily logistics—decision-making, childcare split, emotional labor, career tradeoffs—become brittle. On paper readiness is real; practical readiness for shared parenting/commitment is compromised without clear, sustained accountability.
+> Careers, faith, and timing align on paper, but Noah’s concealed dismissive‑avoidance and aversion to being “managed,” combined with Grace’s chronic over‑functioning, create concrete practical risks: uneven household/childcare labor, stalled joint decisions (finances, logistics), and burnout for Grace. Without transparent accountability and sustained behavioral change, their declared readiness is practically unreliable.
 
-_Reacting to others:_ I agree with others: the core risk is the concealment + Grace’s compensating behavior. That dynamic creates an illusion of timeline fit and will hide practical breakdowns until they’re severe.
+_Reacting to others:_ I agree with ValuesFaith and EmotionalPatternFit: surface alignment and spark mask a pursue–withdraw dynamic. That hidden asymmetry is decisive for life‑stage planning—practical logistics and equitable labor will break down unless Noah accepts ongoing accountability and Grace stops compensating.
 
-**EmotionalPatternFit** — score `0.06`  _(latency 6.94s)_
+**EmotionalPatternFit** — score `0.07`  _(latency 12.58s)_
 
-> Noah’s concealed dismissive-avoidant withdrawal (withholding, deflecting, resists being ‘managed’) predictably triggers Grace’s over‑functioning and self‑silencing. She will absorb relational labor and mask deficits, eroding safety and reciprocal repair; without frank disclosure and sustained accountability from Noah, the emotional dynamic is unsustainable.
+> Noah’s concealed dismissive‑avoidant withdrawal, low growth orientation, and resistance to being “managed” will reliably trigger Grace’s over‑functioning and self‑silencing. That concealed pursue–withdraw loop masks breaches, delays repair, and corrodes safety and informed consent. Strong surface alignment and spark won’t sustain the relationship without Noah’s transparent commitment to sustained accountability.
 
-_Reacting to others:_ I agree with others: shared faith/chemistry exist (AttractionSpark) but are fragile. ValuesFaith, EmotionalMaturity, LifeStagePractical and WillingnessToGrow together strengthen the case that concealed avoidance plus her over‑functioning yields low fit absent clear, sustained change.
+_Reacting to others:_ I largely agree with the other agents: they rightly flag that surface alignment and attraction mask deeper risk (ValuesFaith, LifeStagePractical, EmotionalMaturity). AttractionSpark is fair about pull, but erotic chemistry won’t overcome concealed avoidance—disclosure and sustained accountability are prerequisites to raise my score.
 
-**EmotionalMaturity** — score `0.15`  _(latency 5.85s)_
+**EmotionalMaturity** — score `0.18`  _(latency 10.4s)_
 
-> Noah’s concealed dismissive‑avoidant pattern — withholding, deflecting accountability, minimizing feedback, and a stated dislike of being “managed” — critically undermines basic repair mechanisms. Grace is individually emotionally mature but over‑functions and self‑silences, masking problems. Shared faith and her growth orientation help only if Noah admits the pattern and sustains change; current evidence makes durable repair unlikely.
+> Noah’s concealed dismissive-avoidance — withholding, deflection, low growth orientation, and resistance to being “managed” — undermines accountability, apology, and repair. Grace is individually mature but over‑functions and self‑silences, masking breaches and enabling his pull-away. Because the weaker link controls reciprocity and resists sustained change, durable emotional repair is unlikely without explicit, sustained accountability from Noah.
 
-_Reacting to others:_ I agree with ValuesFaith and EmotionalPatternFit: concealment plus her compensating behavior creates a brittle dynamic. Grace’s strengths prevent immediate collapse but enable long‑term erosion unless Noah genuinely engages in sustained accountability, which profile data does not show.
+_Reacting to others:_ I agree with others: shared faith/values don’t erase a hidden avoidant pattern. EmotionalPatternFit and LifeStagePractical rightly flag the pursue–withdraw loop and Grace’s enabling. The calibration danger is real — only transparent, sustained change from Noah shifts this read.
 
-**WillingnessToGrow** — score `0.18`  _(latency 5.88s)_
+**WillingnessToGrow** — score `0.20`  _(latency 8.32s)_
 
-> Noah’s concealed dismissive-avoidant pattern, minimization of feedback, and explicit dislike of being “managed” are direct evidence of low humility and resistance to refinement. Grace’s strong personal growth orientation is real but her over‑functioning and self‑silencing will likely enable rather than correct his pattern. Faith/community can help, but only if Noah actively engages; without disclosure and accountability, willingness to grow is weak and risky.
+> Noah’s concealed dismissive-avoidant pattern—withholding, deflecting accountability, and aversion to being “managed”—signals low humility and low openness to correction. Grace’s strong personal growth is real but she over-functions and hides problems, enabling Noah’s stance. Shared faith is a possible support but there’s no evidence Noah will engage it for change. Net: low willingness to be refined.
 
-_Reacting to others:_ I agree with EmotionalPatternFit, EmotionalMaturity, and LifeStagePractical: the concealment + Grace’s over‑functioning create a feedback vacuum. AttractionSpark rightly notes real chemistry, but it’s brittle. My score could rise if Noah demonstrates sustained, transparent accountability; absent that, risk remains high.
+_Reacting to others:_ I concur with EmotionalPatternFit and LifeStagePractical: concealment makes accountability brittle. Faith/community could help, but only if Noah transparently seeks sustained accountability; I’d raise my score only with clear evidence of that.
 
-_Hill-score after round 3: **0.838** (quality of the judgment) | score spread among agents: 0.190_
+_Hill-score after round 3: **0.861** (quality of the judgment) | score spread among agents: 0.149_
 
 
-> _Note: Stopping after round 3: hill plateaued (gain -0.052 < 0.05); more rounds won't improve judgment quality_
+> _Note: Stopping after round 3: hill plateaued (gain +0.019 < 0.05); more rounds won't improve judgment quality_
 
 
 ## Final verdict (Judge)
@@ -120,12 +120,12 @@ _Hill-score after round 3: **0.838** (quality of the judgment) | score spread am
 **Decision:** conditional  |  **Confidence:** 0.6
 
 
-On paper this pair looks promising: shared faith, aligned family timeline, and mutual attraction are real strengths. But the critical issue is character and disclosure. Noah’s dismissive‑avoidant pattern — withholding, deflection, minimization, and an expressed dislike of being “managed” — is currently concealed. That non‑disclosure undermines Grace’s informed choice and the basic trust foundation a marriage needs. Grace is emotionally mature and growth‑oriented, yet prone to over‑functioning and self‑silencing; that dynamic will mask problems and enable the pattern to persist. Character here is the multiplier: even strong spark and nominal values cannot compensate for an unwilling partner to accept accountability. The RealityCheck marks a concrete inferred trust/safety hazard that should not be papered over. Conditional verdict: pause the match unless Noah explicitly discloses the pattern and then demonstrates sustained, third‑party‑verified change (consistent vulnerability, accountability in therapy/counsel, transparent repair behavior over time) while Grace adopts boundaries and external support. If those changes appear and hold, the strong on‑paper fit could be realized; absent them, the risk of unequal emotional labor and erosion of safety is high.
+Strengths: shared faith, matching life‑stage and parenting timeline, and mutual attraction create a real foundation — both report strong spark and compatible values. Live tensions: Noah’s concealed dismissive‑avoidant pattern (withholding, deflection, resistance to being “managed”) is an inferred trust hazard because it prevents Grace from making an informed choice; Grace’s tendency to over‑function and self‑silence masks problems and fuels a pursue–withdraw loop. Character is decisive: Noah’s low demonstrated willingness to grow is a multiplier that can rot an otherwise solid fit; Grace’s maturity can temporarily paper over breaches but will likely burn her out and perpetuate non‑disclosure. What must change: Noah must disclose the pattern, enter sustained accountability (individual therapy, couples work, and concrete behavioral benchmarks for vulnerability, repair, and shared responsibilities), and demonstrate consistent, observable change over time. Grace must set firm boundaries, avoid rescuing, and require external accountability. Because the hazard is concealed (not a declared dealbreaker), the correct posture is a firm pause — conditional: possible if and only if clear disclosure plus documented, sustained accountability appear.
 
 **Open tensions for the human matchmaker to weigh (practice option C):**
 
-- Noah’s concealed dismissive‑avoidant pattern vs public statements of readiness
-- Grace’s tendency to over‑function and self‑silence masking problems
-- Declared dislike of being 'managed' vs need for accountability in relationship
-- Strong mutual attraction and shared faith vs lived behavior that violates trust
-- What measurable, sustained evidence of Noah’s change would look like (therapy, accountability, transparent repair)
+- Real faith/values alignment vs risk of faith being performative if accountability is absent
+- Strong mutual attraction vs fragile pursue–withdraw erotic reciprocity
+- Noah’s concealed low growth vs Grace’s history of over‑functioning that conceals problems
+- Concealed trust hazard (inferred) — warrants pause rather than immediate rejection
+- Potential path to match: disclosure + measurable, sustained behavioral change (therapy, accountability, benchmarks)

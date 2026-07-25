@@ -1,0 +1,54 @@
+{
+  "pair_id": "pair_11",
+  "design_note": "Binding-constraint swap: a loud interfaith/food-and-alcohol tension is foregrounded, but the real blocker is a quiet, immovable geography plus explicit in-person rhythm needs that make an LDR unworkable.",
+  "person_a": {
+    "name": "Maya Patel",
+    "age": 34,
+    "summary": "Assistant principal at a public middle school in Queens, organized and warm with a dry sense of humor. Known for being steady under pressure and for hosting big, vegetarian family dinners.",
+    "values": {
+      "faith": "Culturally Hindu\u2014celebrates Diwali, keeps a vegetarian kitchen, and occasionally volunteers at her temple\u2019s tutoring program. Not evangelizing and comfortable dating outside her faith, but appreciates respect for her practices and prefers no alcohol kept at home.",
+      "family": "Very close to family; moved her widowed mom into her place after her dad passed and is the court-appointed guardian for her 16-year-old brother through high school. Wants kids in the near-ish future (open to adoption/fostering) and is big on Sunday family lunches.",
+      "career": "Mission-driven and stable\u2014tenured educator finishing her school leadership certification. Chose impact over income and is proud of building teacher teams; recently signed on to a tuition-reimbursement agreement that requires staying in NYC schools for several years."
+    },
+    "attraction": {
+      "stated_type": "Grounded, family-oriented men who show up reliably, can banter, and aren\u2019t threatened by a woman with a calendar and a cause.",
+      "self_described_spark_with_b": "We met after a panel in Chicago on tech and ethics\u2014he asked thoughtful questions and then sent me a playlist of songs from the cities we\u2019d lived in. Easy laugh, steady eye contact, and he didn\u2019t flinch when I said my kitchen\u2019s veg-only."
+    },
+    "emotional_profile": {
+      "maturity": "Calm under fire\u2014she writes tough emails but sends them the next morning, apologizes when she\u2019s short, and loops back to repair. Facilitates restorative circles at school and asks for feedback from her staff after observations.",
+      "attachment_style": "Earned-secure with light anxious edges\u2014history of overfunctioning in past relationships, now names needs early (\"I love routine; Tuesdays are my exhale night\"). She slows down when she feels rushed and requests clarity instead of mind-reading.",
+      "growth_orientation": "Weekly journaling and a standing monthly therapy session. Took a de-escalation course after a hallway fight and uses the skills at home. When her last LDR frayed, she initiated a post-mortem call to understand her own patterns."
+    },
+    "life_stage": "Mid-30s, caretaker-sandwich season. Co-leading a school turnaround, finishing certification by spring, and anchored in Queens for at least 4\u20135 years due to guardianship, her mom\u2019s care routines, and a tuition-reimbursement clause tied to NYC public schools.",
+    "dealbreakers": [
+      "Disrespect toward my family or faith practices",
+      "Substance-heavy lifestyle or keeping alcohol in the home",
+      "Financial recklessness (e.g., hidden debts, gambling)"
+    ]
+  },
+  "person_b": {
+    "name": "Daniel Alvarez",
+    "age": 36,
+    "summary": "Seattle-based senior product manager at a health-tech startup; ex-Amazon. Warm, direct communicator who sings baritone in his church choir and hosts backyard BBQs for his neighbors.",
+    "values": {
+      "faith": "Practicing Catholic\u2014Mass most Sundays (choir), observes Lent, and finds community service through church. Wants any future kids baptized, but open to an interfaith home where holidays and traditions are shared.",
+      "family": "Divorced amicably with a 7-year-old daughter (Sof\u00eda) he has 50/50 custody of; co-parents respectfully (does not badmouth his ex) and schedules his product launches around her school plays. Open to one more child in 2\u20134 years, pace depending on the relationship.",
+      "career": "Ambitious but boundary-aware\u2014no Slack after 7 pm unless it\u2019s launch week. Has an equity refresh vesting over the next 4 years and mentors Latino PMs. Enjoys building patient-centered tools more than chasing the next title."
+    },
+    "attraction": {
+      "stated_type": "Warm, grounded women who challenge me kindly and have their own anchor outside the relationship.",
+      "self_described_spark_with_a": "Her story about restorative justice gave me chills\u2014she leads with heart and receipts. We closed the hotel bar with ginger beer for her and a pilsner for me, and I left wanting to plan a museum afternoon just to keep the conversation going."
+    },
+    "emotional_profile": {
+      "maturity": "Handles conflict by proposing a time to talk, not texting essays. Took a co-parenting class during the divorce and still uses the script. Keeps a shared calendar and follows through\u2014he once moved a sprint review to make Sof\u00eda\u2019s dentist appointment and told his VP why.",
+      "attachment_style": "Leans secure with a historical anxious streak under work stress\u2014used to over-gift as a fixer; now asks \"Do you want comfort or solutions?\" and is fine with \"Let\u2019s table this till tomorrow.\"",
+      "growth_orientation": "Therapy for a year post-divorce; reads NVC and leads a monthly men\u2019s circle at church. After a past LDR fizzled, he debriefed with his ex to own his part (he needs weekly in-person touchpoints)."
+    },
+    "life_stage": "Thirties dad rhythm\u2014week-on/week-off custody, choir rehearsals on Thursdays, and a product roadmap he\u2019s proud of. Geographically anchored to the Seattle area for the next decade to be near Sof\u00eda and maintain school/community continuity; prefers partners within easy driving distance to build weeknight rituals.",
+    "dealbreakers": [
+      "Unwillingness to engage with my daughter\u2019s life kindly",
+      "Heavy partying or frequent intoxication",
+      "Contempt for faith or community service"
+    ]
+  }
+}

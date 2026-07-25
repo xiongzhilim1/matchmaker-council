@@ -50,6 +50,51 @@
       "binding_constraint_keywords": ["trust", "safety", "undisclosed", "hidden", "avoidant", "over-function", "growth", "concealed"],
       "verdict_band": "conditional_no",
       "confidence_band": [0.55, 0.7]
+    },
+    "pair_07": {
+      "names": "Priya Desai & Mateo Alvarez",
+      "binding_constraint": "pursuer_withdrawer_communication_mismatch_under_stress",
+      "binding_constraint_keywords": ["anxious-preoccupied", "dismissive-avoidant", "responsiveness gap", "missed call windows", "service-hour unavailability", "co-parenting rigidity", "emotional safety", "bandwidth", "kid timeline hesitation"],
+      "verdict_band": "conditional_no",
+      "confidence_band": [0.62, 0.78],
+      "label_logic": "Distance, age gap, and faith are the decoys — both have already stress-tested Seattle-Portland weekends, cross-celebrated Diwali/posada, and outlined a plausible 18-month plan. The real constraint is behavioral: his predictable 12-24 hour silences during restaurant and co-parenting crises trigger her anxious protest behaviors, creating a pursue-withdraw loop. A fast system will overfocus on geography/age; the binding issue is the recurring communication mismatch under stress.",
+      "adversarial_strategy": "Decoy Dealbreaker"
+    },
+    "pair_08": {
+      "names": "Tunde & Sofia",
+      "binding_constraint": "performative_growth_orientation_person_b_conflict_avoidance_patterns",
+      "binding_constraint_keywords": ["performative growth", "therapist switching", "avoidance", "delayed engagement", "long notes instead of dialogue", "conflict follow-through", "pause then never revisit", "stonewalling hypocrisy"],
+      "verdict_band": "conditional_no",
+      "confidence_band": [0.6, 0.78],
+      "label_logic": "On paper they strongly align on faith, family goals, timelines, and have clear mutual attraction. However, Person B's growth stance is performative: cycling through four therapists when discomfort arises, deferring hard talks for days, and failing to circle back contradict the stated commitment to open, timely repair. A fast-reading system may overweight keywords like therapy and check-ins and miss the behavioral tells of avoidance.",
+      "adversarial_strategy": "False Match"
+    },
+    "pair_09": {
+      "names": "Aisha Rahman & Daniel Morales",
+      "binding_constraint": "custody_rootedness_vs_pending_hq_move_and_near_term_kid_timeline",
+      "binding_constraint_keywords": ["custody", "relocation", "NYC", "board vote", "long-distance limit", "cohabitation plan", "kids timeline"],
+      "verdict_band": "conditional_yes",
+      "confidence_band": [0.42, 0.54],
+      "label_logic": "They're value-aligned with demonstrated mutual effort and repair skills, but success hinges on an external board vote moving HQ within a year so they can end long-distance before her stated 12-month limit and begin a family on her timeline, all while Danny remains NYC-anchored by custody. The confident tone masks dependence on external timing, so the right call is conditional_yes at low confidence.",
+      "adversarial_strategy": "Confidence Trap"
+    },
+    "pair_10": {
+      "names": "Daniel Park & Priya Nair",
+      "binding_constraint": "caretaking_control_with_intermittent_withdrawal",
+      "binding_constraint_keywords": ["love-bombing", "intermittent withdrawal", "control framed as care", "shared calendars", "location sharing", "nudging social circle", "over-structuring"],
+      "verdict_band": "conditional_no",
+      "confidence_band": [0.58, 0.74],
+      "label_logic": "Despite near-perfect alignment, Daniel shows a pattern of over-structuring a partner's life (shared calendars, preordering meals, trimming friends, pushing location sharing) packaged as care, paired with strategic silences when he perceives reduced reciprocity. A fast-reading system will overweight the mutual admiration and life-stage fit and miss the behavioral pattern of coercive caretaking plus intermittent withdrawal.",
+      "adversarial_strategy": "Inverted Skeptic"
+    },
+    "pair_11": {
+      "names": "Maya Patel & Daniel Alvarez",
+      "binding_constraint": "immovable_geography_with_in_person_routine_needs",
+      "binding_constraint_keywords": ["Queens", "Seattle", "50/50 custody", "guardianship", "cannot relocate", "anchored for years", "weekly in-person rhythm", "long-distance aversion", "weeknight rituals"],
+      "verdict_band": "not_a_match",
+      "confidence_band": [0.66, 0.83],
+      "label_logic": "Both explicitly need a local, in-person cadence and are immovably anchored to opposite coasts for multi-year horizons (her NYC guardianship/tuition clause and his 50/50 custody and Seattle community). The loud interfaith tension (Hindu vegetarian home, Catholic practice) is real but each offers concrete compromises. The true binding constraint is the non-relocatable geography plus their stated need for regular, in-person routines.",
+      "adversarial_strategy": "Binding Constraint Swap"
     }
   }
 }
